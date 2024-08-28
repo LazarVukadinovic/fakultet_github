@@ -1,0 +1,87 @@
+\documentclass[]{article}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{enumerate}
+\usepackage{indentfirst}
+
+\title{Prvi kolokvijum}
+\date{April 11, 2021}
+
+\renewcommand{\contentsname}{Sadr\v zaj}
+
+\begin{document}
+    \maketitle
+    \thispagestyle{empty}
+    \newpage
+    \centerline{Lazar Vukadinovi\' c}
+    \section{Uvod}
+    \begin{center}
+        \begin{tabular}{|l|l|l|l|}
+        \hline
+        \textbf{Level 1} & \textbf{Level 2} & \textbf{Level 3} & \textbf{Info}\\
+        \hline
+        \multirow{6}{*}{System} & \multirow{4}{*}{System Apps} & \multirow{3}{*}{SystemEnv} & App Test\\
+        \cline{4-4}
+        & & & App Memory\\
+        \cline{4-4}
+        & & & App Test\\
+        \cline{3-4}
+        & & \multicolumn{2}{|r|}{\itshape{SystemEnv2}}\\
+        \cline{2-4}
+        & \multirow{2}{*}{System Memory} & \multirow{2}{*}{MemoryTest} & Memory Fune\\
+        \cline{4-4}
+        & & & Apes Test\\
+        \hline
+        \end{tabular}
+    \end{center}
+    \begin{enumerate}
+        \item \textbf{Date su funkcije} $f(x)$ i $g(x)$ u zapisu:
+        $$
+            f(x)= \left\{
+                \begin{array}{lr}
+                    0, & \, x<0\\
+                    \frac{f_1}{h}x, & \, 0 \leq x \leq h\\
+                    0, & \, x>h
+                \end{array}
+             \right.
+             , \quad g(x)=\left\{
+                \begin{array}{lr}
+                    g_2, & \, x<0\\
+                    \frac{g_1}{h}x, & \, 0 \leq x \leq h\\
+                    \frac{g_1}{h}x, & \, 0
+                \end{array}
+             \right.
+        $$
+        Za vi\v se detalja pogledati [\ref{1}]
+        \item Loss funkcija za Mask RCNN:
+        \begin{equation}
+        \label{1}
+            \lambda_{mask}=-\frac{1}{m^2} \sum\limits_{1 \leq i,j \leq m}{[y_{ij}^1 \log{y_{ij}}+(1-y_{ij}^1) \log{(1-y_{ij}^1)}]}
+        \end{equation}
+        Za vi\v se informacija pogledati [\ref{2}]
+        \item Data je jedna\v cina:
+        \begin{equation}
+        \label{2}
+            E=\int\limits_0^{\infty}{\frac{x^3}{e^x-1}dx}=\int\limits_0^{\infty}{(x^3 \sum\limits_{n=1}^{\infty}{e^{-nx}})dx}=\sum\limits_{n=1}^{\infty}{x^3 e^{-nx}dx}
+        \end{equation}
+        \begin{enumerate}[a)]
+            \item Prona\' ci E iz jedna\v cine (\ref{2}).
+            \item Prokomentarisati dobijeni rezultat.
+        \end{enumerate}
+    \end{enumerate}
+    \section{Modelovanje}
+    \begin{multicols}{2}
+        {\itshape Latent Dirichlet Allocation}\footnote{pogledati literaturu za vi\v se detalja}, nadalje LDA, je najjednostavniji pristup problemu modelovanja tema, i njegova primena je predmet ovog rada. Osnovna karakteristika LDA algoritma je mogu\' cnost \textbf{izdvajanja} tema koje su prisutne u nekoj kolekciji dokumenata bez ikakvog dodatnog znanja. Dakle, primenom LDA-a mogu\' ce je otkriti teme o kojima govori zadati skup dokumenata a da se pritom nikakvo dodatno ekspertsko znanje ne uklju\v cuje. Polazna pretpostavka LDA-a je da svaki dokument u kolekciji dokumenata "govori o" više tema. Opravdanost ove pretpostavke bi\' ce ilustrovana na nekoliko primera. Dobro je poznat roman Branka \' Copica "Orlovi rano lete". Ukoliko bi neko ko nije pro\v citao ovu knjigu želeo da zna "o \v cemu se radi" u njoj, najverovatnije bi dobio odgovor da je u pitanju knjiga koja se bavi do\v zivljajima grupe de\v caka na po\v cetku Drugog svetskog rata. Iako je to naj\v siri okvir romana, u njemu su prisutne i teme o ljubavi, dru\v zenju, prijateljstvu, ratu, pustolovinama itd. Prema tome, roman, op\v ste gledano, obuhvata vi\v se tema, ali se sa nekoliko njih intenzivno bavi.
+    \end{multicols}
+    \section{Zaklju\v cak}
+    Naravno, postoje re\v ci koje se mogu svrstati u vi\v se od jedne teme. Takve re\v ci bi bile obojene sa dve ili više boja, ali zbog preglednosti slike, takvi slu\v cajevi su izostavljeni.
+    \newpage
+    \thispagestyle{empty}
+    \begin{thebibliography}{99}
+        \bibitem{mell}  Mell,  Peter,  and  Tim  Grance.  The  NIST  definition  of  cloud computing. (2011)
+        \bibitem{buyya}  Buyya, Rajkumar, et al. "Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility." Future Generation computer systems 25.6 (2009): 599-616.
+    \end{thebibliography}
+    \newpage
+    \thispagestyle{empty}
+    \tableofcontents
+\end{document}

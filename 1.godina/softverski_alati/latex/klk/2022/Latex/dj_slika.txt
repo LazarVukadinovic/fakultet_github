@@ -1,0 +1,12 @@
+\def\dj{d\kern-0.4em\char"16\kern-0.1em}
+\def\Dj{\mbox{\raise0.3ex\hbox{-}\kern-0.4em D}}
+
+
+\usepackage{graphicx}
+
+
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.7]{slika.png}
+\end{figure}

@@ -1,0 +1,78 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{geometry}
+\usepackage{multirow}
+
+\geometry{
+top=4cm,
+right=4cm,
+bottom=3cm,
+left=4cm
+}
+
+\title{Malo matematike}
+\author{Student}
+\date{April 12, 2016}
+\renewcommand{\contentsname}{Sadr\v zaj}
+
+\begin{document}
+    \maketitle
+    \thispagestyle{empty}
+    \newpage
+    
+    \tableofcontents
+    \thispagestyle{empty}
+    \newpage
+    
+    \section{Prva pismena vezba}
+    \begin{enumerate}
+        \item Resiti jednacinu: $|x+1|-|x|+3|x-1|-2|x-2|=x+2$
+        \item Resiti nejednacinu: $\frac{a^x}{a-2}- \frac{x-1}{3^y} < \frac{2x+3}{\sqrt[3]{x^5+5x}}, a \neq 2.$
+    \end{enumerate}
+    
+    \section{Laplas - ko to bese ?}
+    Jedna raspodela verovatno´ce nosi danas njegovo ime, a Laplace-ova teorema dokazuje da u grani?cnom slu?caju binomna raspodela prelazi u normalnu. U matematici imamo jo?s i Laplace-ovu transformaciju, Laplace-ov niz, Laplace-ov vektor, Laplace-ove integrale:
+    $$
+        \int\limits_0^\infty{\frac{\cos{\beta x}}{\alpha^2+x^2}}=\frac{\pi}{2\alpha}e^{-\alpha\beta}; \qquad
+        \int_0^\infty{\frac{x \sin{\beta x}}{\alpha^2+x^2}}=\frac{\pi}{2}e^{-\alpha\beta}; \qquad
+        \alpha,\beta > 0,
+    $$
+    \section{Zadaci za vezbanje}
+    \begin{enumerate}
+        \item Za koje vrednosti realnog parametra $m$ je funkcija
+        $$
+            f(x)= \left[
+                \log_{\frac{1}{2}}{\frac{x^2+(m-3)x+1}{2x^2-5x+5}}
+             \right]^{-\frac{1}{2}}
+        $$
+        definisana za svako realno $x$?
+        \item Resiti jednacinu $x\sqrt{x\sqrt{x\sqrt{x\cdots}}}=4$
+    \end{enumerate}
+    
+    \newpage
+    \section{Bulova algebra}
+    Neka je mera na nekoj Bulovoj algebbri $\beta = (B,+,\cdot,-,0,1)$. Tada vazi :
+    \begin{enumerate}
+        \item $\mu(0)=0$
+        \item Za $x,y \in B, \mu(x+y) \leq \mu(x) + \mu(y).$
+        \item Neka je $m,k \in N, k \leq m, s^{m,k}$ skup svih nizova prirodnih bojeva $(p_i)_{i \leq k}$ takvih da je $1 \leq p_1 < \ldots < p_k \leq m.$ Tada za proizvoljne brojeve $b_1, \ldots ,b_m \in B$ vazi:
+            $$
+                \sum_{k \leq m}{\mu(b_k)}=\sum_{k \leq m}{\mu(\sum_{p \in S^{m,k}}{\prod_{i \leq k}{b_{p_i}}})}.
+            $$
+    \end{enumerate}
+    \subsection{Istinitosne tabele}
+    \begin{equation}
+        \begin{array}{|c|c|c|c|c|c|}
+        \hline
+        p & q & p \wedge q & p \vee q & p \Rightarrow q & p \Leftrightarrow q\\
+        \hline
+        \top & \multirow{2}{*}{$\top$} & \multicolumn{4}{|c|}{\top}\\
+        \cline{1-1} \cline{3-6}
+        \bot & & \bot & \multicolumn{2}{|c|}{\top} & \bot \\
+        \hline
+        \top & \multirow{2}{*}{$\bot$} & \bot & \multicolumn{2}{|c|}{\top} & \bot\\
+        \cline{1-1} \cline{3-6}
+        \bot & & \multicolumn{2}{|c|}{\bot} & \top & \top \\
+        \hline
+        \end{array}
+    \end{equation}
+\end{document}

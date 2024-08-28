@@ -1,0 +1,32 @@
+<grupa>
+    <student indeks="1" godina="2015">
+        <ime>Marko</ime>
+        <prezime>Petrovic</prezime>
+        <ocene>
+            <ocena>6</ocena>
+            <ocena>9</ocena>
+            <ocena>10</ocena>
+        </ocene>
+    </student>
+
+    <student indeks="2" godina="2015">
+        <ime>Miomir</ime>
+        <prezime>Zivkovic</prezime>
+        <ocene>
+            <ocena>10</ocena>
+            <ocena>8</ocena>
+            <ocena>9</ocena>
+            <ocena>9</ocena>
+            <ocena>7</ocena>
+        </ocene>
+    </student>
+
+    <student indeks="3" godina="2015">
+        <ime>Aleksandar</ime>
+        <prezime>Tomovic</prezime>
+        <ocene>
+            <ocena>6</ocena>
+            <ocena>6</ocena>
+        </ocene>
+    </student>
+</grupa>

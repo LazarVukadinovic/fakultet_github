@@ -1,0 +1,89 @@
+# 1. Kolokvijum 2022/2023
+
+#1. prvi zadatak
+#a
+#a = -3 > -24
+#print(a)                               # True
+
+#b
+#print(min(min(40, 18), abs(-18)))      # 18
+
+#c
+#a, b = 30, 37
+#y = a % b
+#x = a / a
+#print(x,y)                             # 1.0 30
+
+#d
+#p= - 5 * - 5 + 5 * - 5 * - 5
+#print(p)                               # 150
+
+
+
+#2. zadatak
+#a
+#x = int(input())
+#y = int(input())
+#if (x+y):
+#    print(x+y)                         # (nista ne stampa)
+
+#b
+#x = int(input())
+#y = input()
+#if (y):
+#    print(x+y)                         # izjavljuje gresku
+
+
+
+#3. zadatak
+#d = float(input())                      # 10
+#n = int(input())                        # 4
+#s = float(input())                      # 10
+
+#razmak = (d*100-n*s)/(n+1)
+#print(razmak)                           # 192.0
+
+
+
+#4. zadatak
+# import math
+#r = int(input())                       # 1
+#H = int(input())                       # 1
+#zapreminaValjka = r ** 2 * math.pi * H # 3.14
+
+#a = int(input())                       # 1
+#b = int(input())                       # 1
+#c = int(input())                       # 1
+#zapreminaKvadra = a * b * c            # 1
+
+#kanisterUBure = zapreminaValjka // zapreminaKvadra
+#print(kanisterUBure)                   # 3.0
+
+
+
+#5. zadatak
+#stepeni = int(input())
+#sati = stepeni//30
+#minuti = int(((stepeni/30)-sati)*60)
+#print(sati, ':', minuti)
+
+
+
+
+#6. zadatak
+#psenicnoBrasno = int(input())
+#kukuruznoBrasno = int(input())
+
+#upotrebljenoPsenicnoBrasno = psenicnoBrasno
+
+#if(psenicnoBrasno <= kukuruznoBrasno/2):
+#    upotrebljenoKukuruznoBrasno = 2*psenicnoBrasno
+#else:
+#    while(upotrebljenoPsenicnoBrasno > kukuruznoBrasno/2):
+#        upotrebljenoPsenicnoBrasno = upotrebljenoPsenicnoBrasno - 1
+#    upotrebljenoKukuruznoBrasno = 2 * upotrebljenoPsenicnoBrasno
+
+#ukupnoBrasno = upotrebljenoPsenicnoBrasno + upotrebljenoKukuruznoBrasno
+#potrebnaVoda = ukupnoBrasno / 2
+
+#print(upotrebljenoPsenicnoBrasno, upotrebljenoKukuruznoBrasno, potrebnaVoda)

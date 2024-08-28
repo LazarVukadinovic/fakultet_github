@@ -1,0 +1,32 @@
+{
+    "studenti":[
+        {
+            "indeks":1,
+            "godina":2017,
+            "ime":"Petar",
+            "prezime":"Milosavljevic",
+            "ocene":[8,7,9,6]
+        },
+        {
+            "indeks":2,
+            "godina":2017,
+            "ime":"Milos",
+            "prezime":"Petrovic",
+            "ocene":[9,9,7,6,8,9]
+        },
+        {
+            "indeks":3,
+            "godina":2017,
+            "ime":"Mihajlo",
+            "prezime":"Peric",
+            "ocene":[10,7,8,10,7,7]
+        },
+        {
+            "indeks":4,
+            "godina":2017,
+            "ime":"Ivan",
+            "prezime":"Dimovic",
+            "ocene":[6,6,6,7,7,8,6,9]
+        }
+    ]
+}

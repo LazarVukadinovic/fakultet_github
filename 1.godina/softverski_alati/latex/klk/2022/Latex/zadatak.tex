@@ -1,0 +1,127 @@
+\documentclass[12pt,leqno]{article}
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{enumerate}
+\usepackage{multirow}
+
+\def\dj{d\kern-0.4em\char"16\kern-0.1em}
+\def\Dj{\mbox{\raise0.3ex\hbox{-}\kern-0.4em D}}
+
+\geometry{
+    top=3cm,
+    bottom=3cm,
+    left=2cm,
+    right=2cm
+}
+\renewcommand{\contentsname}{Sadr\v zaj}
+\pagestyle{myheadings}
+\markright{Kolokvijum 2023}
+
+\title{Prvi kolokvijum iz softverskih alata}
+\author{Lazar Vukadinovi\' c}
+\date{April 8, 2023}
+
+\begin{document}
+    \maketitle
+    \thispagestyle{empty}
+    \newpage
+    
+    \tableofcontents
+    \thispagestyle{empty}
+    \newpage
+    
+    \section{LaTex}
+    \begin{multicols}{3}
+        LaTeX\footnote{LAH-tekh, obi\v cno se izgovara kao LAH-tek ili LAY-te} je opisni jezik i sistem za pripremu dokumenata. Razlikuje se od tipi\v cnih procesora za obradu teksta kao \v sto su Microsoft Word, LibreOffice i Apple Pages u kom pisac koristi obi\v can tekst za razliku od formatiranog teksta, oslanjaju\' ci se na ozna\v cavanje konvencija da bi definisao op\v stu strukturu nekog dokumenta (kao \v sto su \v clanak, knjiga i pismo), da stilizuje tekst kroz dokumenta (kao \v sto je podebljano i isko\v seno), i doda citate i ukr\v stanje. TeX distribucija kao \v sto je TeX Live ili MiKTeX se koristi za proizvodnju izlaznog fajla (kao \v sto su PDF ili DVI) pogodnog za \v stampanje ili digitalnu distribuciju.
+    \end{multicols}
+    
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[scale=0.7]{slika.png}
+        \label{fig:latex}
+        \caption{Latex projekat}
+    \end{figure}
+    
+    \section{Primena Latex-a}
+    Krajem sedamdesetih godina XX veka, Donald Knuth, profesor Univerziteta u Stenfordu kreirao je programski paket za obradu teksta na ra?cunaru, koji je nazvao TEX, a namenjen je posebno za pripremu publikacija koje sadr\v ze matemati?cke formule.
+    Naziv poti\v ce od gr\v cke re\v ci umetnost, ve\v stina. Upotreba TEX-a bila je dosta komplikovana. Zato je po\v cetkom osamdesetih godina Leslie Lamport razvio program LATEX koji predstavlja jednu ekstenziju TEX-a. LATEX je tzv. makro paket \v cije su komande definisane pomo\' cu niza komandi TEX-a. LATEX nije WYSIWYG (,,what you see is what you get”) tekst procesor.
+    Tekst koji se kuca nije onog oblika koji \' ce biti u zavr\v snom dokumentu. Proces formiranja nekog dokumenta i njegovog stampanja u LATEX-u sastoji se iz vi\v se faza:
+    \begin{enumerate}[1)]
+    \item Formiranje ulazne datoteke koja sadr\v zi tekst dokumenta koji se obra\dj uje i komande koje odred\dj uju kako \' ce taj tekst biti formatiran.
+        Mo\v ze se koristiti bilo koji editor teksta, ali preporuka je da se koristi WinEdt, koji je posebno prilago\dj en za TEX i LATEX. Ulazna datoteka se snima sa ekstenzijom tex, npr. proba.tex.
+    \item Obrada ulazne datoteke programom LATEX. Ako se koristi WinEdt onda se jednostavno levim tasterom mi\v sa klikne na ikonicu LATEXu Tool Bar-u (ili ekvivalentno Shift+Ctrl+L preko tastature). Rezultat te obrade su nove datoteke: proba.aux, proba.log i proba.dvi. Pored njih,a zavisno od sadr\v zaja ulazne datoteke, mogu se dobiti i neke druge datoteke. Datoteke sa ekstenzijama aux i log su ASCII datoteke i njihov sadr\v zaj se mo\v ze pro\v citati, \v sto nije slu\v caj sa datotekom sa ekstenzijom dvi (\v cija ekstenzija poti\v ce od re\v ci ,,device independent”, tj. nezavisan od ured\dj aja, \v sto zna\v ci da se za dalju obradu i dobijanje izlaza na razli\v citim ured \dj ajima mogu koristiti sve verzije LATEX-a, pri \v cemu \' ce svi ti izlazi biti identi\v cni).
+    \item Pregled dokumenta na ekranu monitora. Komanda kojima se na osnovu datoteke sa ekstenzijom dvi dobija slika na ekranu zavisi od vrste ra\v cunara i verzije programa. Ako se koristi MikTeX, onda se dvi datoteka otvara programom Yap. On se iz WinEdt-a poziva tako \v sto se levim tasterom mi\v sa klikne na ikonicu DVI u Tool Bar-u (ili ekvivalentno Shift+Ctrl+V preko tastature).
+    \end{enumerate}
+    \subsection{\itshape{Primer izgleda tabele u Latex-u}}
+    \smallskip
+    \begin{center}
+        \begin{tabular}{|c|c|c|c|c|c|c|}
+        \hline
+        \multirow{2}{*}{A} & \multirow{2}{*}{B} & \multicolumn{5}{c|}{C} \\
+        \cline{3-7}
+        & & i & ii & iii & iv & v \\
+        \hline
+        red & red & 1 & 2 & 3 & 4 & 5\\
+        \hline
+        red & red & 1 & 2 & 3 & 4 & 5\\
+        \cline{2-7}
+        red & red & 1 & 2 & 3 & 4 & 5\\
+        \hline
+        red & red & 1 & 2 & 3 & 4 & 5\\
+        \hline
+        \end{tabular}
+    \end{center}
+    \newpage
+    
+    \subsection{Primer testa}
+    \begin{enumerate}
+        \item Dat je iterativni proces
+        \begin{equation}
+            \label{1}
+            X_{n+1}=X_n(2I-AX_n)\quad (n=0,1,\ldots)
+        \end{equation}
+        za nala\v zenje inverzne matrice $A^{-1}$ matrice $A$, gde je $X_0$ proizvoljna matrica.
+        \begin{enumerate}[a)]
+            \item Ako se uvede $C_n=I-AX_n$, dokazati da je $C_3=C_0^{2^3}$
+            \item Koriste\' ci iterativni proces (\ref{1}) na\' ci inverznu matrici $A^{-1}$ matrice
+                $$
+                    A=\left[ 
+                        \begin{array}{ccc}
+                        3 & 1 & 6\\
+                        2 & 1 & 3\\
+                        1 & 1 & 1\\
+                        \end{array}
+                    \right].
+                $$
+        \end{enumerate}
+        \item Koristeci matricu $A$ iz prethodnog zadatka \textbf{Gauss-ovim metodom sa izborom glavnog elementa} resiti sistem
+            $$
+                Ax=\left[
+                        \begin{array}{ccc}
+                        1 & 0 & \sqrt{22}\\
+                        \end{array}
+                    \right]^T
+            $$
+        \item Odrediti parametre i ostatak u kvadraturnoj formuli \textbf{Gaussovog tipa}
+            \begin{equation}
+                \label{2}
+                \int\limits_{-1}^1{\frac{1}{1+x^2}f(x)dx}=A_1f(x_1)+A_2f(x_2)+R_2(f),
+            \end{equation}
+             a zatim preimenom formule \ref{2} pribli\v zno izra\v cunati integral
+             $$
+                \int\limits_0^1{\frac{\sin{x}}{1+x^2}dx}
+             $$
+        \item Nacrtati grafik slede\' ce funkcije:
+        \begin{equation}
+            f(x)=\left\{ 
+                \begin{array}{rl}
+                    \sqrt[5]{\sqrt{\frac{x+12}{5}}} \cdot \log_e{4\pi}, & \; x>12\\
+                    \lim{n \rightarrow 6}{\frac{x^2n}{n}}, & \; -6 \leq \leq 12\\
+                    \sum\limits_{n=1}^{+\infty}{x^{x^3} \cdot \frac{1}{n}}, & \; inace\\
+                \end{array}
+             \right.
+        \end{equation}
+    \end{enumerate}
+\end{document}

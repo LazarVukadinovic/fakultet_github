@@ -1,0 +1,15 @@
+﻿--- Margine su po 2 cm
+
+ Svaka periodična funkcija, po teoriji Furijeovih redova, može se predstaviti pomoću beskonačno monogo ortogonalnih funkcija. Kako ovaj način predstavljanja funkcije pruža mogućnost sasvim drugačije analize u odnosu na analizu u vremenskom domenu, postavlja se pitanje da li je moguće istu ideju proširiti na funkcije koje nisu periodične. Ako se neperiodična funkcija posmatra kao periodična sa beskonačno velikim periodom, Furijeova transformacija proširuje ovaj koncept razlaganja funkcija i na neperiodične funkcije.
+ 
+ 
+Latent Dirichlet Allocation}, nadalje LDA, je najjednostavniji pristup problemu modelovanja tema   i njegova primena je predmet ovog rada.
+Osnovna karakteristika LDA algoritma je mogućnost  izdvajanja tema koje su prisutne u nekoj kolekciji dokumenata bez bilo kakvog dodatnog znanja. Dakle, primenom LDA-a moguće je otkriti teme "o kojima govori" zadati skup dokumenata a da se pritom nikakvo dodatno ekspertsko znanje ne uključuje.
+
+Polazna pretpostavka LDA-a je da svaki dokument u kolekciji dokumenata "govori o" više tema. Opravdanost ove pretpostavke biće ilustrovana na nekoliko primera.
+
+Dobro je poznat roman Branka Ćopića "Orlovi rano lete". Ukoliko bi neko ko nije pročitao ovi knjigu želeo da zna "o čemu se radi" u njoj, najverovatnije bi dobio odgovor da je u pitanju knjiga koja se bavi doživljajima grupe dečaka na početku Drugog svetskog rata. Iako je to najširi okvir romana, u njemu su prisutne i teme o ljubavi, druženju, prijateljstvu, ratu, pustolovinama itd. Prema tome, roman, opšte gledano, obuhvata više tema, ali se sa nekoliko njih intenzivno bavi.
+ 
+ Generalno, proces zaključivanja tematike dokumenta može se ilustrovati sledećim primerom.
+Na Slici  predstavljen je članak  Seeking Life's Bare(Genetic) Necessities koji govori o upotrebi analize podataka za određivanje broja gena koji organizam treba da poseduje da bi preživeo (u evolutivnom smislu). Može se uočiti da su tri najzastupljenije oblasti u ovom tekstu - analiza podataka, evolutivna biologija i genetika. Na slici su ručno označene neke reči koje pripadaju ovim oblastima. Reči koje se mogu svrstati u oblast   analize podataka} označene su plavom bojom, reči koje pripadaju   genetici} označene su žutom bojom, dok su reči koje se odnose na   evolutivnu biologiju} označene roze bojom. Ukoliko bi se ova procedura primenila na svaku reč teksta, jasno bi se uočilo koliko je koja tema zastupljena u ovom tekstu. Matematički,   prisustvo} teme u tekstu se označava odnosom broja reči "obojenih" datom bojom i ukupnog broja reči u tekstu.
+Naravno, postoje reči koje se mogu svrstati u više od jedne teme. Takve reči bi bile obojene sa dve ili više boja, ali zbog preglednosti slike, takvi slučajevi su izostavljeni.

@@ -1,0 +1,60 @@
+Margine:
+  top=bottom=3cm
+  left=right=2cm
+Tip dokumenta:
+  article
+  12pt
+
+* Postaviti numeraciju formula sa leve strane
+* Dodati tražene formule unutar teksta
+* Dodati fusnotu u prvom pasusu umestno teskta koji se nalazi u zagradi (odnosi se na zgardu pored prve reci u pasusu)
+* Dodati reference na jednačine (1) i (2) umesto u tekstu zadataka (pogledati pdf)
+* Kod formule sa determinantom i fukncijom (zadatak 1, 2 i 4) postaviti velike zagrade (pogledati kako je u PDF-u)
+* Kreirati stranu sa sadržajem tako da ona ne sadrži numeraciju strane
+
+
+TEKST
+
+LaTex
+
+LaTeX(LAH-tekh, obiˇcno se izgovara kao LAH-tek ili LAY-tek) je opisni jezik i sistem za pripremu dokumenata. Razlikuje se od tipiˇcnih procesora za obradu teksta kao ˇsto su Microsoft Word, LibreOffice iApple Pages u kom pisac koristi
+obiˇcan tekst za razliku od formatiranog teksta, oslanjajuˇci se na oznaˇcavanje konvencija da bi definisao opˇstu strukturu nekog dokumenta (kao ˇsto su ˇclanak, knjiga i pismo), da stilizuje tekst kroz dokumenta (kao ˇsto je podebljano i iskoˇseno), i doda citate i ukrˇstanje. TeX distribucija kao ˇsto je TeX Live ili MiKTeX se koristi za proizvodnju izlaznog fajla (kao ˇsto su PDF ili DVI) pogodnog za ˇstampanje ili digitalnu distribuciju.
+
+
+Primena Latex-a
+
+Krajem sedamdesetih godina XX veka, Donald Knuth, profesor Univerziteta u Stenfordu kreirao je programski paket za obradu teksta na raˇcunaru, koji je nazvao TEX, a namenjen je posebno za pripremu publikacija koje sadrˇze matematiˇcke formule. 
+Naziv potiˇce od grˇcke reˇci umetnost, veˇstina. Upotreba TEX-a bila je dosta komplikovana. Zato je poˇcetkom osamdesetih godina Leslie Lamport razvio program LATEX koji predstavlja jednu ekstenziju TEX-a. LATEX je tzv. makro paket ˇcije su komande definisane pomo ́cu niza komandi TEX-a. LATEX nije WYSIWYG (,,what you see is what you get”) tekst procesor. 
+Tekst koji se kuca nije onog oblika koji ˇce biti u zavrˇsnom dokumentu. Proces formiranja nekog dokumenta i njegovog stampanja u LATEX-u sastoji se iz
+viˇse faza:
+	Formiranje ulazne datoteke koja sadrˇzi tekst dokumenta koji se obrad ̄uje i komande koje odred ̄uju kako  ́ce taj tekst biti formatiran. 
+Moˇze se koristiti bilo koji editor teksta, ali preporuka je da se koristi WinEdt, koji je posebno prilagod ̄en za TEX i LATEX. Ulazna datoteka se snima sa ekstenzijom tex, npr. proba.tex.
+	Obrada ulazne datoteke programom LATEX. Ako se koristi WinEdt onda se jednostavno levim tasterom miˇsa klikne na ikonicu LATEXu Tool Bar-u (ili ekvivalentno Shift+Ctrl+L preko tastature). 
+Rezultat te obrade su nove datoteke: proba.aux, proba.log i proba.dvi. Pored njih,a zavisno od sadrˇzaja ulazne datoteke, mogu se dobiti i neke druge datoteke. Datoteke sa
+ekstenzijama aux i log su ASCII datoteke i njihov sadrˇzaj se moˇze proˇcitati, ˇsto nije sluˇcaj sa datotekom sa ekstenzijom dvi (ˇcija ekstenzija potiˇce od reˇci ,,device independent”, tj. nezavisan od ured ̄aja, ˇsto znaˇci da se za dalju obradu i dobijanje izlaza na razliˇcitim ured ̄ajima mogu koristiti sve verzije LATEX-a, pri ˇcemu  ́ce svi ti izlazi biti identiˇcni).
+	Pregled dokumenta na ekranu monitora. Komanda kojima se na osnovu datoteke sa ekstenzijom dvi dobija slika na ekranu zavisi od vrste raˇcunara i verzije programa. 
+Ako se koristi MikTeX, onda se dvi datoteka otvara programom Yap. On se iz WinEdt-a poziva tako ˇsto se levim tasterom miˇsa klikne na ikonicu DVI u Tool Bar-u (ili ekvivalentno Shift+Ctrl+V preko tastature).
+
+
+
+Primer izgleda tabele u Latex-u
+
+Primer testa
+
+Dat je iterativni proces
+
+***formula***
+
+za nalaˇzenje inverzne matrice ***formula*** matrice ***formula***, gde je ***formula*** proizvoljna matrica.
+	Ako se uvede ***formula***, dokazati da je ***formula***.
+	Koriste ́ci iterativni proces ***referenca na formulu 1*** na ́ci inverznu matricu ***formula*** matrice
+***formula***.
+Koristeci matricu ***formula*** iz prethodnog zadatka Gauss-ovim metodom sa izborom glavnog
+elementa resiti sistem
+***formula***
+Odrediti parametre i ostatak u kvadraturnoj formuli Gaussovog tipa
+***formula***
+a zatim primenom formule ***referenca na formulu 2*** pribliˇzno izraˇcunati integral
+***formula***.
+Nacrtati grafik slede ́ce funkcije:
+***formula***

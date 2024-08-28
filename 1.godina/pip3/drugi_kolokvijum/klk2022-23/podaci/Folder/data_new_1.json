@@ -1,0 +1,571 @@
+[
+  {
+    "created": "2020-12-14T07:37:31Z",
+    "name": "0010",
+    "year": 1998,
+    "composers": [
+      "Toni Wirtanen"
+    ],
+    "artists": [
+      "Apulanta"
+    ],
+    "duration": 271,
+    "has_cover": true,
+    "popularity": 6.02,
+    "genres": [
+      {
+        "name": "Alternative",
+        "is_primary": true
+      },
+      {
+        "name": "Rock",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2020-12-14T07:43:24Z",
+    "name": "008 / Hallaa",
+    "year": 1998,
+    "composers": [
+      "Toni Wirtanen"
+    ],
+    "artists": [
+      "Apulanta"
+    ],
+    "duration": 273,
+    "has_cover": false,
+    "popularity": 6.02,
+    "genres": [
+      {
+        "name": "Alternative",
+        "is_primary": true
+      },
+      {
+        "name": "Rock",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2022-09-13T12:10:56Z",
+    "name": "03 Bonnie And Clyde",
+    "year": 2002,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Jay Z",
+      "Beyonc\u00c3\u00a9"
+    ],
+    "duration": 226,
+    "has_cover": false,
+    "popularity": 95.24,
+    "genres": [
+      {
+        "name": "Hip Hop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2015-07-16T13:21:35Z",
+    "name": "'03 Bonnie & Clyde",
+    "year": 2002,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Jay-Z",
+      "Beyonc\u00c3\u00a9"
+    ],
+    "duration": 225,
+    "has_cover": true,
+    "popularity": 9.35,
+    "genres": [
+      {
+        "name": "Hip Hop",
+        "is_primary": true
+      },
+      {
+        "name": "RnB",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2019-06-20T06:10:54Z",
+    "name": "079me",
+    "year": 2018,
+    "composers": [
+      "Jones",
+      "Jafer"
+    ],
+    "artists": [
+      "B Young"
+    ],
+    "duration": 233,
+    "has_cover": false,
+    "popularity": 95.56,
+    "genres": [
+      {
+        "name": "Hip Hop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2019-05-16T06:21:02Z",
+    "name": "1",
+    "year": 2016,
+    "composers": [
+      "Lowe",
+      "Urbani",
+      "Solveig"
+    ],
+    "artists": [
+      "Sam White",
+      "Martin Solveig"
+    ],
+    "duration": 208,
+    "has_cover": true,
+    "popularity": 91.8,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      },
+      {
+        "name": "Electronic",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2017-07-31T06:06:21Z",
+    "name": "#1",
+    "year": 2006,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Nelly"
+    ],
+    "duration": 255,
+    "has_cover": false,
+    "popularity": 44.53,
+    "genres": [
+      {
+        "name": "Hip Hop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-04-20T08:18:11Z",
+    "name": "10%",
+    "year": 2015,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Maiara & Maraisa"
+    ],
+    "duration": 176,
+    "has_cover": false,
+    "popularity": 91.3,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      },
+      {
+        "name": "Latin",
+        "is_primary": true
+      },
+      {
+        "name": "Folk",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2020-12-10T13:21:05Z",
+    "name": "100",
+    "year": 2019,
+    "composers": [
+      "Lotta Louise Lindgren"
+    ],
+    "artists": [
+      "Ana Diaz"
+    ],
+    "duration": 216,
+    "has_cover": false,
+    "popularity": 83.21,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2009-06-01T19:55:15Z",
+    "name": "100%",
+    "year": 1988,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Lotta Engberg"
+    ],
+    "duration": 179,
+    "has_cover": true,
+    "popularity": 29.17,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-12-31T10:23:56Z",
+    "name": "100.000 Leuchtende Sterne",
+    "year": 2011,
+    "composers": [
+      "Christopher Werner Gronau"
+    ],
+    "artists": [
+      "Anna-Maria Zimmermann"
+    ],
+    "duration": 230,
+    "has_cover": false,
+    "popularity": 100.0,
+    "genres": [
+      {
+        "name": "Electronic",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2019-12-13T08:10:56Z",
+    "name": "10,000 Hours",
+    "year": 2019,
+    "composers": [
+      "Reynolds",
+      "Smyers",
+      "Mooney",
+      "Dillon"
+    ],
+    "artists": [
+      "DAN",
+      "Shay",
+      "Justin Bieber"
+    ],
+    "duration": 184,
+    "has_cover": false,
+    "popularity": 87.33,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      },
+      {
+        "name": "Folk",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2022-03-17T11:41:28Z",
+    "name": "10.000 Luchtballonnen",
+    "year": 2015,
+    "composers": [
+      "Miguel Jose Eric Wiels"
+    ],
+    "artists": [
+      "K3"
+    ],
+    "duration": 219,
+    "has_cover": false,
+    "popularity": 86.96,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      },
+      {
+        "name": "Children",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2018-10-16T14:59:32Z",
+    "name": "10,000 Nights",
+    "year": 2008,
+    "composers": [
+      "Boenloekke"
+    ],
+    "artists": [
+      "Alphabeat"
+    ],
+    "duration": 232,
+    "has_cover": true,
+    "popularity": 93.64,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2017-11-23T16:56:23Z",
+    "name": "10,000 Promises",
+    "year": 1997,
+    "composers": [
+      "Max Martin"
+    ],
+    "artists": [
+      "Backstreet Boys"
+    ],
+    "duration": 249,
+    "has_cover": false,
+    "popularity": 41.84,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-04-15T11:55:27Z",
+    "name": "10,000 Reasons (Bless The Lord)",
+    "year": 2011,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Matt Redman",
+      "Kim Walker-Smith"
+    ],
+    "duration": 262,
+    "has_cover": false,
+    "popularity": 89.39,
+    "genres": [
+      {
+        "name": "Religious",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-08-19T11:40:56Z",
+    "name": "1,000 Faces",
+    "year": 2011,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Randy Montana"
+    ],
+    "duration": 265,
+    "has_cover": false,
+    "popularity": 95.83,
+    "genres": [
+      {
+        "name": "Folk",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-04-14T14:09:44Z",
+    "name": "1000 Graus",
+    "year": 2013,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Renascer Praise"
+    ],
+    "duration": 328,
+    "has_cover": false,
+    "popularity": 55.56,
+    "genres": [
+      {
+        "name": "Soul",
+        "is_primary": true
+      },
+      {
+        "name": "Religious",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2019-05-27T12:04:36Z",
+    "name": "1000 Megawatin totuus",
+    "year": 1982,
+    "composers": [
+      "Kimmo Kuusniemi"
+    ],
+    "artists": [
+      "Kimmo Kuusniemi Band"
+    ],
+    "duration": 252,
+    "has_cover": false,
+    "popularity": 87.88,
+    "genres": [
+      {
+        "name": "Rock",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2013-06-01T17:08:11Z",
+    "name": "1000 Miles",
+    "year": 2009,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "H.E.A.T"
+    ],
+    "duration": 187,
+    "has_cover": true,
+    "popularity": 8.7,
+    "genres": [
+      {
+        "name": "Rock",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2018-08-28T09:47:53Z",
+    "name": "1000 Miles Away",
+    "year": 1991,
+    "composers": [
+      "Faulkner"
+    ],
+    "artists": [
+      "Hoodoo Gurus"
+    ],
+    "duration": 282,
+    "has_cover": false,
+    "popularity": 88.64,
+    "genres": [
+      {
+        "name": "Rock",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2019-10-10T09:31:29Z",
+    "name": "1000 Nights",
+    "year": 2019,
+    "composers": [
+      "Wiilliams",
+      "Samuels",
+      "Sheeran",
+      "Bubose",
+      "Fred",
+      "Sweet"
+    ],
+    "artists": [
+      "Meek Mill",
+      "A Boogie Wit da Hoodie",
+      "Ed Sheeran"
+    ],
+    "duration": 227,
+    "has_cover": false,
+    "popularity": 93.24,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2017-11-29T14:13:03Z",
+    "name": "1000 Oceans",
+    "year": 1999,
+    "composers": [
+      "Tori Amos"
+    ],
+    "artists": [
+      "Tori Amos"
+    ],
+    "duration": 259,
+    "has_cover": false,
+    "popularity": 9.64,
+    "genres": [
+      {
+        "name": "Rock",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": false
+      },
+      {
+        "name": "Alternative",
+        "is_primary": false
+      }
+    ]
+  },
+  {
+    "created": "2018-10-16T17:54:58Z",
+    "name": "1000 Stars",
+    "year": 2009,
+    "composers": [
+      "Braide",
+      "Webb",
+      "Webb"
+    ],
+    "artists": [
+      "Natalie Bassingthwaighte"
+    ],
+    "duration": 258,
+    "has_cover": true,
+    "popularity": 96.55,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2022-08-18T15:33:37Z",
+    "name": "1000 Tr\u00c3\u00a4ume weit (Torner\u00c3\u00b2)",
+    "year": 2009,
+    "composers": [
+      "Claudio Natili"
+    ],
+    "artists": [
+      "Antonia Aus Tirol"
+    ],
+    "duration": 267,
+    "has_cover": false,
+    "popularity": 100.0,
+    "genres": [
+      {
+        "name": "Schlager",
+        "is_primary": true
+      }
+    ]
+  }
+]

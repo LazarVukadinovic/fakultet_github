@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+   <song>
+      <created>2022-05-23T15:52:34Z</created>
+      <name>1000 und 1 Nacht</name>
+      <year>2005</year>
+      <duration>189</duration>
+      <has_cover>False</has_cover>
+      <popularity>100.0</popularity>
+      <composers>
+         <composer>Goeran Walger</composer>
+      </composers>
+      <artists>
+         <artist>Willi Herren</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Schlager</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2022-05-24T15:01:26Z</created>
+      <name>1001 Arabian Nights</name>
+      <year>2006</year>
+      <duration>189</duration>
+      <has_cover>True</has_cover>
+      <popularity>94.12</popularity>
+      <composers>
+         <composer>Tony Cornelissen</composer>
+      </composers>
+      <artists>
+         <artist>CHIPZ</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Eurodance</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2021-04-14T11:32:19Z</created>
+      <name>100 Anos</name>
+      <year>2003</year>
+      <duration>222</duration>
+      <has_cover>False</has_cover>
+      <popularity>55.56</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Falamansa</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Latin</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2022-02-16T09:50:57Z</created>
+      <name>100 AÃ±os</name>
+      <year>2020</year>
+      <duration>194</duration>
+      <has_cover>False</has_cover>
+      <popularity>100.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Carlos Rivera</artist>
+         <artist>Maluma</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Latin</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2022-02-16T09:50:59Z</created>
+      <name>100 Botellas</name>
+      <year>2013</year>
+      <duration>186</duration>
+      <has_cover>False</has_cover>
+      <popularity>100.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Noel Torres</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Latin</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2022-02-24T09:26:50Z</created>
+      <name>100 Bottles Of Pop On The Wall</name>
+      <year>2002</year>
+      <duration>88</duration>
+      <has_cover>True</has_cover>
+      <popularity>100.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Children's Song</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Children</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2017-06-03T18:52:45Z</created>
+      <name>100% Chance of Rain</name>
+      <year>1985</year>
+      <duration>241</duration>
+      <has_cover>True</has_cover>
+      <popularity>43.94</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Gary Morris</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Rock</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>RnB</name>
+            <is_primary>False</is_primary>
+         </genre>
+         <genre>
+            <name>Folk</name>
+            <is_primary>False</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2018-12-17T13:14:49Z</created>
+      <name>100 Degrees</name>
+      <year>2016</year>
+      <duration>284</duration>
+      <has_cover>True</has_cover>
+      <popularity>87.1</popularity>
+      <composers>
+         <composer>Minogue</composer>
+         <composer>Anderson</composer>
+         <composer>Howes</composer>
+         <composer>Stannard</composer>
+      </composers>
+      <artists>
+         <artist>Dannii Minogue</artist>
+         <artist>Kylie Minogue</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Electronic</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2019-03-01T13:52:01Z</created>
+      <name>100 Kilos De Barro</name>
+      <year>2013</year>
+      <duration>162</duration>
+      <has_cover>False</has_cover>
+      <popularity>90.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Enrique GuzmÃ¡n</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Latin</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2021-08-04T09:37:07Z</created>
+      <name>100% Mexicano</name>
+      <year>2007</year>
+      <duration>206</duration>
+      <has_cover>False</has_cover>
+      <popularity>100.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Pepe Aguilar</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Latin</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2021-08-19T08:14:16Z</created>
+      <name>100 Proof</name>
+      <year>2012</year>
+      <duration>238</duration>
+      <has_cover>False</has_cover>
+      <popularity>100.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Kellie Pickler</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Folk</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2015-11-04T12:48:34Z</created>
+      <name>100% Pure Love</name>
+      <year>1994</year>
+      <duration>212</duration>
+      <has_cover>True</has_cover>
+      <popularity>6.9</popularity>
+      <composers>
+         <composer>Waters</composer>
+         <composer>Steinhour</composer>
+         <composer>Davis</composer>
+         <composer>Douglas</composer>
+      </composers>
+      <artists>
+         <artist>Crystal Waters</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2021-04-15T08:07:56Z</created>
+      <name>100% VocÃª</name>
+      <year>2004</year>
+      <duration>263</duration>
+      <has_cover>False</has_cover>
+      <popularity>33.33</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Chiclete Com Banana</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Latin</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2020-05-27T10:40:40Z</created>
+      <name>100 Ways</name>
+      <year>2020</year>
+      <duration>185</duration>
+      <has_cover>False</has_cover>
+      <popularity>95.0</popularity>
+      <composers>
+         <composer>Jackson Wang</composer>
+      </composers>
+      <artists>
+         <artist>Jackson Wang</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2017-05-03T15:38:14Z</created>
+      <name>100 Years</name>
+      <year>2003</year>
+      <duration>260</duration>
+      <has_cover>True</has_cover>
+      <popularity>17.36</popularity>
+      <composers>
+         <composer>John Ondrasik</composer>
+      </composers>
+      <artists>
+         <artist>Five for Fighting</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Rock</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2019-12-13T07:49:02Z</created>
+      <name>10/10</name>
+      <year>2019</year>
+      <duration>157</duration>
+      <has_cover>False</has_cover>
+      <popularity>97.5</popularity>
+      <composers>
+         <composer>Baptie</composer>
+         <composer>O'Connor</composer>
+      </composers>
+      <artists>
+         <artist>Rex Orange County</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2022-11-21T13:12:06Z</created>
+      <name>10:35</name>
+      <year>2022</year>
+      <duration>188</duration>
+      <has_cover>False</has_cover>
+      <popularity>22.22</popularity>
+      <composers>
+         <composer>Scott Harris</composer>
+      </composers>
+      <artists>
+         <artist>Tate McRae</artist>
+         <artist>TiÃ«sto</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Electronic</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2021-04-15T09:09:27Z</created>
+      <name>10 Anos</name>
+      <year>2014</year>
+      <duration>219</duration>
+      <has_cover>False</has_cover>
+      <popularity>20.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Gusttavo Lima</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Latin</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2019-09-09T06:50:49Z</created>
+      <name>10 Days Late</name>
+      <year>1999</year>
+      <duration>186</duration>
+      <has_cover>True</has_cover>
+      <popularity>96.77</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Third Eye Blind</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Rock</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Alternative</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2022-08-21T16:27:28Z</created>
+      <name>10 Kilometros</name>
+      <year>2010</year>
+      <duration>150</duration>
+      <has_cover>False</has_cover>
+      <popularity>0.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Conjuto Primavera</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Latin</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2021-12-30T15:54:28Z</created>
+      <name>10 Meter geh</name>
+      <year>2009</year>
+      <duration>194</duration>
+      <has_cover>False</has_cover>
+      <popularity>0.0</popularity>
+      <composers>
+         <composer>Christof Boettcher</composer>
+      </composers>
+      <artists>
+         <artist>Chris Boettcher</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Schlager</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Folk</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2019-05-15T11:24:02Z</created>
+      <name>10 Meter Geh'n</name>
+      <year>2000</year>
+      <duration>195</duration>
+      <has_cover>False</has_cover>
+      <popularity>100.0</popularity>
+      <composers>
+         <composer>Triebel</composer>
+         <composer>Bendzko</composer>
+         <composer>Bernhardt</composer>
+      </composers>
+      <artists>
+         <artist>Markus Becker</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2018-12-20T20:07:40Z</created>
+      <name>10 Million People</name>
+      <year>2014</year>
+      <duration>278</duration>
+      <has_cover>True</has_cover>
+      <popularity>100.0</popularity>
+      <composers>
+         <composer>Gleave</composer>
+         <composer>Bamford</composer>
+         <composer>Thorneycroft</composer>
+      </composers>
+      <artists>
+         <artist>Example</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Rock</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Hip Hop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Electronic</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2017-05-03T13:52:03Z</created>
+      <name>10 Minutes</name>
+      <year>2010</year>
+      <duration>155</duration>
+      <has_cover>False</has_cover>
+      <popularity>80.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Inna</artist>
+         <artist>Play &amp; Win</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+   <song>
+      <created>2021-04-15T10:33:28Z</created>
+      <name>10 Minutos Longe De VocÃª</name>
+      <year>2015</year>
+      <duration>229</duration>
+      <has_cover>False</has_cover>
+      <popularity>0.0</popularity>
+      <composers>
+         <composer />
+      </composers>
+      <artists>
+         <artist>Victor &amp; Leo</artist>
+      </artists>
+      <genres>
+         <genre>
+            <name>Rock</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Pop</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Latin</name>
+            <is_primary>True</is_primary>
+         </genre>
+         <genre>
+            <name>Folk</name>
+            <is_primary>True</is_primary>
+         </genre>
+      </genres>
+   </song>
+</songs>

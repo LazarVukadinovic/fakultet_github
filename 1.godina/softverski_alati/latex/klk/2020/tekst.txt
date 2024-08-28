@@ -1,0 +1,13 @@
+Latent Dirichlet Allocation, nadalje LDA, je najjednostavniji pristup problemu modelovanja tema, i njegova primena je predmet ovog rada. Osnovna karakteristika LDA algoritma 
+je mogućnost izdvajanja tema koje su prisutne u nekoj kolekciji dokumenata bez ikakvog dodatnog znanja. Dakle, primenom LDA-a moguće je otkriti teme o kojima govori zadati 
+skup dokumenata a da se pritom nikakvo dodatno ekspertsko znanje ne uključuje. Polazna pretpostavka LDA-a je da svaki dokument u kolekciji dokumenata "govori o" više tema. 
+Opravdanost ove pretpostavke biće ilustrovana na nekoliko primera. Dobro je poznat roman Branka Ćopica "Orlovi rano lete". Ukoliko bi neko ko nije pročitao ovu knjigu želeo 
+da zna "o čemu se radi" u njoj, najerovatnije bi dobio odgovor da je u pitanju knjiga koja se bavi doživljajima grupe dečaka na početku Drugog svetskog rata. Iako je to 
+najširi okvir romana, u njemu su prisutne i teme o ljubavi, druženju, prijateljstvu, ratu, pustolovinama itd. Prema tome, roman, opšte gledano, obuhvata više tema, 
+ali se sa nekoliko njih intenzivno bavi.
+
+
+Naravno, postoje reči koje se mogu svrstati u više od jedne teme. Takve reči bi bile obojene sa dve ili više boja, ali zbog preglednosti slike, takvi slučajevi su izostavljeni.
+
+Mell,  Peter,  and  Tim  Grance.  The  NIST  definition  of  cloud  computing. (2011)
+Buyya, Rajkumar, et al. "Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility." Future Generation computer systems 25.6 (2009): 599-616.

@@ -1,0 +1,95 @@
+\documentclass[11pt, a4paper, leqno]{article}
+\usepackage{geometry}
+\usepackage{enumerate}
+\usepackage{multirow}
+\usepackage{multicol}
+
+\geometry{
+    left=20mm,
+    right=30mm,
+    top=30mm,
+    bottom=20mm
+}
+
+\title{Doma\' ci}
+\author{Pera Peric}
+\date{January 10, 2021}
+
+\begin{document}
+    \maketitle
+    \thispagestyle{empty}
+    \newpage
+    \begin{center}
+        \textbf{Domaci zadatak}\\
+        \medskip
+        \date{28.04.2018.}
+    \end{center}
+    \vskip1cm
+    
+    \begin{enumerate}
+        \item \begin{enumerate}[a)]
+            \item Pokazati da se sistem linearnih jednacina $Ax=b$, gde su
+            $$
+                A = \left[ 
+                    \begin{array}{ccc}
+                        10 & 1 & 0\\
+                        1 & 4 & -1\\
+                        1 & 2 & -5\\
+                    \end{array}
+                \right], \quad b=\left[ 
+                    \begin{array}{ccc}
+                        11 & 6 & 11\\
+                    \end{array}
+                 \right]^T,
+            $$
+            moze resiti i \textbf{Jacobijevom i metodom Nekrasova.}
+        \item Ako je $x^*$ tacno resenje jednacine $x=Bx+ \beta, B = B_1 + B_2,$ i ako je $\|B\| \leq q < 1$ tada vazi nejednakost
+            $$
+                \|x^{(k)}-x^*\| < \frac{\|B_2\|}{1-\|B\|}\|x^{(k)}-x^{(k-1)}\|, k \in \mathbf{N}
+            $$
+            gde se niz $(x^{(k)})$ generise pomocu
+            \begin{equation}
+            \label{itproces}
+                x^{(k)}=B_1x^{(k)}+B_2x^{(k-1)}+ \beta .
+            \end{equation}
+            Dokazati.
+        \end{enumerate}
+        (Formula (\ref{itproces}) se naziva \textbf{iterativni proces.})
+        \item Odrediti parametre i ostatak u kvadratnoj formuli Gaussovog tipa
+        $$
+            \int\limits_{-1}^1{p(x)f(x)dx}=A_1f(x_1)+A_2f(x_2)+A_3f(x_3)+R_3(f),
+        $$
+        ako je tezinska funkcija $p(x)=x(1-x^2)$.\\
+        \item Ispitati neprekidnost slozene funkcije $y=f(t)$ gde je $t=g(x)$ ako je
+        $$
+            f(t)=\left\{ 
+                \begin{array}{ll}
+                    t, & \quad 0<t<1\;\;\\
+                    2-t,& \quad 1<t<2.\;
+                \end{array}
+             \right.
+             \quad \mbox{i} \quad g(x)= \left\{
+                \begin{array}{ll}
+                    x, & \; x \in Q, \;\; \\
+                    2-x,& \; x \in I \quad 0<x<1.\;
+                \end{array}
+             \right.
+        $$
+    \end{enumerate}
+    \medskip
+    \begin{center}
+        \begin{tabular}{|c|c|cccc|c|}
+        \hline
+            \multicolumn{2}{|c|}{\multirow{2}{*}{}} & \multicolumn{4}{|c|}{Rank} & \multirow{2}{*}{Total}\\
+            \cline{3-6}
+            \multicolumn{2}{|c|}{} & A & B & C & Other & \\
+            \hline
+            \multirow{2}{*}{Type} & type 1 & 10 & 21 & 6 & \multicolumn{1}{l}{3} & 40\\
+            \cline{2-7}
+            & type 2 & 8 & 14 & 5 & \multicolumn{1}{c}{2} & 29\\
+            \hline
+            \multicolumn{2}{|c|}{Total} & 18 & 35 & 11 & \multicolumn{1}{r}{5} & 69\\
+            \hline
+        \end{tabular}
+    \end{center}
+\end{document}

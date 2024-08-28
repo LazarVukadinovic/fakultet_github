@@ -1,0 +1,611 @@
+[
+  {
+    "created": "2021-06-02T08:27:49Z",
+    "name": "10 Nakte Friseusen",
+    "year": 1999,
+    "composers": [
+      "Richter",
+      "Winterhalter"
+    ],
+    "artists": [
+      "Mickie Krause"
+    ],
+    "duration": 223,
+    "has_cover": false,
+    "popularity": 100.0,
+    "genres": [
+      {
+        "name": "Schlager",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2018-10-16T15:10:50Z",
+    "name": "10 Seconds",
+    "year": 2010,
+    "composers": [
+      "Gibbs",
+      "Sullivan"
+    ],
+    "artists": [
+      "Jazmine Sullivan"
+    ],
+    "duration": 209,
+    "has_cover": false,
+    "popularity": 97.22,
+    "genres": [
+      {
+        "name": "Soul",
+        "is_primary": true
+      },
+      {
+        "name": "RnB",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-08-17T16:16:25Z",
+    "name": "10 Seconds Down",
+    "year": 1990,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Sugar Ray"
+    ],
+    "duration": 239,
+    "has_cover": false,
+    "popularity": 92.86,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-06-21T10:07:34Z",
+    "name": "10 Years",
+    "year": 2021,
+    "composers": [
+      "Dadi Freyr Petursson"
+    ],
+    "artists": [
+      "Da\u00c3\u00b0i & Gagnamagni\u00c3\u00b0",
+      "Da\u00c3\u00b0i Freyr"
+    ],
+    "duration": 165,
+    "has_cover": true,
+    "popularity": 89.16,
+    "genres": [
+      {
+        "name": "Electronic",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2019-09-06T08:03:06Z",
+    "name": "11",
+    "year": 2013,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Cassadee Pope"
+    ],
+    "duration": 240,
+    "has_cover": true,
+    "popularity": 6.67,
+    "genres": [
+      {
+        "name": "Rock",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      },
+      {
+        "name": "Folk",
+        "is_primary": true
+      },
+      {
+        "name": "Alternative",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2018-12-20T07:21:17Z",
+    "name": "1+1",
+    "year": 2014,
+    "composers": [
+      "Knowles",
+      "Nash",
+      "Stewart",
+      "Carter"
+    ],
+    "artists": [
+      "Beyonc\u00c3\u00a9"
+    ],
+    "duration": 287,
+    "has_cover": true,
+    "popularity": 23.35,
+    "genres": [
+      {
+        "name": "Soul",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2019-03-01T13:52:07Z",
+    "name": "1+1=2 Enamorados",
+    "year": 1982,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Luis Miguel"
+    ],
+    "duration": 200,
+    "has_cover": false,
+    "popularity": 75.0,
+    "genres": [
+      {
+        "name": "Latin",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-09-10T10:50:21Z",
+    "name": "11/7/2015",
+    "year": 2015,
+    "composers": [
+      "Bruesch",
+      "Knowles",
+      "Fisher"
+    ],
+    "artists": [
+      "Beyonc\u00c3\u00a9"
+    ],
+    "duration": 234,
+    "has_cover": true,
+    "popularity": 96.43,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2022-11-07T11:02:29Z",
+    "name": "11 Minutes (Duet Version) (clean)",
+    "year": 2019,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Travis Barker",
+      "Yungblud",
+      "Halsey"
+    ],
+    "duration": 243,
+    "has_cover": false,
+    "popularity": 100.0,
+    "genres": [
+      {
+        "name": "Alternative",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-04-20T08:21:09Z",
+    "name": "11 Pm",
+    "year": 2019,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Maluma"
+    ],
+    "duration": 190,
+    "has_cover": false,
+    "popularity": 96.0,
+    "genres": [
+      {
+        "name": "Dancehall",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      },
+      {
+        "name": "Latin",
+        "is_primary": true
+      },
+      {
+        "name": "Electronic",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2022-07-04T12:46:49Z",
+    "name": "11th Street Kids",
+    "year": 1981,
+    "composers": [
+      "Andy McCoy"
+    ],
+    "artists": [
+      "Hanoi Rocks"
+    ],
+    "duration": 240,
+    "has_cover": true,
+    "popularity": 94.12,
+    "genres": [
+      {
+        "name": "Rock",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-04-09T11:15:37Z",
+    "name": "11 Vidas",
+    "year": 2014,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Lucas Lucco"
+    ],
+    "duration": 201,
+    "has_cover": false,
+    "popularity": 0.0,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      },
+      {
+        "name": "Latin",
+        "is_primary": true
+      },
+      {
+        "name": "Folk",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2019-03-01T07:02:02Z",
+    "name": "11 Y 6",
+    "year": 1985,
+    "composers": [
+      "Fito P\u00c3\u00a1ez"
+    ],
+    "artists": [
+      "Fito Paez"
+    ],
+    "duration": 196,
+    "has_cover": false,
+    "popularity": 68.75,
+    "genres": [
+      {
+        "name": "Rock",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2022-02-11T12:14:20Z",
+    "name": "120 150 200 Km Por Hora",
+    "year": 1970,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Roberto Carlos"
+    ],
+    "duration": 298,
+    "has_cover": false,
+    "popularity": 66.67,
+    "genres": [
+      {
+        "name": "Latin",
+        "is_primary": true
+      },
+      {
+        "name": "Jazz",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      },
+      {
+        "name": "Ballad",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2022-02-24T10:39:56Z",
+    "name": "1/2/03",
+    "year": 1988,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Gloria Estefan"
+    ],
+    "duration": 202,
+    "has_cover": true,
+    "popularity": 100.0,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2019-03-01T13:52:20Z",
+    "name": "1 2 3",
+    "year": 2005,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "El Simbolo"
+    ],
+    "duration": 215,
+    "has_cover": false,
+    "popularity": 100.0,
+    "genres": [
+      {
+        "name": "Latin",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2017-06-03T15:30:45Z",
+    "name": "1-2-3",
+    "year": 1988,
+    "composers": [
+      "Anna M\u00c3\u00bcller"
+    ],
+    "artists": [
+      "Miami Sound Machine",
+      "Gloria Estefan"
+    ],
+    "duration": 220,
+    "has_cover": false,
+    "popularity": 50.0,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2018-10-05T07:45:05Z",
+    "name": "1-2-3",
+    "year": 1969,
+    "composers": [
+      "Anna M\u00c3\u00bcller"
+    ],
+    "artists": [
+      "Len Barry"
+    ],
+    "duration": 173,
+    "has_cover": false,
+    "popularity": 48.15,
+    "genres": [
+      {
+        "name": "Soul",
+        "is_primary": true
+      },
+      {
+        "name": "Rock",
+        "is_primary": true
+      },
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2018-10-16T16:04:32Z",
+    "name": "1234",
+    "year": 2007,
+    "composers": [
+      "Feist",
+      "Seltmann"
+    ],
+    "artists": [
+      "Feist"
+    ],
+    "duration": 199,
+    "has_cover": true,
+    "popularity": 22.32,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2017-06-03T16:23:58Z",
+    "name": "1, 2, 3, 4",
+    "year": 2008,
+    "composers": [
+      "Ray Weber"
+    ],
+    "artists": [
+      "Plain White T's"
+    ],
+    "duration": 211,
+    "has_cover": true,
+    "popularity": 16.67,
+    "genres": [
+      {
+        "name": "Rock",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2018-12-21T08:02:39Z",
+    "name": "1, 2, 3, 4, 5",
+    "year": 2001,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Generic",
+      "Traditional"
+    ],
+    "duration": 76,
+    "has_cover": false,
+    "popularity": 100.0,
+    "genres": [
+      {
+        "name": "Traditional",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-08-17T16:50:39Z",
+    "name": "1, 2, 3, 4 (I Love You)",
+    "year": 2000,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Plain White T's"
+    ],
+    "duration": 209,
+    "has_cover": false,
+    "popularity": 87.5,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2018-10-10T05:45:13Z",
+    "name": "1 2 3 4 (sumpin' New)",
+    "year": 1996,
+    "composers": [
+      "Ivey",
+      "Sear",
+      "Browne",
+      "Smith",
+      "Bunch",
+      "Norwood",
+      "Carter",
+      "Adams",
+      "Cooper"
+    ],
+    "artists": [
+      "Coolio"
+    ],
+    "duration": 272,
+    "has_cover": true,
+    "popularity": 100.0,
+    "genres": [
+      {
+        "name": "Hip Hop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-04-13T13:07:32Z",
+    "name": "1, 2, 3 Red Light",
+    "year": 1968,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Fruitgum Co."
+    ],
+    "duration": 132,
+    "has_cover": true,
+    "popularity": 100.0,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "created": "2021-04-14T15:23:04Z",
+    "name": "126 Cabides",
+    "year": 2016,
+    "composers": [
+      ""
+    ],
+    "artists": [
+      "Simone & Simaria"
+    ],
+    "duration": 221,
+    "has_cover": false,
+    "popularity": 57.14,
+    "genres": [
+      {
+        "name": "Pop",
+        "is_primary": true
+      },
+      {
+        "name": "Latin",
+        "is_primary": true
+      },
+      {
+        "name": "Folk",
+        "is_primary": true
+      },
+      {
+        "name": "Ballad",
+        "is_primary": true
+      }
+    ]
+  }
+]

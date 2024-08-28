@@ -1,0 +1,4889 @@
+[
+    {
+        "Series_Title": "The Shawshank Redemption",
+        "Released_Year": 1994,
+        "Certificate": "A",
+        "Runtime": 142,
+        "IMDB_Rating": 9.3,
+        "Meta_score": 80,
+        "Director": "Frank Darabont",
+        "Star1": "Tim Robbins",
+        "Star2": "Morgan Freeman",
+        "Star3": "Bob Gunton",
+        "Star4": "William Sadler",
+        "No_of_Votes": 2343110,
+        "Gross": 28341469,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Godfather",
+        "Released_Year": 1972,
+        "Certificate": "A",
+        "Runtime": 175,
+        "IMDB_Rating": 9.2,
+        "Meta_score": 100,
+        "Director": "Francis Ford Coppola",
+        "Star1": "Marlon Brando",
+        "Star2": "Al Pacino",
+        "Star3": "James Caan",
+        "Star4": "Diane Keaton",
+        "No_of_Votes": 1620367,
+        "Gross": 134966411,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Dark Knight",
+        "Released_Year": 2008,
+        "Certificate": "UA",
+        "Runtime": 152,
+        "IMDB_Rating": 9,
+        "Meta_score": 84,
+        "Director": "Christopher Nolan",
+        "Star1": "Christian Bale",
+        "Star2": "Heath Ledger",
+        "Star3": "Aaron Eckhart",
+        "Star4": "Michael Caine",
+        "No_of_Votes": 2303232,
+        "Gross": 534858444,
+        "Genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Godfather: Part II",
+        "Released_Year": 1974,
+        "Certificate": "A",
+        "Runtime": 202,
+        "IMDB_Rating": 9,
+        "Meta_score": 90,
+        "Director": "Francis Ford Coppola",
+        "Star1": "Al Pacino",
+        "Star2": "Robert De Niro",
+        "Star3": "Robert Duvall",
+        "Star4": "Diane Keaton",
+        "No_of_Votes": 1129952,
+        "Gross": 57300000,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "12 Angry Men",
+        "Released_Year": 1957,
+        "Certificate": "U",
+        "Runtime": 96,
+        "IMDB_Rating": 9,
+        "Meta_score": 96,
+        "Director": "Sidney Lumet",
+        "Star1": "Henry Fonda",
+        "Star2": "Lee J. Cobb",
+        "Star3": "Martin Balsam",
+        "Star4": "John Fiedler",
+        "No_of_Votes": 689845,
+        "Gross": 4360000,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Lord of the Rings: The Return of the King",
+        "Released_Year": 2003,
+        "Certificate": "U",
+        "Runtime": 201,
+        "IMDB_Rating": 8.9,
+        "Meta_score": 94,
+        "Director": "Peter Jackson",
+        "Star1": "Elijah Wood",
+        "Star2": "Viggo Mortensen",
+        "Star3": "Ian McKellen",
+        "Star4": "Orlando Bloom",
+        "No_of_Votes": 1642758,
+        "Gross": 377845905,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Pulp Fiction",
+        "Released_Year": 1994,
+        "Certificate": "A",
+        "Runtime": 154,
+        "IMDB_Rating": 8.9,
+        "Meta_score": 94,
+        "Director": "Quentin Tarantino",
+        "Star1": "John Travolta",
+        "Star2": "Uma Thurman",
+        "Star3": "Samuel L. Jackson",
+        "Star4": "Bruce Willis",
+        "No_of_Votes": 1826188,
+        "Gross": 107928762,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Schindler's List",
+        "Released_Year": 1993,
+        "Certificate": "A",
+        "Runtime": 195,
+        "IMDB_Rating": 8.9,
+        "Meta_score": 94,
+        "Director": "Steven Spielberg",
+        "Star1": "Liam Neeson",
+        "Star2": "Ralph Fiennes",
+        "Star3": "Ben Kingsley",
+        "Star4": "Caroline Goodall",
+        "No_of_Votes": 1213505,
+        "Gross": 96898818,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Inception",
+        "Released_Year": 2010,
+        "Certificate": "UA",
+        "Runtime": 148,
+        "IMDB_Rating": 8.8,
+        "Meta_score": 74,
+        "Director": "Christopher Nolan",
+        "Star1": "Leonardo DiCaprio",
+        "Star2": "Joseph Gordon-Levitt",
+        "Star3": "Elliot Page",
+        "Star4": "Ken Watanabe",
+        "No_of_Votes": 2067042,
+        "Gross": 292576195,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Fight Club",
+        "Released_Year": 1999,
+        "Certificate": "A",
+        "Runtime": 139,
+        "IMDB_Rating": 8.8,
+        "Meta_score": 66,
+        "Director": "David Fincher",
+        "Star1": "Brad Pitt",
+        "Star2": "Edward Norton",
+        "Star3": "Meat Loaf",
+        "Star4": "Zach Grenier",
+        "No_of_Votes": 1854740,
+        "Gross": 37030102,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Released_Year": 2001,
+        "Certificate": "U",
+        "Runtime": 178,
+        "IMDB_Rating": 8.8,
+        "Meta_score": 92,
+        "Director": "Peter Jackson",
+        "Star1": "Elijah Wood",
+        "Star2": "Ian McKellen",
+        "Star3": "Orlando Bloom",
+        "Star4": "Sean Bean",
+        "No_of_Votes": 1661481,
+        "Gross": 315544750,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Forrest Gump",
+        "Released_Year": 1994,
+        "Certificate": "UA",
+        "Runtime": 142,
+        "IMDB_Rating": 8.8,
+        "Meta_score": 82,
+        "Director": "Robert Zemeckis",
+        "Star1": "Tom Hanks",
+        "Star2": "Robin Wright",
+        "Star3": "Gary Sinise",
+        "Star4": "Sally Field",
+        "No_of_Votes": 1809221,
+        "Gross": 330252182,
+        "Genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Il buono, il brutto, il cattivo",
+        "Released_Year": 1966,
+        "Certificate": "A",
+        "Runtime": 161,
+        "IMDB_Rating": 8.8,
+        "Meta_score": 90,
+        "Director": "Sergio Leone",
+        "Star1": "Clint Eastwood",
+        "Star2": "Eli Wallach",
+        "Star3": "Lee Van Cleef",
+        "Star4": "Aldo Giuffr\u00e8",
+        "No_of_Votes": 688390,
+        "Gross": 6100000,
+        "Genres": [
+            "Western"
+        ]
+    },
+    {
+        "Series_Title": "The Lord of the Rings: The Two Towers",
+        "Released_Year": 2002,
+        "Certificate": "UA",
+        "Runtime": 179,
+        "IMDB_Rating": 8.7,
+        "Meta_score": 87,
+        "Director": "Peter Jackson",
+        "Star1": "Elijah Wood",
+        "Star2": "Ian McKellen",
+        "Star3": "Viggo Mortensen",
+        "Star4": "Orlando Bloom",
+        "No_of_Votes": 1485555,
+        "Gross": 342551365,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Matrix",
+        "Released_Year": 1999,
+        "Certificate": "A",
+        "Runtime": 136,
+        "IMDB_Rating": 8.7,
+        "Meta_score": 73,
+        "Director": "Lana Wachowski",
+        "Star1": "Lilly Wachowski",
+        "Star2": "Keanu Reeves",
+        "Star3": "Laurence Fishburne",
+        "Star4": "Carrie-Anne Moss",
+        "No_of_Votes": 1676426,
+        "Gross": 171479930,
+        "Genres": [
+            "Action",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Goodfellas",
+        "Released_Year": 1990,
+        "Certificate": "A",
+        "Runtime": 146,
+        "IMDB_Rating": 8.7,
+        "Meta_score": 90,
+        "Director": "Martin Scorsese",
+        "Star1": "Robert De Niro",
+        "Star2": "Ray Liotta",
+        "Star3": "Joe Pesci",
+        "Star4": "Lorraine Bracco",
+        "No_of_Votes": 1020727,
+        "Gross": 46836394,
+        "Genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Star Wars: Episode V - The Empire Strikes Back",
+        "Released_Year": 1980,
+        "Certificate": "UA",
+        "Runtime": 124,
+        "IMDB_Rating": 8.7,
+        "Meta_score": 82,
+        "Director": "Irvin Kershner",
+        "Star1": "Mark Hamill",
+        "Star2": "Harrison Ford",
+        "Star3": "Carrie Fisher",
+        "Star4": "Billy Dee Williams",
+        "No_of_Votes": 1159315,
+        "Gross": 290475067,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "One Flew Over the Cuckoo's Nest",
+        "Released_Year": 1975,
+        "Certificate": "A",
+        "Runtime": 133,
+        "IMDB_Rating": 8.7,
+        "Meta_score": 83,
+        "Director": "Milos Forman",
+        "Star1": "Jack Nicholson",
+        "Star2": "Louise Fletcher",
+        "Star3": "Michael Berryman",
+        "Star4": "Peter Brocco",
+        "No_of_Votes": 918088,
+        "Gross": 112000000,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Hamilton",
+        "Released_Year": 2020,
+        "Certificate": "PG-13",
+        "Runtime": 160,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 90,
+        "Director": "Thomas Kail",
+        "Star1": "Lin-Manuel Miranda",
+        "Star2": "Phillipa Soo",
+        "Star3": "Leslie Odom Jr.",
+        "Star4": "Ren\u00e9e Elise Goldsberry",
+        "No_of_Votes": 55291,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Gisaengchung",
+        "Released_Year": 2019,
+        "Certificate": "A",
+        "Runtime": 132,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 96,
+        "Director": "Bong Joon Ho",
+        "Star1": "Kang-ho Song",
+        "Star2": "Lee Sun-kyun",
+        "Star3": "Cho Yeo-jeong",
+        "Star4": "Choi Woo-sik",
+        "No_of_Votes": 552778,
+        "Gross": 53367844,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Soorarai Pottru",
+        "Released_Year": 2020,
+        "Certificate": "U",
+        "Runtime": 153,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 78,
+        "Director": "Sudha Kongara",
+        "Star1": "Suriya",
+        "Star2": "Madhavan",
+        "Star3": "Paresh Rawal",
+        "Star4": "Aparna Balamurali",
+        "No_of_Votes": 54995,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Interstellar",
+        "Released_Year": 2014,
+        "Certificate": "UA",
+        "Runtime": 169,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 74,
+        "Director": "Christopher Nolan",
+        "Star1": "Matthew McConaughey",
+        "Star2": "Anne Hathaway",
+        "Star3": "Jessica Chastain",
+        "Star4": "Mackenzie Foy",
+        "No_of_Votes": 1512360,
+        "Gross": 188020017,
+        "Genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Cidade de Deus",
+        "Released_Year": 2002,
+        "Certificate": "A",
+        "Runtime": 130,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 79,
+        "Director": "Fernando Meirelles",
+        "Star1": "K\u00e1tia Lund",
+        "Star2": "Alexandre Rodrigues",
+        "Star3": "Leandro Firmino",
+        "Star4": "Matheus Nachtergaele",
+        "No_of_Votes": 699256,
+        "Gross": 7563397,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Sen to Chihiro no kamikakushi",
+        "Released_Year": 2001,
+        "Certificate": "U",
+        "Runtime": 125,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 96,
+        "Director": "Hayao Miyazaki",
+        "Star1": "Daveigh Chase",
+        "Star2": "Suzanne Pleshette",
+        "Star3": "Miyu Irino",
+        "Star4": "Rumi Hiiragi",
+        "No_of_Votes": 651376,
+        "Gross": 10055859,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "Saving Private Ryan",
+        "Released_Year": 1998,
+        "Certificate": "R",
+        "Runtime": 169,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 91,
+        "Director": "Steven Spielberg",
+        "Star1": "Tom Hanks",
+        "Star2": "Matt Damon",
+        "Star3": "Tom Sizemore",
+        "Star4": "Edward Burns",
+        "No_of_Votes": 1235804,
+        "Gross": 216540909,
+        "Genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "The Green Mile",
+        "Released_Year": 1999,
+        "Certificate": "A",
+        "Runtime": 189,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 61,
+        "Director": "Frank Darabont",
+        "Star1": "Tom Hanks",
+        "Star2": "Michael Clarke Duncan",
+        "Star3": "David Morse",
+        "Star4": "Bonnie Hunt",
+        "No_of_Votes": 1147794,
+        "Gross": 136801374,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "La vita \u00e8 bella",
+        "Released_Year": 1997,
+        "Certificate": "U",
+        "Runtime": 116,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 59,
+        "Director": "Roberto Benigni",
+        "Star1": "Roberto Benigni",
+        "Star2": "Nicoletta Braschi",
+        "Star3": "Giorgio Cantarini",
+        "Star4": "Giustino Durano",
+        "No_of_Votes": 623629,
+        "Gross": 57598247,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Se7en",
+        "Released_Year": 1995,
+        "Certificate": "A",
+        "Runtime": 127,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 65,
+        "Director": "David Fincher",
+        "Star1": "Morgan Freeman",
+        "Star2": "Brad Pitt",
+        "Star3": "Kevin Spacey",
+        "Star4": "Andrew Kevin Walker",
+        "No_of_Votes": 1445096,
+        "Gross": 100125643,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "The Silence of the Lambs",
+        "Released_Year": 1991,
+        "Certificate": "A",
+        "Runtime": 118,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 85,
+        "Director": "Jonathan Demme",
+        "Star1": "Jodie Foster",
+        "Star2": "Anthony Hopkins",
+        "Star3": "Lawrence A. Bonney",
+        "Star4": "Kasi Lemmons",
+        "No_of_Votes": 1270197,
+        "Gross": 130742922,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Star Wars",
+        "Released_Year": 1977,
+        "Certificate": "UA",
+        "Runtime": 121,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 90,
+        "Director": "George Lucas",
+        "Star1": "Mark Hamill",
+        "Star2": "Harrison Ford",
+        "Star3": "Carrie Fisher",
+        "Star4": "Alec Guinness",
+        "No_of_Votes": 1231473,
+        "Gross": 322740140,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "Seppuku",
+        "Released_Year": 1962,
+        "Certificate": "",
+        "Runtime": 133,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 85,
+        "Director": "Masaki Kobayashi",
+        "Star1": "Tatsuya Nakadai",
+        "Star2": "Akira Ishihama",
+        "Star3": "Shima Iwashita",
+        "Star4": "Tetsur\u00f4 Tanba",
+        "No_of_Votes": 42004,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Shichinin no samurai",
+        "Released_Year": 1954,
+        "Certificate": "U",
+        "Runtime": 207,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 98,
+        "Director": "Akira Kurosawa",
+        "Star1": "Toshir\u00f4 Mifune",
+        "Star2": "Takashi Shimura",
+        "Star3": "Keiko Tsushima",
+        "Star4": "Yukiko Shimazaki",
+        "No_of_Votes": 315744,
+        "Gross": 269061,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "It's a Wonderful Life",
+        "Released_Year": 1946,
+        "Certificate": "PG",
+        "Runtime": 130,
+        "IMDB_Rating": 8.6,
+        "Meta_score": 89,
+        "Director": "Frank Capra",
+        "Star1": "James Stewart",
+        "Star2": "Donna Reed",
+        "Star3": "Lionel Barrymore",
+        "Star4": "Thomas Mitchell",
+        "No_of_Votes": 405801,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "Joker",
+        "Released_Year": 2019,
+        "Certificate": "A",
+        "Runtime": 122,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 59,
+        "Director": "Todd Phillips",
+        "Star1": "Joaquin Phoenix",
+        "Star2": "Robert De Niro",
+        "Star3": "Zazie Beetz",
+        "Star4": "Frances Conroy",
+        "No_of_Votes": 939252,
+        "Gross": 335451311,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Whiplash",
+        "Released_Year": 2014,
+        "Certificate": "A",
+        "Runtime": 106,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 88,
+        "Director": "Damien Chazelle",
+        "Star1": "Miles Teller",
+        "Star2": "J.K. Simmons",
+        "Star3": "Melissa Benoist",
+        "Star4": "Paul Reiser",
+        "No_of_Votes": 717585,
+        "Gross": 13092000,
+        "Genres": [
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "Series_Title": "The Intouchables",
+        "Released_Year": 2011,
+        "Certificate": "UA",
+        "Runtime": 112,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 57,
+        "Director": "Olivier Nakache",
+        "Star1": "\u00c9ric Toledano",
+        "Star2": "Fran\u00e7ois Cluzet",
+        "Star3": "Omar Sy",
+        "Star4": "Anne Le Ny",
+        "No_of_Votes": 760360,
+        "Gross": 13182281,
+        "Genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Prestige",
+        "Released_Year": 2006,
+        "Certificate": "U",
+        "Runtime": 130,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 66,
+        "Director": "Christopher Nolan",
+        "Star1": "Christian Bale",
+        "Star2": "Hugh Jackman",
+        "Star3": "Scarlett Johansson",
+        "Star4": "Michael Caine",
+        "No_of_Votes": 1190259,
+        "Gross": 53089891,
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "The Departed",
+        "Released_Year": 2006,
+        "Certificate": "A",
+        "Runtime": 151,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 85,
+        "Director": "Martin Scorsese",
+        "Star1": "Leonardo DiCaprio",
+        "Star2": "Matt Damon",
+        "Star3": "Jack Nicholson",
+        "Star4": "Mark Wahlberg",
+        "No_of_Votes": 1189773,
+        "Gross": 132384315,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "The Pianist",
+        "Released_Year": 2002,
+        "Certificate": "R",
+        "Runtime": 150,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 85,
+        "Director": "Roman Polanski",
+        "Star1": "Adrien Brody",
+        "Star2": "Thomas Kretschmann",
+        "Star3": "Frank Finlay",
+        "Star4": "Emilia Fox",
+        "No_of_Votes": 729603,
+        "Gross": 32572577,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "Series_Title": "Gladiator",
+        "Released_Year": 2000,
+        "Certificate": "UA",
+        "Runtime": 155,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 67,
+        "Director": "Ridley Scott",
+        "Star1": "Russell Crowe",
+        "Star2": "Joaquin Phoenix",
+        "Star3": "Connie Nielsen",
+        "Star4": "Oliver Reed",
+        "No_of_Votes": 1341460,
+        "Gross": 187705427,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "American History X",
+        "Released_Year": 1998,
+        "Certificate": "R",
+        "Runtime": 119,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 62,
+        "Director": "Tony Kaye",
+        "Star1": "Edward Norton",
+        "Star2": "Edward Furlong",
+        "Star3": "Beverly D'Angelo",
+        "Star4": "Jennifer Lien",
+        "No_of_Votes": 1034705,
+        "Gross": 6719864,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Usual Suspects",
+        "Released_Year": 1995,
+        "Certificate": "A",
+        "Runtime": 106,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 77,
+        "Director": "Bryan Singer",
+        "Star1": "Kevin Spacey",
+        "Star2": "Gabriel Byrne",
+        "Star3": "Chazz Palminteri",
+        "Star4": "Stephen Baldwin",
+        "No_of_Votes": 991208,
+        "Gross": 23341568,
+        "Genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "L\u00e9on",
+        "Released_Year": 1994,
+        "Certificate": "A",
+        "Runtime": 110,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 64,
+        "Director": "Luc Besson",
+        "Star1": "Jean Reno",
+        "Star2": "Gary Oldman",
+        "Star3": "Natalie Portman",
+        "Star4": "Danny Aiello",
+        "No_of_Votes": 1035236,
+        "Gross": 19501238,
+        "Genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Lion King",
+        "Released_Year": 1994,
+        "Certificate": "U",
+        "Runtime": 88,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 88,
+        "Director": "Roger Allers",
+        "Star1": "Robkoff",
+        "Star2": "Matthew Broderick",
+        "Star3": "Jeremy Irons",
+        "Star4": "James Earl Jones",
+        "No_of_Votes": 942045,
+        "Gross": 422783777,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Terminator 2: Judgment Day",
+        "Released_Year": 1991,
+        "Certificate": "U",
+        "Runtime": 137,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 75,
+        "Director": "James Cameron",
+        "Star1": "Arnold Schwarzenegger",
+        "Star2": "Linda Hamilton",
+        "Star3": "Edward Furlong",
+        "Star4": "Robert Patrick",
+        "No_of_Votes": 995506,
+        "Gross": 204843350,
+        "Genres": [
+            "Action",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Nuovo Cinema Paradiso",
+        "Released_Year": 1988,
+        "Certificate": "U",
+        "Runtime": 155,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 80,
+        "Director": "Giuseppe Tornatore",
+        "Star1": "Philippe Noiret",
+        "Star2": "Enzo Cannavale",
+        "Star3": "Antonella Attili",
+        "Star4": "Isa Danieli",
+        "No_of_Votes": 230763,
+        "Gross": 11990401,
+        "Genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Hotaru no haka",
+        "Released_Year": 1988,
+        "Certificate": "U",
+        "Runtime": 89,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 94,
+        "Director": "Isao Takahata",
+        "Star1": "Tsutomu Tatsumi",
+        "Star2": "Ayano Shiraishi",
+        "Star3": "Akemi Yamaguchi",
+        "Star4": "Yoshiko Shinohara",
+        "No_of_Votes": 235231,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Animation",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Back to the Future",
+        "Released_Year": 1985,
+        "Certificate": "U",
+        "Runtime": 116,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 87,
+        "Director": "Robert Zemeckis",
+        "Star1": "Michael J. Fox",
+        "Star2": "Christopher Lloyd",
+        "Star3": "Lea Thompson",
+        "Star4": "Crispin Glover",
+        "No_of_Votes": 1058081,
+        "Gross": 210609762,
+        "Genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Once Upon a Time in the West",
+        "Released_Year": 1968,
+        "Certificate": "U",
+        "Runtime": 165,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 80,
+        "Director": "Sergio Leone",
+        "Star1": "Henry Fonda",
+        "Star2": "Charles Bronson",
+        "Star3": "Claudia Cardinale",
+        "Star4": "Jason Robards",
+        "No_of_Votes": 302844,
+        "Gross": 5321508,
+        "Genres": [
+            "Western"
+        ]
+    },
+    {
+        "Series_Title": "Psycho",
+        "Released_Year": 1960,
+        "Certificate": "A",
+        "Runtime": 109,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 97,
+        "Director": "Alfred Hitchcock",
+        "Star1": "Anthony Perkins",
+        "Star2": "Janet Leigh",
+        "Star3": "Vera Miles",
+        "Star4": "John Gavin",
+        "No_of_Votes": 604211,
+        "Gross": 32000000,
+        "Genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Casablanca",
+        "Released_Year": 1942,
+        "Certificate": "U",
+        "Runtime": 102,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 100,
+        "Director": "Michael Curtiz",
+        "Star1": "Humphrey Bogart",
+        "Star2": "Ingrid Bergman",
+        "Star3": "Paul Henreid",
+        "Star4": "Claude Rains",
+        "No_of_Votes": 522093,
+        "Gross": 1024560,
+        "Genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Modern Times",
+        "Released_Year": 1936,
+        "Certificate": "G",
+        "Runtime": 87,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 96,
+        "Director": "Charles Chaplin",
+        "Star1": "Charles Chaplin",
+        "Star2": "Paulette Goddard",
+        "Star3": "Henry Bergman",
+        "Star4": "Tiny Sandford",
+        "No_of_Votes": 217881,
+        "Gross": 163245,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "City Lights",
+        "Released_Year": 1931,
+        "Certificate": "G",
+        "Runtime": 87,
+        "IMDB_Rating": 8.5,
+        "Meta_score": 99,
+        "Director": "Charles Chaplin",
+        "Star1": "Charles Chaplin",
+        "Star2": "Virginia Cherrill",
+        "Star3": "Florence Lee",
+        "Star4": "Harry Myers",
+        "No_of_Votes": 167839,
+        "Gross": 19181,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Capharna\u00fcm",
+        "Released_Year": 2018,
+        "Certificate": "A",
+        "Runtime": 126,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 75,
+        "Director": "Nadine Labaki",
+        "Star1": "Zain Al Rafeea",
+        "Star2": "Yordanos Shiferaw",
+        "Star3": "Boluwatife Treasure Bankole",
+        "Star4": "Kawsar Al Haddad",
+        "No_of_Votes": 62635,
+        "Gross": 1661096,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Ayla: The Daughter of War",
+        "Released_Year": 2017,
+        "Certificate": "",
+        "Runtime": 125,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Can Ulkay",
+        "Star1": "Erdem Can",
+        "Star2": "\u00c7etin Tekindor",
+        "Star3": "Ismail Hacioglu",
+        "Star4": "Kyung-jin Lee",
+        "No_of_Votes": 34112,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Vikram Vedha",
+        "Released_Year": 2017,
+        "Certificate": "UA",
+        "Runtime": 147,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Gayatri",
+        "Star1": "Pushkar",
+        "Star2": "Madhavan",
+        "Star3": "Vijay Sethupathi",
+        "Star4": "Shraddha Srinath",
+        "No_of_Votes": 28401,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Kimi no na wa.",
+        "Released_Year": 2016,
+        "Certificate": "U",
+        "Runtime": 106,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 79,
+        "Director": "Makoto Shinkai",
+        "Star1": "Ry\u00fbnosuke Kamiki",
+        "Star2": "Mone Kamishiraishi",
+        "Star3": "Ry\u00f4 Narita",
+        "Star4": "Aoi Y\u00fbki",
+        "No_of_Votes": 194838,
+        "Gross": 5017246,
+        "Genres": [
+            "Animation",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "Dangal",
+        "Released_Year": 2016,
+        "Certificate": "U",
+        "Runtime": 161,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Nitesh Tiwari",
+        "Star1": "Aamir Khan",
+        "Star2": "Sakshi Tanwar",
+        "Star3": "Fatima Sana Shaikh",
+        "Star4": "Sanya Malhotra",
+        "No_of_Votes": 156479,
+        "Gross": 12391761,
+        "Genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Spider-Man: Into the Spider-Verse",
+        "Released_Year": 2018,
+        "Certificate": "U",
+        "Runtime": 117,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 87,
+        "Director": "Bob Persichetti",
+        "Star1": "Peter Ramsey",
+        "Star2": "Rodney Rothman",
+        "Star3": "Shameik Moore",
+        "Star4": "Jake Johnson",
+        "No_of_Votes": 375110,
+        "Gross": 190241310,
+        "Genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "Series_Title": "Avengers: Endgame",
+        "Released_Year": 2019,
+        "Certificate": "UA",
+        "Runtime": 181,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Anthony Russo",
+        "Star1": "Joe Russo",
+        "Star2": "Robert Downey Jr.",
+        "Star3": "Chris Evans",
+        "Star4": "Mark Ruffalo",
+        "No_of_Votes": 809955,
+        "Gross": 858373000,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Avengers: Infinity War",
+        "Released_Year": 2018,
+        "Certificate": "UA",
+        "Runtime": 149,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 68,
+        "Director": "Anthony Russo",
+        "Star1": "Joe Russo",
+        "Star2": "Robert Downey Jr.",
+        "Star3": "Chris Hemsworth",
+        "Star4": "Mark Ruffalo",
+        "No_of_Votes": 834477,
+        "Gross": 678815482,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Coco",
+        "Released_Year": 2017,
+        "Certificate": "U",
+        "Runtime": 105,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 81,
+        "Director": "Lee Unkrich",
+        "Star1": "Adrian Molina",
+        "Star2": "Anthony Gonzalez",
+        "Star3": "Gael Garc\u00eda Bernal",
+        "Star4": "Benjamin Bratt",
+        "No_of_Votes": 384171,
+        "Gross": 209726015,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "Django Unchained",
+        "Released_Year": 2012,
+        "Certificate": "A",
+        "Runtime": 165,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 81,
+        "Director": "Quentin Tarantino",
+        "Star1": "Jamie Foxx",
+        "Star2": "Christoph Waltz",
+        "Star3": "Leonardo DiCaprio",
+        "Star4": "Kerry Washington",
+        "No_of_Votes": 1357682,
+        "Gross": 162805434,
+        "Genres": [
+            "Drama",
+            "Western"
+        ]
+    },
+    {
+        "Series_Title": "The Dark Knight Rises",
+        "Released_Year": 2012,
+        "Certificate": "UA",
+        "Runtime": 164,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Christopher Nolan",
+        "Star1": "Christian Bale",
+        "Star2": "Tom Hardy",
+        "Star3": "Anne Hathaway",
+        "Star4": "Gary Oldman",
+        "No_of_Votes": 1516346,
+        "Gross": 448139099,
+        "Genres": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "Series_Title": "3 Idiots",
+        "Released_Year": 2009,
+        "Certificate": "UA",
+        "Runtime": 170,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 67,
+        "Director": "Rajkumar Hirani",
+        "Star1": "Aamir Khan",
+        "Star2": "Madhavan",
+        "Star3": "Mona Singh",
+        "Star4": "Sharman Joshi",
+        "No_of_Votes": 344445,
+        "Gross": 6532908,
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Taare Zameen Par",
+        "Released_Year": 2007,
+        "Certificate": "U",
+        "Runtime": 165,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Aamir Khan",
+        "Star1": "Amole Gupte",
+        "Star2": "Darsheel Safary",
+        "Star3": "Aamir Khan",
+        "Star4": "Tisca Chopra",
+        "No_of_Votes": 168895,
+        "Gross": 1223869,
+        "Genres": [
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "WALL\u00b7E",
+        "Released_Year": 2008,
+        "Certificate": "U",
+        "Runtime": 98,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 95,
+        "Director": "Andrew Stanton",
+        "Star1": "Ben Burtt",
+        "Star2": "Elissa Knight",
+        "Star3": "Jeff Garlin",
+        "Star4": "Fred Willard",
+        "No_of_Votes": 999790,
+        "Gross": 223808164,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "The Lives of Others",
+        "Released_Year": 2006,
+        "Certificate": "A",
+        "Runtime": 137,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 89,
+        "Director": "Florian Henckel von Donnersmarck",
+        "Star1": "Ulrich M\u00fche",
+        "Star2": "Martina Gedeck",
+        "Star3": "Sebastian Koch",
+        "Star4": "Ulrich Tukur",
+        "No_of_Votes": 358685,
+        "Gross": 11286112,
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Oldeuboi",
+        "Released_Year": 2003,
+        "Certificate": "A",
+        "Runtime": 101,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 77,
+        "Director": "Chan-wook Park",
+        "Star1": "Choi-sik",
+        "Star2": "Yoo Ji-Tae",
+        "Star3": "Kang Hye-jeong",
+        "Star4": "Kim Byeong-Ok",
+        "No_of_Votes": 515451,
+        "Gross": 707481,
+        "Genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Memento",
+        "Released_Year": 2000,
+        "Certificate": "UA",
+        "Runtime": 113,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 80,
+        "Director": "Christopher Nolan",
+        "Star1": "Guy Pearce",
+        "Star2": "Carrie-Anne Moss",
+        "Star3": "Joe Pantoliano",
+        "Star4": "Mark Boone Junior",
+        "No_of_Votes": 1125712,
+        "Gross": 25544867,
+        "Genres": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Mononoke-hime",
+        "Released_Year": 1997,
+        "Certificate": "U",
+        "Runtime": 134,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 76,
+        "Director": "Hayao Miyazaki",
+        "Star1": "Y\u00f4ji Matsuda",
+        "Star2": "Yuriko Ishida",
+        "Star3": "Y\u00fbko Tanaka",
+        "Star4": "Billy Crudup",
+        "No_of_Votes": 343171,
+        "Gross": 2375308,
+        "Genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "Series_Title": "Once Upon a Time in America",
+        "Released_Year": 1984,
+        "Certificate": "A",
+        "Runtime": 229,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Sergio Leone",
+        "Star1": "Robert De Niro",
+        "Star2": "James Woods",
+        "Star3": "Elizabeth McGovern",
+        "Star4": "Treat Williams",
+        "No_of_Votes": 311365,
+        "Gross": 5321508,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Raiders of the Lost Ark",
+        "Released_Year": 1981,
+        "Certificate": "A",
+        "Runtime": 115,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 85,
+        "Director": "Steven Spielberg",
+        "Star1": "Harrison Ford",
+        "Star2": "Karen Allen",
+        "Star3": "Paul Freeman",
+        "Star4": "John Rhys-Davies",
+        "No_of_Votes": 884112,
+        "Gross": 248159971,
+        "Genres": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "Series_Title": "The Shining",
+        "Released_Year": 1980,
+        "Certificate": "A",
+        "Runtime": 146,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 66,
+        "Director": "Stanley Kubrick",
+        "Star1": "Jack Nicholson",
+        "Star2": "Shelley Duvall",
+        "Star3": "Danny Lloyd",
+        "Star4": "Scatman Crothers",
+        "No_of_Votes": 898237,
+        "Gross": 44017374,
+        "Genres": [
+            "Drama",
+            "Horror"
+        ]
+    },
+    {
+        "Series_Title": "Apocalypse Now",
+        "Released_Year": 1979,
+        "Certificate": "R",
+        "Runtime": 147,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 94,
+        "Director": "Francis Ford Coppola",
+        "Star1": "Martin Sheen",
+        "Star2": "Marlon Brando",
+        "Star3": "Robert Duvall",
+        "Star4": "Frederic Forrest",
+        "No_of_Votes": 606398,
+        "Gross": 83471511,
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Alien",
+        "Released_Year": 1979,
+        "Certificate": "R",
+        "Runtime": 117,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 89,
+        "Director": "Ridley Scott",
+        "Star1": "Sigourney Weaver",
+        "Star2": "Tom Skerritt",
+        "Star3": "John Hurt",
+        "Star4": "Veronica Cartwright",
+        "No_of_Votes": 787806,
+        "Gross": 78900000,
+        "Genres": [
+            "Horror",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Anand",
+        "Released_Year": 1971,
+        "Certificate": "U",
+        "Runtime": 122,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Hrishikesh Mukherjee",
+        "Star1": "Rajesh Khanna",
+        "Star2": "Amitabh Bachchan",
+        "Star3": "Sumita Sanyal",
+        "Star4": "Ramesh Deo",
+        "No_of_Votes": 30273,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "Musical"
+        ]
+    },
+    {
+        "Series_Title": "Tengoku to jigoku",
+        "Released_Year": 1963,
+        "Certificate": "",
+        "Runtime": 143,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Akira Kurosawa",
+        "Star1": "Toshir\u00f4 Mifune",
+        "Star2": "Yutaka Sada",
+        "Star3": "Tatsuya Nakadai",
+        "Star4": "Ky\u00f4ko Kagawa",
+        "No_of_Votes": 34357,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "Released_Year": 1964,
+        "Certificate": "A",
+        "Runtime": 95,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 97,
+        "Director": "Stanley Kubrick",
+        "Star1": "Peter Sellers",
+        "Star2": "George C. Scott",
+        "Star3": "Sterling Hayden",
+        "Star4": "Keenan Wynn",
+        "No_of_Votes": 450474,
+        "Gross": 275902,
+        "Genres": [
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "Witness for the Prosecution",
+        "Released_Year": 1957,
+        "Certificate": "U",
+        "Runtime": 116,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Billy Wilder",
+        "Star1": "Tyrone Power",
+        "Star2": "Marlene Dietrich",
+        "Star3": "Charles Laughton",
+        "Star4": "Elsa Lanchester",
+        "No_of_Votes": 108862,
+        "Gross": 8175000,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Paths of Glory",
+        "Released_Year": 1957,
+        "Certificate": "A",
+        "Runtime": 88,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 90,
+        "Director": "Stanley Kubrick",
+        "Star1": "Kirk Douglas",
+        "Star2": "Ralph Meeker",
+        "Star3": "Adolphe Menjou",
+        "Star4": "George Macready",
+        "No_of_Votes": 178092,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Rear Window",
+        "Released_Year": 1954,
+        "Certificate": "U",
+        "Runtime": 112,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 100,
+        "Director": "Alfred Hitchcock",
+        "Star1": "James Stewart",
+        "Star2": "Grace Kelly",
+        "Star3": "Wendell Corey",
+        "Star4": "Thelma Ritter",
+        "No_of_Votes": 444074,
+        "Gross": 36764313,
+        "Genres": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Sunset Blvd.",
+        "Released_Year": 1950,
+        "Certificate": "Passed",
+        "Runtime": 110,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Billy Wilder",
+        "Star1": "William Holden",
+        "Star2": "Gloria Swanson",
+        "Star3": "Erich von Stroheim",
+        "Star4": "Nancy Olson",
+        "No_of_Votes": 201632,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "Film-Noir"
+        ]
+    },
+    {
+        "Series_Title": "The Great Dictator",
+        "Released_Year": 1940,
+        "Certificate": "Passed",
+        "Runtime": 125,
+        "IMDB_Rating": 8.4,
+        "Meta_score": 78,
+        "Director": "Charles Chaplin",
+        "Star1": "Charles Chaplin",
+        "Star2": "Paulette Goddard",
+        "Star3": "Jack Oakie",
+        "Star4": "Reginald Gardiner",
+        "No_of_Votes": 203150,
+        "Gross": 288475,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": 1917,
+        "Released_Year": 2019,
+        "Certificate": "R",
+        "Runtime": 119,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Sam Mendes",
+        "Star1": "Dean-Charles Chapman",
+        "Star2": "George MacKay",
+        "Star3": "Daniel Mays",
+        "Star4": "Colin Firth",
+        "No_of_Votes": 425844,
+        "Gross": 159227644,
+        "Genres": [
+            "Drama",
+            "Thriller",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Tumbbad",
+        "Released_Year": 2018,
+        "Certificate": "A",
+        "Runtime": 104,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Rahi Anil Barve",
+        "Star1": "Anand Gandhi",
+        "Star2": "Adesh Prasad",
+        "Star3": "Sohum Shah",
+        "Star4": "Jyoti Malshe",
+        "No_of_Votes": 27793,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ]
+    },
+    {
+        "Series_Title": "Andhadhun",
+        "Released_Year": 2018,
+        "Certificate": "UA",
+        "Runtime": 139,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Sriram Raghavan",
+        "Star1": "Ayushmann Khurrana",
+        "Star2": "Tabu",
+        "Star3": "Radhika Apte",
+        "Star4": "Anil Dhawan",
+        "No_of_Votes": 71875,
+        "Gross": 1373943,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "Series_Title": "Drishyam",
+        "Released_Year": 2013,
+        "Certificate": "U",
+        "Runtime": 160,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Jeethu Joseph",
+        "Star1": "Mohanlal",
+        "Star2": "Meena",
+        "Star3": "Asha Sharath",
+        "Star4": "Ansiba",
+        "No_of_Votes": 30722,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Jagten",
+        "Released_Year": 2012,
+        "Certificate": "R",
+        "Runtime": 115,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 77,
+        "Director": "Thomas Vinterberg",
+        "Star1": "Mads Mikkelsen",
+        "Star2": "Thomas Bo Larsen",
+        "Star3": "Annika Wedderkopp",
+        "Star4": "Lasse Fogelstr\u00f8m",
+        "No_of_Votes": 281623,
+        "Gross": 687185,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Jodaeiye Nader az Simin",
+        "Released_Year": 2011,
+        "Certificate": "PG-13",
+        "Runtime": 123,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 95,
+        "Director": "Asghar Farhadi",
+        "Star1": "Payman Maadi",
+        "Star2": "Leila Hatami",
+        "Star3": "Sareh Bayat",
+        "Star4": "Shahab Hosseini",
+        "No_of_Votes": 220002,
+        "Gross": 7098492,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Incendies",
+        "Released_Year": 2010,
+        "Certificate": "R",
+        "Runtime": 131,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 80,
+        "Director": "Denis Villeneuve",
+        "Star1": "Lubna Azabal",
+        "Star2": "M\u00e9lissa D\u00e9sormeaux-Poulin",
+        "Star3": "Maxim Gaudette",
+        "Star4": "Mustafa Kamel",
+        "No_of_Votes": 150023,
+        "Gross": 6857096,
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Miracle in cell NO.7",
+        "Released_Year": 2019,
+        "Certificate": "TV-14",
+        "Runtime": 132,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Mehmet Ada \u00d6ztekin",
+        "Star1": "Aras Bulut Iynemli",
+        "Star2": "Nisa Sofiya Aksongur",
+        "Star3": "Deniz Baysal",
+        "Star4": "Celile Toyon Uysal",
+        "No_of_Votes": 33935,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Babam ve Oglum",
+        "Released_Year": 2005,
+        "Certificate": "",
+        "Runtime": 112,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "\u00c7agan Irmak",
+        "Star1": "\u00c7etin Tekindor",
+        "Star2": "Fikret Kuskan",
+        "Star3": "H\u00fcmeyra",
+        "Star4": "Ege Tanman",
+        "No_of_Votes": 78925,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "Inglourious Basterds",
+        "Released_Year": 2009,
+        "Certificate": "A",
+        "Runtime": 153,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 69,
+        "Director": "Quentin Tarantino",
+        "Star1": "Brad Pitt",
+        "Star2": "Diane Kruger",
+        "Star3": "Eli Roth",
+        "Star4": "M\u00e9lanie Laurent",
+        "No_of_Votes": 1267869,
+        "Gross": 120540719,
+        "Genres": [
+            "Adventure",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Eternal Sunshine of the Spotlessd",
+        "Released_Year": 2004,
+        "Certificate": "UA",
+        "Runtime": 108,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 89,
+        "Director": "Michel Gondry",
+        "Star1": "Jim Carrey",
+        "Star2": "Kate Winslet",
+        "Star3": "Tom Wilkinson",
+        "Star4": "Gerry Robert Byrne",
+        "No_of_Votes": 911664,
+        "Gross": 34400301,
+        "Genres": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Am\u00e9lie",
+        "Released_Year": 2001,
+        "Certificate": "U",
+        "Runtime": 122,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 69,
+        "Director": "Jean-Pierre Jeunet",
+        "Star1": "Audrey Tautou",
+        "Star2": "Mathieu Kassovitz",
+        "Star3": "Rufus",
+        "Star4": "Lorella Cravotta",
+        "No_of_Votes": 703810,
+        "Gross": 33225499,
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Snatch",
+        "Released_Year": 2000,
+        "Certificate": "UA",
+        "Runtime": 104,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 55,
+        "Director": "Guy Ritchie",
+        "Star1": "Jason Statham",
+        "Star2": "Brad Pitt",
+        "Star3": "Benicio Del Toro",
+        "Star4": "Dennis Farina",
+        "No_of_Votes": 782001,
+        "Gross": 30328156,
+        "Genres": [
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "Series_Title": "Requiem for a Dream",
+        "Released_Year": 2000,
+        "Certificate": "A",
+        "Runtime": 102,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 68,
+        "Director": "Darren Aronofsky",
+        "Star1": "Ellen Burstyn",
+        "Star2": "Jared Leto",
+        "Star3": "Jennifer Connelly",
+        "Star4": "Marlon Wayans",
+        "No_of_Votes": 766870,
+        "Gross": 3635482,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "American Beauty",
+        "Released_Year": 1999,
+        "Certificate": "UA",
+        "Runtime": 122,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 84,
+        "Director": "Sam Mendes",
+        "Star1": "Kevin Spacey",
+        "Star2": "Annette Bening",
+        "Star3": "Thora Birch",
+        "Star4": "Wes Bentley",
+        "No_of_Votes": 1069738,
+        "Gross": 130096601,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Good Will Hunting",
+        "Released_Year": 1997,
+        "Certificate": "U",
+        "Runtime": 126,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 70,
+        "Director": "Gus Van Sant",
+        "Star1": "Robin Williams",
+        "Star2": "Matt Damon",
+        "Star3": "Ben Affleck",
+        "Star4": "Stellan Skarsg\u00e5rd",
+        "No_of_Votes": 861606,
+        "Gross": 138433435,
+        "Genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Bacheha-Ye aseman",
+        "Released_Year": 1997,
+        "Certificate": "PG",
+        "Runtime": 89,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 77,
+        "Director": "Majid Majidi",
+        "Star1": "Mohammad Amir Naji",
+        "Star2": "Amir Farrokh Hashemian",
+        "Star3": "Bahare Seddiqi",
+        "Star4": "Nafise Jafar-Mohammadi",
+        "No_of_Votes": 65341,
+        "Gross": 933933,
+        "Genres": [
+            "Drama",
+            "Family",
+            "Sport"
+        ]
+    },
+    {
+        "Series_Title": "Toy Story",
+        "Released_Year": 1995,
+        "Certificate": "U",
+        "Runtime": 81,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 95,
+        "Director": "John Lasseter",
+        "Star1": "Tom Hanks",
+        "Star2": "Tim Allen",
+        "Star3": "Don Rickles",
+        "Star4": "Jim Varney",
+        "No_of_Votes": 887429,
+        "Gross": 191796233,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "Braveheart",
+        "Released_Year": 1995,
+        "Certificate": "A",
+        "Runtime": 178,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 68,
+        "Director": "Mel Gibson",
+        "Star1": "Mel Gibson",
+        "Star2": "Sophie Marceau",
+        "Star3": "Patrick McGoohan",
+        "Star4": "Angus Macfadyen",
+        "No_of_Votes": 959181,
+        "Gross": 75600000,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Reservoir Dogs",
+        "Released_Year": 1992,
+        "Certificate": "R",
+        "Runtime": 99,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 79,
+        "Director": "Quentin Tarantino",
+        "Star1": "Harvey Keitel",
+        "Star2": "Tim Roth",
+        "Star3": "Michael Madsen",
+        "Star4": "Chris Penn",
+        "No_of_Votes": 918562,
+        "Gross": 2832029,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Full Metal Jacket",
+        "Released_Year": 1987,
+        "Certificate": "UA",
+        "Runtime": 116,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 76,
+        "Director": "Stanley Kubrick",
+        "Star1": "Matthew Modine",
+        "Star2": "R. Lee Ermey",
+        "Star3": "Vincent D'Onofrio",
+        "Star4": "Adam Baldwin",
+        "No_of_Votes": 675146,
+        "Gross": 46357676,
+        "Genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Idi i smotri",
+        "Released_Year": 1985,
+        "Certificate": "A",
+        "Runtime": 142,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Elem Klimov",
+        "Star1": "Aleksey Kravchenko",
+        "Star2": "Olga Mironova",
+        "Star3": "Liubomiras Laucevicius",
+        "Star4": "Vladas Bagdonas",
+        "No_of_Votes": 59056,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "Thriller",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Aliens",
+        "Released_Year": 1986,
+        "Certificate": "U",
+        "Runtime": 137,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 84,
+        "Director": "James Cameron",
+        "Star1": "Sigourney Weaver",
+        "Star2": "Michael Biehn",
+        "Star3": "Carrie Henn",
+        "Star4": "Paul Reiser",
+        "No_of_Votes": 652719,
+        "Gross": 85160248,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Amadeus",
+        "Released_Year": 1984,
+        "Certificate": "R",
+        "Runtime": 160,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 88,
+        "Director": "Milos Forman",
+        "Star1": "F. Murray Abraham",
+        "Star2": "Tom Hulce",
+        "Star3": "Elizabeth Berridge",
+        "Star4": "Roy Dotrice",
+        "No_of_Votes": 369007,
+        "Gross": 51973029,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Scarface",
+        "Released_Year": 1983,
+        "Certificate": "A",
+        "Runtime": 170,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 65,
+        "Director": "Brian De Palma",
+        "Star1": "Al Pacino",
+        "Star2": "Michelle Pfeiffer",
+        "Star3": "Steven Bauer",
+        "Star4": "Mary Elizabeth Mastrantonio",
+        "No_of_Votes": 740911,
+        "Gross": 45598982,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Star Wars: Episode VI - Return of the Jedi",
+        "Released_Year": 1983,
+        "Certificate": "U",
+        "Runtime": 131,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 58,
+        "Director": "Richard Marquand",
+        "Star1": "Mark Hamill",
+        "Star2": "Harrison Ford",
+        "Star3": "Carrie Fisher",
+        "Star4": "Billy Dee Williams",
+        "No_of_Votes": 950470,
+        "Gross": 309125409,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "Das Boot",
+        "Released_Year": 1981,
+        "Certificate": "R",
+        "Runtime": 149,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 86,
+        "Director": "Wolfgang Petersen",
+        "Star1": "J\u00fcrgen Prochnow",
+        "Star2": "Herbert Gr\u00f6nemeyer",
+        "Star3": "Klaus Wennemann",
+        "Star4": "Hubertus Bengsch",
+        "No_of_Votes": 231855,
+        "Gross": 11487676,
+        "Genres": [
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Taxi Driver",
+        "Released_Year": 1976,
+        "Certificate": "A",
+        "Runtime": 114,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 94,
+        "Director": "Martin Scorsese",
+        "Star1": "Robert De Niro",
+        "Star2": "Jodie Foster",
+        "Star3": "Cybill Shepherd",
+        "Star4": "Albert Brooks",
+        "No_of_Votes": 724636,
+        "Gross": 28262574,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Sting",
+        "Released_Year": 1973,
+        "Certificate": "U",
+        "Runtime": 129,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 83,
+        "Director": "George Roy Hill",
+        "Star1": "Paul Newman",
+        "Star2": "Robert Redford",
+        "Star3": "Robert Shaw",
+        "Star4": "Charles Durning",
+        "No_of_Votes": 241513,
+        "Gross": 159600000,
+        "Genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "A Clockwork Orange",
+        "Released_Year": 1971,
+        "Certificate": "A",
+        "Runtime": 136,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 77,
+        "Director": "Stanley Kubrick",
+        "Star1": "Malcolm McDowell",
+        "Star2": "Patrick Magee",
+        "Star3": "Michael Bates",
+        "Star4": "Warren Clarke",
+        "No_of_Votes": 757904,
+        "Gross": 6207725,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "2001: A Space Odyssey",
+        "Released_Year": 1968,
+        "Certificate": "U",
+        "Runtime": 149,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 84,
+        "Director": "Stanley Kubrick",
+        "Star1": "Keir Dullea",
+        "Star2": "Gary Lockwood",
+        "Star3": "William Sylvester",
+        "Star4": "Daniel Richter",
+        "No_of_Votes": 603517,
+        "Gross": 56954992,
+        "Genres": [
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Per qualche dollaro in pi\u00f9",
+        "Released_Year": 1965,
+        "Certificate": "U",
+        "Runtime": 132,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 74,
+        "Director": "Sergio Leone",
+        "Star1": "Clint Eastwood",
+        "Star2": "Lee Van Cleef",
+        "Star3": "Gian Maria Volont\u00e8",
+        "Star4": "Mara Krupp",
+        "No_of_Votes": 232772,
+        "Gross": 15000000,
+        "Genres": [
+            "Western"
+        ]
+    },
+    {
+        "Series_Title": "Lawrence of Arabia",
+        "Released_Year": 1962,
+        "Certificate": "U",
+        "Runtime": 228,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 100,
+        "Director": "David Lean",
+        "Star1": "Peter O'Toole",
+        "Star2": "Alec Guinness",
+        "Star3": "Anthony Quinn",
+        "Star4": "Jack Hawkins",
+        "No_of_Votes": 268085,
+        "Gross": 44824144,
+        "Genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Apartment",
+        "Released_Year": 1960,
+        "Certificate": "U",
+        "Runtime": 125,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 94,
+        "Director": "Billy Wilder",
+        "Star1": "Jack Lemmon",
+        "Star2": "Shirley MacLaine",
+        "Star3": "Fred MacMurray",
+        "Star4": "Ray Walston",
+        "No_of_Votes": 164363,
+        "Gross": 18600000,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "North by Northwest",
+        "Released_Year": 1959,
+        "Certificate": "U",
+        "Runtime": 136,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 98,
+        "Director": "Alfred Hitchcock",
+        "Star1": "Cary Grant",
+        "Star2": "Eva Marie Saint",
+        "Star3": "James Mason",
+        "Star4": "Jessie Royce Landis",
+        "No_of_Votes": 299198,
+        "Gross": 13275000,
+        "Genres": [
+            "Adventure",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Vertigo",
+        "Released_Year": 1958,
+        "Certificate": "A",
+        "Runtime": 128,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 100,
+        "Director": "Alfred Hitchcock",
+        "Star1": "James Stewart",
+        "Star2": "Kim Novak",
+        "Star3": "Barbara Bel Geddes",
+        "Star4": "Tom Helmore",
+        "No_of_Votes": 364368,
+        "Gross": 3200000,
+        "Genres": [
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Singin' in the Rain",
+        "Released_Year": 1952,
+        "Certificate": "G",
+        "Runtime": 103,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 99,
+        "Director": "Stanley Donen",
+        "Star1": "Gene Kelly",
+        "Star2": "Gene Kelly",
+        "Star3": "Donald O'Connor",
+        "Star4": "Debbie Reynolds",
+        "No_of_Votes": 218957,
+        "Gross": 8819028,
+        "Genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Ikiru",
+        "Released_Year": 1952,
+        "Certificate": "",
+        "Runtime": 143,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Akira Kurosawa",
+        "Star1": "Takashi Shimura",
+        "Star2": "Nobuo Kaneko",
+        "Star3": "Shin'ichi Himori",
+        "Star4": "Haruo Tanaka",
+        "No_of_Votes": 68463,
+        "Gross": 55240,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Ladri di biciclette",
+        "Released_Year": 1948,
+        "Certificate": "",
+        "Runtime": 89,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Vittorio De Sica",
+        "Star1": "Lamberto Maggiorani",
+        "Star2": "Enzo Staiola",
+        "Star3": "Lianella Carell",
+        "Star4": "Elena Altieri",
+        "No_of_Votes": 146427,
+        "Gross": 332930,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Double Indemnity",
+        "Released_Year": 1944,
+        "Certificate": "Passed",
+        "Runtime": 107,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 95,
+        "Director": "Billy Wilder",
+        "Star1": "Fred MacMurray",
+        "Star2": "Barbara Stanwyck",
+        "Star3": "Edward G. Robinson",
+        "Star4": "Byron Barr",
+        "No_of_Votes": 143525,
+        "Gross": 5720000,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Film-Noir"
+        ]
+    },
+    {
+        "Series_Title": "Citizen Kane",
+        "Released_Year": 1941,
+        "Certificate": "UA",
+        "Runtime": 119,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 100,
+        "Director": "Orson Welles",
+        "Star1": "Orson Welles",
+        "Star2": "Joseph Cotten",
+        "Star3": "Dorothy Comingore",
+        "Star4": "Agnes Moorehead",
+        "No_of_Votes": 403351,
+        "Gross": 1585634,
+        "Genres": [
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "M - Eine Stadt sucht einen M\u00f6rder",
+        "Released_Year": 1931,
+        "Certificate": "Passed",
+        "Runtime": 117,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Fritz Lang",
+        "Star1": "Peter Lorre",
+        "Star2": "Ellen Widmann",
+        "Star3": "Inge Landgut",
+        "Star4": "Otto Wernicke",
+        "No_of_Votes": 143434,
+        "Gross": 28877,
+        "Genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Metropolis",
+        "Released_Year": 1927,
+        "Certificate": "",
+        "Runtime": 153,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 98,
+        "Director": "Fritz Lang",
+        "Star1": "Brigitte Helm",
+        "Star2": "Alfred Abel",
+        "Star3": "Gustav Fr\u00f6hlich",
+        "Star4": "Rudolf Klein-Rogge",
+        "No_of_Votes": 159992,
+        "Gross": 1236166,
+        "Genres": [
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "The Kid",
+        "Released_Year": 1921,
+        "Certificate": "Passed",
+        "Runtime": 68,
+        "IMDB_Rating": 8.3,
+        "Meta_score": 78,
+        "Director": "Charles Chaplin",
+        "Star1": "Charles Chaplin",
+        "Star2": "Edna Purviance",
+        "Star3": "Jackie Coogan",
+        "Star4": "Carl Miller",
+        "No_of_Votes": 113314,
+        "Gross": 5450000,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "Chhichhore",
+        "Released_Year": 2019,
+        "Certificate": "UA",
+        "Runtime": 143,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Nitesh Tiwari",
+        "Star1": "Sushant Singh Rajput",
+        "Star2": "Shraddha Kapoor",
+        "Star3": "Varun Sharma",
+        "Star4": "Prateik",
+        "No_of_Votes": 33893,
+        "Gross": 898575,
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Uri: The Surgical Strike",
+        "Released_Year": 2018,
+        "Certificate": "UA",
+        "Runtime": 138,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Aditya Dhar",
+        "Star1": "Vicky Kaushal",
+        "Star2": "Paresh Rawal",
+        "Star3": "Mohit Raina",
+        "Star4": "Yami Gautam",
+        "No_of_Votes": 43444,
+        "Gross": 4186168,
+        "Genres": [
+            "Action",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "K.G.F: Chapter 1",
+        "Released_Year": 2018,
+        "Certificate": "UA",
+        "Runtime": 156,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Prashanth Neel",
+        "Star1": "Yash",
+        "Star2": "Srinidhi Shetty",
+        "Star3": "Ramachandra Raju",
+        "Star4": "Archana Jois",
+        "No_of_Votes": 36680,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Green Book",
+        "Released_Year": 2018,
+        "Certificate": "UA",
+        "Runtime": 130,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 69,
+        "Director": "Peter Farrelly",
+        "Star1": "Viggo Mortensen",
+        "Star2": "Mahershala Ali",
+        "Star3": "Linda Cardellini",
+        "Star4": "Sebastian Maniscalco",
+        "No_of_Votes": 377884,
+        "Gross": 85080171,
+        "Genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Three Billboards Outside Ebbing, Missouri",
+        "Released_Year": 2017,
+        "Certificate": "A",
+        "Runtime": 115,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 88,
+        "Director": "Martin McDonagh",
+        "Star1": "Frances McDormand",
+        "Star2": "Woody Harrelson",
+        "Star3": "Sam Rockwell",
+        "Star4": "Caleb Landry Jones",
+        "No_of_Votes": 432610,
+        "Gross": 54513740,
+        "Genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Talvar",
+        "Released_Year": 2015,
+        "Certificate": "UA",
+        "Runtime": 132,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Meghna Gulzar",
+        "Star1": "Irrfan Khan",
+        "Star2": "Konkona Sen Sharma",
+        "Star3": "Neeraj Kabi",
+        "Star4": "Sohum Shah",
+        "No_of_Votes": 31142,
+        "Gross": 342370,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Baahubali 2: The Conclusion",
+        "Released_Year": 2017,
+        "Certificate": "UA",
+        "Runtime": 167,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "S.S. Rajamouli",
+        "Star1": "Prabhas",
+        "Star2": "Rana Daggubati",
+        "Star3": "Anushka Shetty",
+        "Star4": "Tamannaah Bhatia",
+        "No_of_Votes": 75348,
+        "Gross": 20186659,
+        "Genres": [
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Klaus",
+        "Released_Year": 2019,
+        "Certificate": "PG",
+        "Runtime": 96,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 65,
+        "Director": "Sergio Pablos",
+        "Star1": "Carlos Mart\u00ednez L\u00f3pez",
+        "Star2": "Jason Schwartzman",
+        "Star3": "J.K. Simmons",
+        "Star4": "Rashida Jones",
+        "No_of_Votes": 104761,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "Drishyam",
+        "Released_Year": 2015,
+        "Certificate": "UA",
+        "Runtime": 163,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Nishikant Kamat",
+        "Star1": "Ajay Devgn",
+        "Star2": "Shriya Saran",
+        "Star3": "Tabu",
+        "Star4": "Rajat Kapoor",
+        "No_of_Votes": 70367,
+        "Gross": 739478,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Queen",
+        "Released_Year": 2013,
+        "Certificate": "UA",
+        "Runtime": 146,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Vikas Bahl",
+        "Star1": "Kangana Ranaut",
+        "Star2": "Rajkummar Rao",
+        "Star3": "Lisa Haydon",
+        "Star4": "Jeffrey Ho",
+        "No_of_Votes": 60701,
+        "Gross": 1429534,
+        "Genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Mandariinid",
+        "Released_Year": 2013,
+        "Certificate": "",
+        "Runtime": 87,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 73,
+        "Director": "Zaza Urushadze",
+        "Star1": "Lembit Ulfsak",
+        "Star2": "Elmo N\u00fcganen",
+        "Star3": "Giorgi Nakashidze",
+        "Star4": "Misha Meskhi",
+        "No_of_Votes": 40382,
+        "Gross": 144501,
+        "Genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Bhaag Milkha Bhaag",
+        "Released_Year": 2013,
+        "Certificate": "U",
+        "Runtime": 186,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Rakeysh Omprakash Mehra",
+        "Star1": "Farhan Akhtar",
+        "Star2": "Sonam Kapoor",
+        "Star3": "Pawan Malhotra",
+        "Star4": "Art Malik",
+        "No_of_Votes": 61137,
+        "Gross": 1626289,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "Series_Title": "Gangs of Wasseypur",
+        "Released_Year": 2012,
+        "Certificate": "A",
+        "Runtime": 321,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 89,
+        "Director": "Anurag Kashyap",
+        "Star1": "Manoj Bajpayee",
+        "Star2": "Richa Chadha",
+        "Star3": "Nawazuddin Siddiqui",
+        "Star4": "Tigmanshu Dhulia",
+        "No_of_Votes": 82365,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "Series_Title": "Udaan",
+        "Released_Year": 2010,
+        "Certificate": "UA",
+        "Runtime": 134,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Vikramaditya Motwane",
+        "Star1": "Rajat Barmecha",
+        "Star2": "Ronit Roy",
+        "Star3": "Manjot Singh",
+        "Star4": "Ram Kapoor",
+        "No_of_Votes": 42341,
+        "Gross": 7461,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Paan Singh Tomar",
+        "Released_Year": 2012,
+        "Certificate": "UA",
+        "Runtime": 135,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Tigmanshu Dhulia",
+        "Star1": "Irrfan Khan",
+        "Star2": "Mahie Gill",
+        "Star3": "Rajesh Abhay",
+        "Star4": "Hemendra Dandotiya",
+        "No_of_Votes": 33237,
+        "Gross": 39567,
+        "Genres": [
+            "Action",
+            "Biography",
+            "Crime"
+        ]
+    },
+    {
+        "Series_Title": "El secreto de sus ojos",
+        "Released_Year": 2009,
+        "Certificate": "R",
+        "Runtime": 129,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 80,
+        "Director": "Juan Jos\u00e9 Campanella",
+        "Star1": "Ricardo Dar\u00edn",
+        "Star2": "Soledad Villamil",
+        "Star3": "Pablo Rago",
+        "Star4": "Carla Quevedo",
+        "No_of_Votes": 193217,
+        "Gross": 6391436,
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Warrior",
+        "Released_Year": 2011,
+        "Certificate": "UA",
+        "Runtime": 140,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 71,
+        "Director": "Gavin O'Connor",
+        "Star1": "Tom Hardy",
+        "Star2": "Nick Nolte",
+        "Star3": "Joel Edgerton",
+        "Star4": "Jennifer Morrison",
+        "No_of_Votes": 435950,
+        "Gross": 13657115,
+        "Genres": [
+            "Action",
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "Series_Title": "Shutter Island",
+        "Released_Year": 2010,
+        "Certificate": "A",
+        "Runtime": 138,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 63,
+        "Director": "Martin Scorsese",
+        "Star1": "Leonardo DiCaprio",
+        "Star2": "Emily Mortimer",
+        "Star3": "Mark Ruffalo",
+        "Star4": "Ben Kingsley",
+        "No_of_Votes": 1129894,
+        "Gross": 128012934,
+        "Genres": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Up",
+        "Released_Year": 2009,
+        "Certificate": "U",
+        "Runtime": 96,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 88,
+        "Director": "Pete Docter",
+        "Star1": "Bob Peterson",
+        "Star2": "Edward Asner",
+        "Star3": "Jordan Nagai",
+        "Star4": "John Ratzenberger",
+        "No_of_Votes": 935507,
+        "Gross": 293004164,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "The Wolf of Wall Street",
+        "Released_Year": 2013,
+        "Certificate": "A",
+        "Runtime": 180,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 75,
+        "Director": "Martin Scorsese",
+        "Star1": "Leonardo DiCaprio",
+        "Star2": "Jonah Hill",
+        "Star3": "Margot Robbie",
+        "Star4": "Matthew McConaughey",
+        "No_of_Votes": 1187498,
+        "Gross": 116900694,
+        "Genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Chak De! India",
+        "Released_Year": 2007,
+        "Certificate": "U",
+        "Runtime": 153,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 68,
+        "Director": "Shimit Amin",
+        "Star1": "Shah Rukh Khan",
+        "Star2": "Vidya Malvade",
+        "Star3": "Sagarika Ghatge",
+        "Star4": "Shilpa Shukla",
+        "No_of_Votes": 74129,
+        "Gross": 1113541,
+        "Genres": [
+            "Drama",
+            "Family",
+            "Sport"
+        ]
+    },
+    {
+        "Series_Title": "There Will Be Blood",
+        "Released_Year": 2007,
+        "Certificate": "A",
+        "Runtime": 158,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 93,
+        "Director": "Paul Thomas Anderson",
+        "Star1": "Daniel Day-Lewis",
+        "Star2": "Paul Dano",
+        "Star3": "Ciar\u00e1n Hinds",
+        "Star4": "Martin Stringer",
+        "No_of_Votes": 517359,
+        "Gross": 40222514,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Pan's Labyrinth",
+        "Released_Year": 2006,
+        "Certificate": "UA",
+        "Runtime": 118,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 98,
+        "Director": "Guillermo del Toro",
+        "Star1": "Ivana Baquero",
+        "Star2": "Ariadna Gil",
+        "Star3": "Sergi L\u00f3pez",
+        "Star4": "Maribel Verd\u00fa",
+        "No_of_Votes": 618623,
+        "Gross": 37634615,
+        "Genres": [
+            "Drama",
+            "Fantasy",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Toy Story 3",
+        "Released_Year": 2010,
+        "Certificate": "U",
+        "Runtime": 103,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 92,
+        "Director": "Lee Unkrich",
+        "Star1": "Tom Hanks",
+        "Star2": "Tim Allen",
+        "Star3": "Joan Cusack",
+        "Star4": "Ned Beatty",
+        "No_of_Votes": 757032,
+        "Gross": 415004880,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "V for Vendetta",
+        "Released_Year": 2005,
+        "Certificate": "A",
+        "Runtime": 132,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 62,
+        "Director": "James McTeigue",
+        "Star1": "Hugo Weaving",
+        "Star2": "Natalie Portman",
+        "Star3": "Rupert Graves",
+        "Star4": "Stephen Rea",
+        "No_of_Votes": 1032749,
+        "Gross": 70511035,
+        "Genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Rang De Basanti",
+        "Released_Year": 2006,
+        "Certificate": "UA",
+        "Runtime": 167,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Rakeysh Omprakash Mehra",
+        "Star1": "Aamir Khan",
+        "Star2": "Soha Ali Khan",
+        "Star3": "Siddharth",
+        "Star4": "Sharman Joshi",
+        "No_of_Votes": 111937,
+        "Gross": 2197331,
+        "Genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Black",
+        "Released_Year": 2005,
+        "Certificate": "U",
+        "Runtime": 122,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Sanjay Leela Bhansali",
+        "Star1": "Amitabh Bachchan",
+        "Star2": "Rani Mukerji",
+        "Star3": "Shernaz Patel",
+        "Star4": "Ayesha Kapoor",
+        "No_of_Votes": 33354,
+        "Gross": 733094,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Batman Begins",
+        "Released_Year": 2005,
+        "Certificate": "UA",
+        "Runtime": 140,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 70,
+        "Director": "Christopher Nolan",
+        "Star1": "Christian Bale",
+        "Star2": "Michael Caine",
+        "Star3": "Ken Watanabe",
+        "Star4": "Liam Neeson",
+        "No_of_Votes": 1308302,
+        "Gross": 206852432,
+        "Genres": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "Series_Title": "Swades: We, the People",
+        "Released_Year": 2004,
+        "Certificate": "U",
+        "Runtime": 210,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Ashutosh Gowariker",
+        "Star1": "Shah Rukh Khan",
+        "Star2": "Gayatri Joshi",
+        "Star3": "Kishori Ballal",
+        "Star4": "Smit Sheth",
+        "No_of_Votes": 83005,
+        "Gross": 1223240,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Der Untergang",
+        "Released_Year": 2004,
+        "Certificate": "R",
+        "Runtime": 156,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 82,
+        "Director": "Oliver Hirschbiegel",
+        "Star1": "Bruno Ganz",
+        "Star2": "Alexandra Maria Lara",
+        "Star3": "Ulrich Matthes",
+        "Star4": "Juliane K\u00f6hler",
+        "No_of_Votes": 331308,
+        "Gross": 5509040,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Hauru no ugoku shiro",
+        "Released_Year": 2004,
+        "Certificate": "U",
+        "Runtime": 119,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 80,
+        "Director": "Hayao Miyazaki",
+        "Star1": "Chieko Baish\u00f4",
+        "Star2": "Takuya Kimura",
+        "Star3": "Tatsuya Gash\u00fbin",
+        "Star4": "Akihiro Miwa",
+        "No_of_Votes": 333915,
+        "Gross": 4711096,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "A Beautifuld",
+        "Released_Year": 2001,
+        "Certificate": "UA",
+        "Runtime": 135,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 72,
+        "Director": "Ron Howard",
+        "Star1": "Russell Crowe",
+        "Star2": "Ed Harris",
+        "Star3": "Jennifer Connelly",
+        "Star4": "Christopher Plummer",
+        "No_of_Votes": 848920,
+        "Gross": 170742341,
+        "Genres": [
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Hera Pheri",
+        "Released_Year": 2000,
+        "Certificate": "U",
+        "Runtime": 156,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Priyadarshan",
+        "Star1": "Akshay Kumar",
+        "Star2": "Sunil Shetty",
+        "Star3": "Paresh Rawal",
+        "Star4": "Tabu",
+        "No_of_Votes": 57057,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "Series_Title": "Lock, Stock and Two Smoking Barrels",
+        "Released_Year": 1998,
+        "Certificate": "A",
+        "Runtime": 107,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 66,
+        "Director": "Guy Ritchie",
+        "Star1": "Jason Flemyng",
+        "Star2": "Dexter Fletcher",
+        "Star3": "Nick Moran",
+        "Star4": "Jason Statham",
+        "No_of_Votes": 535216,
+        "Gross": 3897569,
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "Series_Title": "L.A. Confidential",
+        "Released_Year": 1997,
+        "Certificate": "A",
+        "Runtime": 138,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 90,
+        "Director": "Curtis Hanson",
+        "Star1": "Kevin Spacey",
+        "Star2": "Russell Crowe",
+        "Star3": "Guy Pearce",
+        "Star4": "Kim Basinger",
+        "No_of_Votes": 531967,
+        "Gross": 64616940,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Eskiya",
+        "Released_Year": 1996,
+        "Certificate": "",
+        "Runtime": 128,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Yavuz Turgul",
+        "Star1": "Sener Sen",
+        "Star2": "Ugur Y\u00fccel",
+        "Star3": "Sermin H\u00fcrmeri\u00e7",
+        "Star4": "Yesim Salkim",
+        "No_of_Votes": 64118,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Heat",
+        "Released_Year": 1995,
+        "Certificate": "A",
+        "Runtime": 170,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 76,
+        "Director": "Michael Mann",
+        "Star1": "Al Pacino",
+        "Star2": "Robert De Niro",
+        "Star3": "Val Kilmer",
+        "Star4": "Jon Voight",
+        "No_of_Votes": 577113,
+        "Gross": 67436818,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Casino",
+        "Released_Year": 1995,
+        "Certificate": "A",
+        "Runtime": 178,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 73,
+        "Director": "Martin Scorsese",
+        "Star1": "Robert De Niro",
+        "Star2": "Sharon Stone",
+        "Star3": "Joe Pesci",
+        "Star4": "James Woods",
+        "No_of_Votes": 466276,
+        "Gross": 42438300,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Andaz Apna Apna",
+        "Released_Year": 1994,
+        "Certificate": "U",
+        "Runtime": 160,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Rajkumar Santoshi",
+        "Star1": "Aamir Khan",
+        "Star2": "Salman Khan",
+        "Star3": "Raveena Tandon",
+        "Star4": "Karisma Kapoor",
+        "No_of_Votes": 49300,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Unforgiven",
+        "Released_Year": 1992,
+        "Certificate": "A",
+        "Runtime": 130,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 85,
+        "Director": "Clint Eastwood",
+        "Star1": "Clint Eastwood",
+        "Star2": "Gene Hackman",
+        "Star3": "Morgan Freeman",
+        "Star4": "Richard Harris",
+        "No_of_Votes": 375935,
+        "Gross": 101157447,
+        "Genres": [
+            "Drama",
+            "Western"
+        ]
+    },
+    {
+        "Series_Title": "Indiana Jones and the Last Crusade",
+        "Released_Year": 1989,
+        "Certificate": "U",
+        "Runtime": 127,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 65,
+        "Director": "Steven Spielberg",
+        "Star1": "Harrison Ford",
+        "Star2": "Sean Connery",
+        "Star3": "Alison Doody",
+        "Star4": "Denholm Elliott",
+        "No_of_Votes": 692366,
+        "Gross": 197171806,
+        "Genres": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "Series_Title": "Dom za vesanje",
+        "Released_Year": 1988,
+        "Certificate": "R",
+        "Runtime": 142,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Emir Kusturica",
+        "Star1": "Davor Dujmovic",
+        "Star2": "Bora Todorovic",
+        "Star3": "Ljubica Adzovic",
+        "Star4": "Husnija Hasimovic",
+        "No_of_Votes": 26402,
+        "Gross": 280015,
+        "Genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Tonari no Totoro",
+        "Released_Year": 1988,
+        "Certificate": "U",
+        "Runtime": 86,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 86,
+        "Director": "Hayao Miyazaki",
+        "Star1": "Hitoshi Takagi",
+        "Star2": "Noriko Hidaka",
+        "Star3": "Chika Sakamoto",
+        "Star4": "Shigesato Itoi",
+        "No_of_Votes": 291180,
+        "Gross": 1105564,
+        "Genres": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "Die Hard",
+        "Released_Year": 1988,
+        "Certificate": "A",
+        "Runtime": 132,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 72,
+        "Director": "John McTiernan",
+        "Star1": "Bruce Willis",
+        "Star2": "Alan Rickman",
+        "Star3": "Bonnie Bedelia",
+        "Star4": "Reginald VelJohnson",
+        "No_of_Votes": 793164,
+        "Gross": 83008852,
+        "Genres": [
+            "Action",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Ran",
+        "Released_Year": 1985,
+        "Certificate": "U",
+        "Runtime": 162,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 96,
+        "Director": "Akira Kurosawa",
+        "Star1": "Tatsuya Nakadai",
+        "Star2": "Akira Terao",
+        "Star3": "Jinpachi Nezu",
+        "Star4": "Daisuke Ry\u00fb",
+        "No_of_Votes": 112505,
+        "Gross": 4135750,
+        "Genres": [
+            "Action",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Raging Bull",
+        "Released_Year": 1980,
+        "Certificate": "A",
+        "Runtime": 129,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 89,
+        "Director": "Martin Scorsese",
+        "Star1": "Robert De Niro",
+        "Star2": "Cathy Moriarty",
+        "Star3": "Joe Pesci",
+        "Star4": "Frank Vincent",
+        "No_of_Votes": 321860,
+        "Gross": 23383987,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "Series_Title": "Stalker",
+        "Released_Year": 1979,
+        "Certificate": "U",
+        "Runtime": 162,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Andrei Tarkovsky",
+        "Star1": "Alisa Freyndlikh",
+        "Star2": "Aleksandr Kaydanovskiy",
+        "Star3": "Anatoliy Solonitsyn",
+        "Star4": "Nikolay Grinko",
+        "No_of_Votes": 116945,
+        "Gross": 234723,
+        "Genres": [
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "H\u00f6stsonaten",
+        "Released_Year": 1978,
+        "Certificate": "U",
+        "Runtime": 99,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Ingmar Bergman",
+        "Star1": "Ingrid Bergman",
+        "Star2": "Liv Ullmann",
+        "Star3": "Lena Nyman",
+        "Star4": "Halvar Bj\u00f6rk",
+        "No_of_Votes": 26875,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "Series_Title": "The Message",
+        "Released_Year": 1976,
+        "Certificate": "PG",
+        "Runtime": 177,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Moustapha Akkad",
+        "Star1": "Anthony Quinn",
+        "Star2": "Irene Papas",
+        "Star3": "Michael Ansara",
+        "Star4": "Johnny Sekka",
+        "No_of_Votes": 43885,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Sholay",
+        "Released_Year": 1975,
+        "Certificate": "U",
+        "Runtime": 204,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Ramesh Sippy",
+        "Star1": "Sanjeev Kumar",
+        "Star2": "Dharmendra",
+        "Star3": "Amitabh Bachchan",
+        "Star4": "Amjad Khan",
+        "No_of_Votes": 51284,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "Monty Python and the Holy Grail",
+        "Released_Year": 1975,
+        "Certificate": "PG",
+        "Runtime": 91,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 91,
+        "Director": "Terry Gilliam",
+        "Star1": "Terry Jones",
+        "Star2": "Graham Chapman",
+        "Star3": "John Cleese",
+        "Star4": "Eric Idle",
+        "No_of_Votes": 500875,
+        "Gross": 1229197,
+        "Genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "The Great Escape",
+        "Released_Year": 1963,
+        "Certificate": "U",
+        "Runtime": 172,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 86,
+        "Director": "John Sturges",
+        "Star1": "Steve McQueen",
+        "Star2": "James Garner",
+        "Star3": "Richard Attenborough",
+        "Star4": "Charles Bronson",
+        "No_of_Votes": 224730,
+        "Gross": 12100000,
+        "Genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "To Kill a Mockingbird",
+        "Released_Year": 1962,
+        "Certificate": "U",
+        "Runtime": 129,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 88,
+        "Director": "Robert Mulligan",
+        "Star1": "Gregory Peck",
+        "Star2": "John Megna",
+        "Star3": "Frank Overton",
+        "Star4": "Rosemary Murphy",
+        "No_of_Votes": 293811,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Y\u00f4jinb\u00f4",
+        "Released_Year": 1961,
+        "Certificate": "",
+        "Runtime": 110,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Akira Kurosawa",
+        "Star1": "Toshir\u00f4 Mifune",
+        "Star2": "Eijir\u00f4 T\u00f4no",
+        "Star3": "Tatsuya Nakadai",
+        "Star4": "Y\u00f4ko Tsukasa",
+        "No_of_Votes": 111244,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Judgment at Nuremberg",
+        "Released_Year": 1961,
+        "Certificate": "A",
+        "Runtime": 179,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 60,
+        "Director": "Stanley Kramer",
+        "Star1": "Spencer Tracy",
+        "Star2": "Burt Lancaster",
+        "Star3": "Richard Widmark",
+        "Star4": "Marlene Dietrich",
+        "No_of_Votes": 69458,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Some Like It Hot",
+        "Released_Year": 1959,
+        "Certificate": "U",
+        "Runtime": 121,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 98,
+        "Director": "Billy Wilder",
+        "Star1": "Marilyn Monroe",
+        "Star2": "Tony Curtis",
+        "Star3": "Jack Lemmon",
+        "Star4": "George Raft",
+        "No_of_Votes": 243943,
+        "Gross": 25000000,
+        "Genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Smultronst\u00e4llet",
+        "Released_Year": 1957,
+        "Certificate": "U",
+        "Runtime": 91,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 88,
+        "Director": "Ingmar Bergman",
+        "Star1": "Victor Sj\u00f6str\u00f6m",
+        "Star2": "Bibi Andersson",
+        "Star3": "Ingrid Thulin",
+        "Star4": "Gunnar Bj\u00f6rnstrand",
+        "No_of_Votes": 96381,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Det sjunde inseglet",
+        "Released_Year": 1957,
+        "Certificate": "A",
+        "Runtime": 96,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 88,
+        "Director": "Ingmar Bergman",
+        "Star1": "Max von Sydow",
+        "Star2": "Gunnar Bj\u00f6rnstrand",
+        "Star3": "Bengt Ekerot",
+        "Star4": "Nils Poppe",
+        "No_of_Votes": 164939,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama",
+            "Fantasy",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Du rififi chez les hommes",
+        "Released_Year": 1955,
+        "Certificate": "",
+        "Runtime": 118,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 97,
+        "Director": "Jules Dassin",
+        "Star1": "Jean Servais",
+        "Star2": "Carl M\u00f6hner",
+        "Star3": "Robert Manuel",
+        "Star4": "Janine Darcey",
+        "No_of_Votes": 28810,
+        "Gross": 57226,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Dial M for Murder",
+        "Released_Year": 1954,
+        "Certificate": "A",
+        "Runtime": 105,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 75,
+        "Director": "Alfred Hitchcock",
+        "Star1": "Ray Milland",
+        "Star2": "Grace Kelly",
+        "Star3": "Robert Cummings",
+        "Star4": "John Williams",
+        "No_of_Votes": 158335,
+        "Gross": 12562,
+        "Genres": [
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "T\u00f4ky\u00f4 monogatari",
+        "Released_Year": 1953,
+        "Certificate": "U",
+        "Runtime": 136,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Yasujir\u00f4 Ozu",
+        "Star1": "Chish\u00fb Ry\u00fb",
+        "Star2": "Chieko Higashiyama",
+        "Star3": "S\u00f4 Yamamura",
+        "Star4": "Setsuko Hara",
+        "No_of_Votes": 53153,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Rash\u00f4mon",
+        "Released_Year": 1950,
+        "Certificate": "",
+        "Runtime": 88,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 98,
+        "Director": "Akira Kurosawa",
+        "Star1": "Toshir\u00f4 Mifune",
+        "Star2": "Machiko Ky\u00f4",
+        "Star3": "Masayuki Mori",
+        "Star4": "Takashi Shimura",
+        "No_of_Votes": 152572,
+        "Gross": 96568,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "All About Eve",
+        "Released_Year": 1950,
+        "Certificate": "Passed",
+        "Runtime": 138,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 98,
+        "Director": "Joseph L. Mankiewicz",
+        "Star1": "Bette Davis",
+        "Star2": "Anne Baxter",
+        "Star3": "George Sanders",
+        "Star4": "Celeste Holm",
+        "No_of_Votes": 120539,
+        "Gross": 10177,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "The Treasure of the Sierra Madre",
+        "Released_Year": 1948,
+        "Certificate": "Passed",
+        "Runtime": 126,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 98,
+        "Director": "John Huston",
+        "Star1": "Humphrey Bogart",
+        "Star2": "Walter Huston",
+        "Star3": "Tim Holt",
+        "Star4": "Bruce Bennett",
+        "No_of_Votes": 114304,
+        "Gross": 5014000,
+        "Genres": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ]
+    },
+    {
+        "Series_Title": "To Be or Not to Be",
+        "Released_Year": 1942,
+        "Certificate": "Passed",
+        "Runtime": 99,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 86,
+        "Director": "Ernst Lubitsch",
+        "Star1": "Carole Lombard",
+        "Star2": "Jack Benny",
+        "Star3": "Robert Stack",
+        "Star4": "Felix Bressart",
+        "No_of_Votes": 29915,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Comedy",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "The Gold Rush",
+        "Released_Year": 1925,
+        "Certificate": "Passed",
+        "Runtime": 95,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Charles Chaplin",
+        "Star1": "Charles Chaplin",
+        "Star2": "Mack Swain",
+        "Star3": "Tom Murray",
+        "Star4": "Henry Bergman",
+        "No_of_Votes": 101053,
+        "Gross": 5450000,
+        "Genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Sherlock Jr.",
+        "Released_Year": 1924,
+        "Certificate": "Passed",
+        "Runtime": 45,
+        "IMDB_Rating": 8.2,
+        "Meta_score": 78,
+        "Director": "Buster Keaton",
+        "Star1": "Buster Keaton",
+        "Star2": "Kathryn McGuire",
+        "Star3": "Joe Keaton",
+        "Star4": "Erwin Connelly",
+        "No_of_Votes": 41985,
+        "Gross": 977375,
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Portrait de la jeune fille en feu",
+        "Released_Year": 2019,
+        "Certificate": "R",
+        "Runtime": 122,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 95,
+        "Director": "C\u00e9line Sciamma",
+        "Star1": "No\u00e9mie Merlant",
+        "Star2": "Ad\u00e8le Haenel",
+        "Star3": "Lu\u00e0na Bajrami",
+        "Star4": "Valeria Golino",
+        "No_of_Votes": 63134,
+        "Gross": 3759854,
+        "Genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Pink",
+        "Released_Year": 2016,
+        "Certificate": "UA",
+        "Runtime": 136,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Aniruddha Roy Chowdhury",
+        "Star1": "Taapsee Pannu",
+        "Star2": "Amitabh Bachchan",
+        "Star3": "Kirti Kulhari",
+        "Star4": "Andrea Tariang",
+        "No_of_Votes": 39216,
+        "Gross": 1241223,
+        "Genres": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Koe no katachi",
+        "Released_Year": 2016,
+        "Certificate": 16,
+        "Runtime": 130,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Naoko Yamada",
+        "Star1": "Miyu Irino",
+        "Star2": "Saori Hayami",
+        "Star3": "Aoi Y\u00fbki",
+        "Star4": "Kensh\u00f4 Ono",
+        "No_of_Votes": 47708,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Animation",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "Contratiempo",
+        "Released_Year": 2016,
+        "Certificate": "TV-MA",
+        "Runtime": 106,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Oriol Paulo",
+        "Star1": "Mario Casas",
+        "Star2": "Ana Wagener",
+        "Star3": "Jose Coronado",
+        "Star4": "B\u00e1rbara Lennie",
+        "No_of_Votes": 141516,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Ah-ga-ssi",
+        "Released_Year": 2016,
+        "Certificate": "A",
+        "Runtime": 145,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 84,
+        "Director": "Chan-wook Park",
+        "Star1": "Kim-hee",
+        "Star2": "Jung-woo Ha",
+        "Star3": "Cho Jin-woong",
+        "Star4": "Moon So-Ri",
+        "No_of_Votes": 113649,
+        "Gross": 2006788,
+        "Genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Mommy",
+        "Released_Year": 2014,
+        "Certificate": "R",
+        "Runtime": 139,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 74,
+        "Director": "Xavier Dolan",
+        "Star1": "Anne Dorval",
+        "Star2": "Antoine Olivier Pilon",
+        "Star3": "Suzanne Cl\u00e9ment",
+        "Star4": "Patrick Huard",
+        "No_of_Votes": 50700,
+        "Gross": 3492754,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Haider",
+        "Released_Year": 2014,
+        "Certificate": "UA",
+        "Runtime": 160,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Vishal Bhardwaj",
+        "Star1": "Shahid Kapoor",
+        "Star2": "Tabu",
+        "Star3": "Shraddha Kapoor",
+        "Star4": "Kay Kay Menon",
+        "No_of_Votes": 50445,
+        "Gross": 901610,
+        "Genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Logan",
+        "Released_Year": 2017,
+        "Certificate": "A",
+        "Runtime": 137,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 77,
+        "Director": "James Mangold",
+        "Star1": "Hugh Jackman",
+        "Star2": "Patrick Stewart",
+        "Star3": "Dafne Keen",
+        "Star4": "Boyd Holbrook",
+        "No_of_Votes": 647884,
+        "Gross": 226277068,
+        "Genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "Room",
+        "Released_Year": 2015,
+        "Certificate": "R",
+        "Runtime": 118,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 86,
+        "Director": "Lenny Abrahamson",
+        "Star1": "Brie Larson",
+        "Star2": "Jacob Tremblay",
+        "Star3": "Sean Bridgers",
+        "Star4": "Wendy Crewson",
+        "No_of_Votes": 371538,
+        "Gross": 14677674,
+        "Genres": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Relatos salvajes",
+        "Released_Year": 2014,
+        "Certificate": "R",
+        "Runtime": 122,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 77,
+        "Director": "Dami\u00e1n Szifron",
+        "Star1": "Dar\u00edo Grandinetti",
+        "Star2": "Mar\u00eda Marull",
+        "Star3": "M\u00f3nica Villa",
+        "Star4": "Diego Starosta",
+        "No_of_Votes": 177059,
+        "Gross": 3107072,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Soul",
+        "Released_Year": 2020,
+        "Certificate": "U",
+        "Runtime": 100,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 83,
+        "Director": "Pete Docter",
+        "Star1": "Kemp Powers",
+        "Star2": "Jamie Foxx",
+        "Star3": "Tina Fey",
+        "Star4": "Graham Norton",
+        "No_of_Votes": 159171,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "Kis Uykusu",
+        "Released_Year": 2014,
+        "Certificate": "",
+        "Runtime": 196,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 88,
+        "Director": "Nuri Bilge Ceylan",
+        "Star1": "Haluk Bilginer",
+        "Star2": "Melisa S\u00f6zen",
+        "Star3": "Demet Akbag",
+        "Star4": "Ayberk Pekcan",
+        "No_of_Votes": 46547,
+        "Gross": 165520,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "PK",
+        "Released_Year": 2014,
+        "Certificate": "UA",
+        "Runtime": 153,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Rajkumar Hirani",
+        "Star1": "Aamir Khan",
+        "Star2": "Anushka Sharma",
+        "Star3": "Sanjay Dutt",
+        "Star4": "Boman Irani",
+        "No_of_Votes": 163061,
+        "Gross": 10616104,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ]
+    },
+    {
+        "Series_Title": "OMG: Oh My God!",
+        "Released_Year": 2012,
+        "Certificate": "U",
+        "Runtime": 125,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Umesh Shukla",
+        "Star1": "Paresh Rawal",
+        "Star2": "Akshay Kumar",
+        "Star3": "Mithun Chakraborty",
+        "Star4": "Mahesh Manjrekar",
+        "No_of_Votes": 51739,
+        "Gross": 923221,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "The Grand Budapest Hotel",
+        "Released_Year": 2014,
+        "Certificate": "UA",
+        "Runtime": 99,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 88,
+        "Director": "Wes Anderson",
+        "Star1": "Ralph Fiennes",
+        "Star2": "F. Murray Abraham",
+        "Star3": "Mathieu Amalric",
+        "Star4": "Adrien Brody",
+        "No_of_Votes": 707630,
+        "Gross": 59100318,
+        "Genres": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "Series_Title": "Gone Girl",
+        "Released_Year": 2014,
+        "Certificate": "A",
+        "Runtime": 149,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 79,
+        "Director": "David Fincher",
+        "Star1": "Ben Affleck",
+        "Star2": "Rosamund Pike",
+        "Star3": "Neil Patrick Harris",
+        "Star4": "Tyler Perry",
+        "No_of_Votes": 859695,
+        "Gross": 167767189,
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "\u00d4kami kodomo no Ame to Yuki",
+        "Released_Year": 2012,
+        "Certificate": "U",
+        "Runtime": 117,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 71,
+        "Director": "Mamoru Hosoda",
+        "Star1": "Aoi Miyazaki",
+        "Star2": "Takao Osawa",
+        "Star3": "Haru Kuroki",
+        "Star4": "Yukito Nishii",
+        "No_of_Votes": 38803,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Animation",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "Hacksaw Ridge",
+        "Released_Year": 2016,
+        "Certificate": "A",
+        "Runtime": 139,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 71,
+        "Director": "Mel Gibson",
+        "Star1": "Andrew Garfield",
+        "Star2": "Sam Worthington",
+        "Star3": "Luke Bracey",
+        "Star4": "Teresa Palmer",
+        "No_of_Votes": 435928,
+        "Gross": 67209615,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Inside Out",
+        "Released_Year": 2015,
+        "Certificate": "U",
+        "Runtime": 95,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 94,
+        "Director": "Pete Docter",
+        "Star1": "Ronnie Del Carmen",
+        "Star2": "Amy Poehler",
+        "Star3": "Bill Hader",
+        "Star4": "Lewis Black",
+        "No_of_Votes": 616228,
+        "Gross": 356461711,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "Barfi!",
+        "Released_Year": 2012,
+        "Certificate": "U",
+        "Runtime": 151,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Anurag Basu",
+        "Star1": "Ranbir Kapoor",
+        "Star2": "Priyanka Chopra",
+        "Star3": "Ileana D'Cruz",
+        "Star4": "Saurabh Shukla",
+        "No_of_Votes": 75721,
+        "Gross": 2804874,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "12 Years a Slave",
+        "Released_Year": 2013,
+        "Certificate": "A",
+        "Runtime": 134,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 96,
+        "Director": "Steve McQueen",
+        "Star1": "Chiwetel Ejiofor",
+        "Star2": "Michael Kenneth Williams",
+        "Star3": "Michael Fassbender",
+        "Star4": "Brad Pitt",
+        "No_of_Votes": 640533,
+        "Gross": 56671993,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Rush",
+        "Released_Year": 2013,
+        "Certificate": "UA",
+        "Runtime": 123,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 74,
+        "Director": "Ron Howard",
+        "Star1": "Daniel Br\u00fchl",
+        "Star2": "Chris Hemsworth",
+        "Star3": "Olivia Wilde",
+        "Star4": "Alexandra Maria Lara",
+        "No_of_Votes": 432811,
+        "Gross": 26947624,
+        "Genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Ford v Ferrari",
+        "Released_Year": 2019,
+        "Certificate": "UA",
+        "Runtime": 152,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 81,
+        "Director": "James Mangold",
+        "Star1": "Matt Damon",
+        "Star2": "Christian Bale",
+        "Star3": "Jon Bernthal",
+        "Star4": "Caitriona Balfe",
+        "No_of_Votes": 291289,
+        "Gross": 117624028,
+        "Genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Spotlight",
+        "Released_Year": 2015,
+        "Certificate": "A",
+        "Runtime": 129,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 93,
+        "Director": "Tom McCarthy",
+        "Star1": "Mark Ruffalo",
+        "Star2": "Michael Keaton",
+        "Star3": "Rachel McAdams",
+        "Star4": "Liev Schreiber",
+        "No_of_Votes": 420316,
+        "Gross": 45055776,
+        "Genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Song of the Sea",
+        "Released_Year": 2014,
+        "Certificate": "PG",
+        "Runtime": 93,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 85,
+        "Director": "Tomm Moore",
+        "Star1": "David Rawle",
+        "Star2": "Brendan Gleeson",
+        "Star3": "Lisa Hannigan",
+        "Star4": "Fionnula Flanagan",
+        "No_of_Votes": 51679,
+        "Gross": 857524,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Kahaani",
+        "Released_Year": 2012,
+        "Certificate": "UA",
+        "Runtime": 122,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Sujoy Ghosh",
+        "Star1": "Vidya Balan",
+        "Star2": "Parambrata Chattopadhyay",
+        "Star3": "Indraneil Sengupta",
+        "Star4": "Nawazuddin Siddiqui",
+        "No_of_Votes": 57806,
+        "Gross": 1035953,
+        "Genres": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Zindagi Na Milegi Dobara",
+        "Released_Year": 2011,
+        "Certificate": "U",
+        "Runtime": 155,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Zoya Akhtar",
+        "Star1": "Hrithik Roshan",
+        "Star2": "Farhan Akhtar",
+        "Star3": "Abhay Deol",
+        "Star4": "Katrina Kaif",
+        "No_of_Votes": 67927,
+        "Gross": 3108485,
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Prisoners",
+        "Released_Year": 2013,
+        "Certificate": "A",
+        "Runtime": 153,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 70,
+        "Director": "Denis Villeneuve",
+        "Star1": "Hugh Jackman",
+        "Star2": "Jake Gyllenhaal",
+        "Star3": "Viola Davis",
+        "Star4": "Melissa Leo",
+        "No_of_Votes": 601149,
+        "Gross": 61002302,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Mad Max: Fury Road",
+        "Released_Year": 2015,
+        "Certificate": "UA",
+        "Runtime": 120,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 90,
+        "Director": "George Miller",
+        "Star1": "Tom Hardy",
+        "Star2": "Charlize Theron",
+        "Star3": "Nicholas Hoult",
+        "Star4": "Zo\u00eb Kravitz",
+        "No_of_Votes": 882316,
+        "Gross": 154058340,
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "Series_Title": "A Wednesday",
+        "Released_Year": 2008,
+        "Certificate": "UA",
+        "Runtime": 104,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Neeraj Pandey",
+        "Star1": "Anupam Kher",
+        "Star2": "Naseeruddin Shah",
+        "Star3": "Jimmy Sheirgill",
+        "Star4": "Aamir Bashir",
+        "No_of_Votes": 73891,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Gran Torino",
+        "Released_Year": 2008,
+        "Certificate": "R",
+        "Runtime": 116,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 72,
+        "Director": "Clint Eastwood",
+        "Star1": "Clint Eastwood",
+        "Star2": "Bee Vang",
+        "Star3": "Christopher Carley",
+        "Star4": "Ahney Her",
+        "No_of_Votes": 720450,
+        "Gross": 148095302,
+        "Genres": [
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Harry Potter and the Deathly Hallows: Part 2",
+        "Released_Year": 2011,
+        "Certificate": "UA",
+        "Runtime": 130,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 85,
+        "Director": "David Yates",
+        "Star1": "Daniel Radcliffe",
+        "Star2": "Emma Watson",
+        "Star3": "Rupert Grint",
+        "Star4": "Michael Gambon",
+        "No_of_Votes": 764493,
+        "Gross": 381011219,
+        "Genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "Series_Title": "Okuribito",
+        "Released_Year": 2008,
+        "Certificate": "PG-13",
+        "Runtime": 130,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 68,
+        "Director": "Y\u00f4jir\u00f4 Takita",
+        "Star1": "Masahiro Motoki",
+        "Star2": "Ry\u00f4ko Hirosue",
+        "Star3": "Tsutomu Yamazaki",
+        "Star4": "Kazuko Yoshiyuki",
+        "No_of_Votes": 48582,
+        "Gross": 1498210,
+        "Genres": [
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "Series_Title": "Hachi: A Dog's Tale",
+        "Released_Year": 2009,
+        "Certificate": "G",
+        "Runtime": 93,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Lasse Hallstr\u00f6m",
+        "Star1": "Richard Gere",
+        "Star2": "Joan Allen",
+        "Star3": "Cary-Hiroyuki Tagawa",
+        "Star4": "Sarah Roemer",
+        "No_of_Votes": 253575,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "Series_Title": "Mary and Max",
+        "Released_Year": 2009,
+        "Certificate": "",
+        "Runtime": 92,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Adam Elliot",
+        "Star1": "Toni Collette",
+        "Star2": "Philip Seymour Hoffman",
+        "Star3": "Eric Bana",
+        "Star4": "Barry Humphries",
+        "No_of_Votes": 164462,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "How to Train Your Dragon",
+        "Released_Year": 2010,
+        "Certificate": "U",
+        "Runtime": 98,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 75,
+        "Director": "Dean DeBlois",
+        "Star1": "Chris Sanders",
+        "Star2": "Jay Baruchel",
+        "Star3": "Gerard Butler",
+        "Star4": "Christophertz-Plasse",
+        "No_of_Votes": 666773,
+        "Gross": 217581231,
+        "Genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "Series_Title": "Into the Wild",
+        "Released_Year": 2007,
+        "Certificate": "R",
+        "Runtime": 148,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 73,
+        "Director": "Sean Penn",
+        "Star1": "Emile Hirsch",
+        "Star2": "Vince Vaughn",
+        "Star3": "Catherine Keener",
+        "Star4": "Marcia Gay Harden",
+        "No_of_Votes": 572921,
+        "Gross": 18354356,
+        "Genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "No Country for Old Men",
+        "Released_Year": 2007,
+        "Certificate": "R",
+        "Runtime": 122,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 91,
+        "Director": "Ethan Coen",
+        "Star1": "Joel Coen",
+        "Star2": "Tommy Lee Jones",
+        "Star3": "Javier Bardem",
+        "Star4": "Josh Brolin",
+        "No_of_Votes": 856916,
+        "Gross": 74283625,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Lage Raho Munna Bhai",
+        "Released_Year": 2006,
+        "Certificate": "U",
+        "Runtime": 144,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Rajkumar Hirani",
+        "Star1": "Sanjay Dutt",
+        "Star2": "Arshad Warsi",
+        "Star3": "Vidya Balan",
+        "Star4": "Boman Irani",
+        "No_of_Votes": 43137,
+        "Gross": 2217561,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Million Dollar Baby",
+        "Released_Year": 2004,
+        "Certificate": "UA",
+        "Runtime": 132,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 86,
+        "Director": "Clint Eastwood",
+        "Star1": "Hilary Swank",
+        "Star2": "Clint Eastwood",
+        "Star3": "Morgan Freeman",
+        "Star4": "Jay Baruchel",
+        "No_of_Votes": 635975,
+        "Gross": 100492203,
+        "Genres": [
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "Series_Title": "Hotel Rwanda",
+        "Released_Year": 2004,
+        "Certificate": "PG-13",
+        "Runtime": 121,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 79,
+        "Director": "Terry George",
+        "Star1": "Don Cheadle",
+        "Star2": "Sophie Okonedo",
+        "Star3": "Joaquin Phoenix",
+        "Star4": "Xolani Mali",
+        "No_of_Votes": 334320,
+        "Gross": 23530892,
+        "Genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "Series_Title": "Taegukgi hwinalrimyeo",
+        "Released_Year": 2004,
+        "Certificate": "R",
+        "Runtime": 140,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 64,
+        "Director": "Je-kyu Kang",
+        "Star1": "Jang Dong-Gun",
+        "Star2": "Won Bin",
+        "Star3": "Eun-ju Lee",
+        "Star4": "Hyeong-jin Kong",
+        "No_of_Votes": 37820,
+        "Gross": 1111061,
+        "Genres": [
+            "Action",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "Series_Title": "Before Sunset",
+        "Released_Year": 2004,
+        "Certificate": "R",
+        "Runtime": 80,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 90,
+        "Director": "Richard Linklater",
+        "Star1": "Ethan Hawke",
+        "Star2": "Julie Delpy",
+        "Star3": "Vernon Dobtcheff",
+        "Star4": "Louise Lemoine Torr\u00e8s",
+        "No_of_Votes": 236311,
+        "Gross": 5820649,
+        "Genres": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Munna Bhai M.B.B.S.",
+        "Released_Year": 2003,
+        "Certificate": "U",
+        "Runtime": 156,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Rajkumar Hirani",
+        "Star1": "Sanjay Dutt",
+        "Star2": "Arshad Warsi",
+        "Star3": "Gracy Singh",
+        "Star4": "Sunil Dutt",
+        "No_of_Votes": 73992,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ]
+    },
+    {
+        "Series_Title": "Salinui chueok",
+        "Released_Year": 2003,
+        "Certificate": "UA",
+        "Runtime": 131,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 82,
+        "Director": "Bong Joon Ho",
+        "Star1": "Kang-ho Song",
+        "Star2": "Kim Sang-kyung",
+        "Star3": "Roe-ha Kim",
+        "Star4": "Jae-ho Song",
+        "No_of_Votes": 139558,
+        "Gross": 14131,
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "Series_Title": "Dil Chahta Hai",
+        "Released_Year": 2001,
+        "Certificate": "Unrated",
+        "Runtime": 183,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Farhan Akhtar",
+        "Star1": "Aamir Khan",
+        "Star2": "Saif Ali Khan",
+        "Star3": "Akshaye Khanna",
+        "Star4": "Preity Zinta",
+        "No_of_Votes": 66803,
+        "Gross": 300000,
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "Series_Title": "Kill Bill: Vol. 1",
+        "Released_Year": 2003,
+        "Certificate": "R",
+        "Runtime": 111,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 69,
+        "Director": "Quentin Tarantino",
+        "Star1": "Uma Thurman",
+        "Star2": "David Carradine",
+        "Star3": "Daryl Hannah",
+        "Star4": "Michael Madsen",
+        "No_of_Votes": 1000639,
+        "Gross": 70099045,
+        "Genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Finding Nemo",
+        "Released_Year": 2003,
+        "Certificate": "U",
+        "Runtime": 100,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 90,
+        "Director": "Andrew Stanton",
+        "Star1": "Lee Unkrich",
+        "Star2": "Albert Brooks",
+        "Star3": "Ellen DeGeneres",
+        "Star4": "Alexander Gould",
+        "No_of_Votes": 949565,
+        "Gross": 380843261,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "Catch Me If You Can",
+        "Released_Year": 2002,
+        "Certificate": "A",
+        "Runtime": 141,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 75,
+        "Director": "Steven Spielberg",
+        "Star1": "Leonardo DiCaprio",
+        "Star2": "Tom Hanks",
+        "Star3": "Christopher Walken",
+        "Star4": "Martin Sheen",
+        "No_of_Votes": 832846,
+        "Gross": 164615351,
+        "Genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Amores perros",
+        "Released_Year": 2000,
+        "Certificate": "A",
+        "Runtime": 154,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 83,
+        "Director": "Alejandro G. I\u00f1\u00e1rritu",
+        "Star1": "Emilio Echevarr\u00eda",
+        "Star2": "Gael Garc\u00eda Bernal",
+        "Star3": "Goya Toledo",
+        "Star4": "\u00c1lvaro Guerrero",
+        "No_of_Votes": 223741,
+        "Gross": 5383834,
+        "Genres": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "Monsters, Inc.",
+        "Released_Year": 2001,
+        "Certificate": "U",
+        "Runtime": 92,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 79,
+        "Director": "Pete Docter",
+        "Star1": "David Silverman",
+        "Star2": "Lee Unkrich",
+        "Star3": "Billy Crystal",
+        "Star4": "John Goodman",
+        "No_of_Votes": 815505,
+        "Gross": 289916256,
+        "Genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "Series_Title": "Shin seiki Evangelion Gekij\u00f4-ban: Air/Magokoro wo, kimi ni",
+        "Released_Year": 1997,
+        "Certificate": "UA",
+        "Runtime": 87,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 78,
+        "Director": "Hideaki Anno",
+        "Star1": "Kazuya Tsurumaki",
+        "Star2": "Megumi Ogata",
+        "Star3": "Megumi Hayashibara",
+        "Star4": "Y\u00fbko Miyamura",
+        "No_of_Votes": 38847,
+        "Gross": 68034750.87,
+        "Genres": [
+            "Animation",
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "Series_Title": "Lagaan: Once Upon a Time in India",
+        "Released_Year": 2001,
+        "Certificate": "U",
+        "Runtime": 224,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 84,
+        "Director": "Ashutosh Gowariker",
+        "Star1": "Aamir Khan",
+        "Star2": "Raghuvir Yadav",
+        "Star3": "Gracy Singh",
+        "Star4": "Rachel Shelley",
+        "No_of_Votes": 105036,
+        "Gross": 70147,
+        "Genres": [
+            "Adventure",
+            "Drama",
+            "Musical"
+        ]
+    },
+    {
+        "Series_Title": "The Sixth Sense",
+        "Released_Year": 1999,
+        "Certificate": "A",
+        "Runtime": 107,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 64,
+        "Director": "M. Night Shyamalan",
+        "Star1": "Bruce Willis",
+        "Star2": "Haley Joel Osment",
+        "Star3": "Toni Collette",
+        "Star4": "Olivia Williams",
+        "No_of_Votes": 911573,
+        "Gross": 293506292,
+        "Genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "Series_Title": "La leggenda del pianista sull'oceano",
+        "Released_Year": 1998,
+        "Certificate": "U",
+        "Runtime": 169,
+        "IMDB_Rating": 8.1,
+        "Meta_score": 58,
+        "Director": "Giuseppe Tornatore",
+        "Star1": "Tim Roth",
+        "Star2": "Pruitt Taylor Vince",
+        "Star3": "M\u00e9lanie Thierry",
+        "Star4": "Bill Nunn",
+        "No_of_Votes": 59020,
+        "Gross": 259127,
+        "Genres": [
+            "Drama",
+            "Music",
+            "Romance"
+        ]
+    }
+]

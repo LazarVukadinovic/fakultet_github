@@ -1,0 +1,4895 @@
+<Movies>
+	<Movie>
+		<Series_Title>The Hangover</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>100</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Todd Phillips</Director>
+		<Star1>Zach Galifianakis</Star1>
+		<Star2>Bradley Cooper</Star2>
+		<Star3>Justin Bartha</Star3>
+		<Star4>Ed Helms</Star4>
+		<No_of_Votes>717559</No_of_Votes>
+		<Gross>277322503</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Skyfall</Series_Title>
+		<Released_Year>2012</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>143</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Sam Mendes</Director>
+		<Star1>Daniel Craig</Star1>
+		<Star2>Javier Bardem</Star2>
+		<Star3>Naomie Harris</Star3>
+		<Star4>Judi Dench</Star4>
+		<No_of_Votes>630614</No_of_Votes>
+		<Gross>304360277</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Silver Linings Playbook</Series_Title>
+		<Released_Year>2012</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>122</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>David O. Russell</Director>
+		<Star1>Bradley Cooper</Star1>
+		<Star2>Jennifer Lawrence</Star2>
+		<Star3>Robert De Niro</Star3>
+		<Star4>Jacki Weaver</Star4>
+		<No_of_Votes>661871</No_of_Votes>
+		<Gross>132092958</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Argo</Series_Title>
+		<Released_Year>2012</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>120</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>86</Meta_score>
+		<Director>Ben Affleck</Director>
+		<Star1>Ben Affleck</Star1>
+		<Star2>Bryan Cranston</Star2>
+		<Star3>John Goodman</Star3>
+		<Star4>Alan Arkin</Star4>
+		<No_of_Votes>572581</No_of_Votes>
+		<Gross>136025503</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>(500) Days of Summer</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>95</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Marc Webb</Director>
+		<Star1>Zooey Deschanel</Star1>
+		<Star2>Joseph Gordon-Levitt</Star2>
+		<Star3>Geoffrey Arend</Star3>
+		<Star4>Chloë Grace Moretz</Star4>
+		<No_of_Votes>472242</No_of_Votes>
+		<Gross>32391374</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Harry Potter and the Deathly Hallows: Part 1</Series_Title>
+		<Released_Year>2010</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>146</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>65</Meta_score>
+		<Director>David Yates</Director>
+		<Star1>Daniel Radcliffe</Star1>
+		<Star2>Emma Watson</Star2>
+		<Star3>Rupert Grint</Star3>
+		<Star4>Bill Nighy</Star4>
+		<No_of_Votes>479120</No_of_Votes>
+		<Gross>295983305</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Gake no ue no Ponyo</Series_Title>
+		<Released_Year>2008</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>101</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>86</Meta_score>
+		<Director>Hayao Miyazaki</Director>
+		<Star1>Cate Blanchett</Star1>
+		<Star2>Matt Damon</Star2>
+		<Star3>Liam Neeson</Star3>
+		<Star4>Tomoko Yamaguchi</Star4>
+		<No_of_Votes>125317</No_of_Votes>
+		<Gross>15090400</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Frost/Nixon</Series_Title>
+		<Released_Year>2008</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>122</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>80</Meta_score>
+		<Director>Ron Howard</Director>
+		<Star1>Frank Langella</Star1>
+		<Star2>Michael Sheen</Star2>
+		<Star3>Kevin Bacon</Star3>
+		<Star4>Sam Rockwell</Star4>
+		<No_of_Votes>103330</No_of_Votes>
+		<Gross>18593156</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Papurika</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>90</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Satoshi Kon</Director>
+		<Star1>Megumi Hayashibara</Star1>
+		<Star2>Tôru Emori</Star2>
+		<Star3>Katsunosuke Hori</Star3>
+		<Star4>Tôru Furuya</Star4>
+		<No_of_Votes>71379</No_of_Votes>
+		<Gross>881302</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Changeling</Series_Title>
+		<Released_Year>2008</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>141</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>63</Meta_score>
+		<Director>Clint Eastwood</Director>
+		<Star1>Angelina Jolie</Star1>
+		<Star2>Colm Feore</Star2>
+		<Star3>Amy Ryan</Star3>
+		<Star4>Gattlin Griffith</Star4>
+		<No_of_Votes>239203</No_of_Votes>
+		<Gross>35739802</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Flipped</Series_Title>
+		<Released_Year>2010</Released_Year>
+		<Certificate>PG</Certificate>
+		<Runtime>90</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>45</Meta_score>
+		<Director>Rob Reiner</Director>
+		<Star1>Madeline Carroll</Star1>
+		<Star2>Callan McAuliffe</Star2>
+		<Star3>Rebecca De Mornay</Star3>
+		<Star4>Anthony Edwards</Star4>
+		<No_of_Votes>81446</No_of_Votes>
+		<Gross>1752214</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Toki o kakeru shôjo</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>98</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Mamoru Hosoda</Director>
+		<Star1>Riisa Naka</Star1>
+		<Star2>Takuya Ishida</Star2>
+		<Star3>Mitsutaka Itakura</Star3>
+		<Star4>Ayami Kakiuchi</Star4>
+		<No_of_Votes>60368</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Death Note: Desu nôto</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate />
+		<Runtime>126</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Shûsuke Kaneko</Director>
+		<Star1>Tatsuya Fujiwara</Star1>
+		<Star2>Ken'ichi Matsuyama</Star2>
+		<Star3>Asaka Seto</Star3>
+		<Star4>Yû Kashii</Star4>
+		<No_of_Votes>28630</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>This Is England</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate />
+		<Runtime>101</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>86</Meta_score>
+		<Director>Shane Meadows</Director>
+		<Star1>Thomas Turgoose</Star1>
+		<Star2>Stephen Graham</Star2>
+		<Star3>Jo Hartley</Star3>
+		<Star4>Andrew Shim</Star4>
+		<No_of_Votes>115576</No_of_Votes>
+		<Gross>327919</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Ex Machina</Series_Title>
+		<Released_Year>2014</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>108</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Alex Garland</Director>
+		<Star1>Alicia Vikander</Star1>
+		<Star2>Domhnall Gleeson</Star2>
+		<Star3>Oscar Isaac</Star3>
+		<Star4>Sonoya Mizuno</Star4>
+		<No_of_Votes>474141</No_of_Votes>
+		<Gross>25442958</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Sci-Fi</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Efter brylluppet</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>120</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Susanne Bier</Director>
+		<Star1>Mads Mikkelsen</Star1>
+		<Star2>Sidse Babett Knudsen</Star2>
+		<Star3>Rolf Lassgård</Star3>
+		<Star4>Neeral Mulchandani</Star4>
+		<No_of_Votes>32001</No_of_Votes>
+		<Gross>412544</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Last King of Scotland</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>123</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>74</Meta_score>
+		<Director>Kevin Macdonald</Director>
+		<Star1>James McAvoy</Star1>
+		<Star2>Forest Whitaker</Star2>
+		<Star3>Gillian Anderson</Star3>
+		<Star4>Kerry Washington</Star4>
+		<No_of_Votes>175355</No_of_Votes>
+		<Gross>17605861</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Zodiac</Series_Title>
+		<Released_Year>2007</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>157</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>David Fincher</Director>
+		<Star1>Jake Gyllenhaal</Star1>
+		<Star2>Robert Downey Jr.</Star2>
+		<Star3>Mark Ruffalo</Star3>
+		<Star4>Anthony Edwards</Star4>
+		<No_of_Votes>466080</No_of_Votes>
+		<Gross>33080084</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Lucky Number Slevin</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>110</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>53</Meta_score>
+		<Director>Paul McGuigan</Director>
+		<Star1>Josh Hartnett</Star1>
+		<Star2>Ben Kingsley</Star2>
+		<Star3>Morgan Freeman</Star3>
+		<Star4>Lucy Liu</Star4>
+		<No_of_Votes>299524</No_of_Votes>
+		<Gross>22494487</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Joyeux Noël</Series_Title>
+		<Released_Year>2005</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>116</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>70</Meta_score>
+		<Director>Christian Carion</Director>
+		<Star1>Diane Kruger</Star1>
+		<Star2>Benno Fürmann</Star2>
+		<Star3>Guillaume Canet</Star3>
+		<Star4>Natalie Dessay</Star4>
+		<No_of_Votes>28003</No_of_Votes>
+		<Gross>1054361</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+			<Genre>Music</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Control</Series_Title>
+		<Released_Year>2007</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>122</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Anton Corbijn</Director>
+		<Star1>Sam Riley</Star1>
+		<Star2>Samantha Morton</Star2>
+		<Star3>Craig Parkinson</Star3>
+		<Star4>Alexandra Maria Lara</Star4>
+		<No_of_Votes>61609</No_of_Votes>
+		<Gross>871577</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Music</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Tangled</Series_Title>
+		<Released_Year>2010</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>100</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>71</Meta_score>
+		<Director>Nathan Greno</Director>
+		<Star1>Byron Howard</Star1>
+		<Star2>Mandy Moore</Star2>
+		<Star3>Zachary Levi</Star3>
+		<Star4>Donna Murphy</Star4>
+		<No_of_Votes>405922</No_of_Votes>
+		<Gross>200821936</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Zwartboek</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>145</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>71</Meta_score>
+		<Director>Paul Verhoeven</Director>
+		<Star1>Carice van Houten</Star1>
+		<Star2>Sebastian Koch</Star2>
+		<Star3>Thom Hoffman</Star3>
+		<Star4>Halina Reijn</Star4>
+		<No_of_Votes>72643</No_of_Votes>
+		<Gross>4398392</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Brokeback Mountain</Series_Title>
+		<Released_Year>2005</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>134</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>87</Meta_score>
+		<Director>Ang Lee</Director>
+		<Star1>Jake Gyllenhaal</Star1>
+		<Star2>Heath Ledger</Star2>
+		<Star3>Michelle Williams</Star3>
+		<Star4>Randy Quaid</Star4>
+		<No_of_Votes>323103</No_of_Votes>
+		<Gross>83043761</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>3:10 to Yuma</Series_Title>
+		<Released_Year>2007</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>122</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>James Mangold</Director>
+		<Star1>Russell Crowe</Star1>
+		<Star2>Christian Bale</Star2>
+		<Star3>Ben Foster</Star3>
+		<Star4>Logan Lerman</Star4>
+		<No_of_Votes>288797</No_of_Votes>
+		<Gross>53606916</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Crash</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>112</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>66</Meta_score>
+		<Director>Paul Haggis</Director>
+		<Star1>Don Cheadle</Star1>
+		<Star2>Sandra Bullock</Star2>
+		<Star3>Thandie Newton</Star3>
+		<Star4>Karina Arroyave</Star4>
+		<No_of_Votes>419483</No_of_Votes>
+		<Gross>54580300</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Kung fu</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>99</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Stephen Chow</Director>
+		<Star1>Stephen Chow</Star1>
+		<Star2>Wah Yuen</Star2>
+		<Star3>Qiu Yuen</Star3>
+		<Star4>Siu-Lung Leung</Star4>
+		<No_of_Votes>127250</No_of_Votes>
+		<Gross>17108591</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Bourne Supremacy</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>108</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Paul Greengrass</Director>
+		<Star1>Matt Damon</Star1>
+		<Star2>Franka Potente</Star2>
+		<Star3>Joan Allen</Star3>
+		<Star4>Brian Cox</Star4>
+		<No_of_Votes>434841</No_of_Votes>
+		<Gross>176241941</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Machinist</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>101</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>61</Meta_score>
+		<Director>Brad Anderson</Director>
+		<Star1>Christian Bale</Star1>
+		<Star2>Jennifer Jason Leigh</Star2>
+		<Star3>Aitana Sánchez-Gijón</Star3>
+		<Star4>John Sharian</Star4>
+		<No_of_Votes>358432</No_of_Votes>
+		<Gross>1082715</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Ray</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>152</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Taylor Hackford</Director>
+		<Star1>Jamie Foxx</Star1>
+		<Star2>Regina King</Star2>
+		<Star3>Kerry Washington</Star3>
+		<Star4>Clifton Powell</Star4>
+		<No_of_Votes>138356</No_of_Votes>
+		<Gross>75331600</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Music</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Lost in Translation</Series_Title>
+		<Released_Year>2003</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>102</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>89</Meta_score>
+		<Director>Sofia Coppola</Director>
+		<Star1>Bill Murray</Star1>
+		<Star2>Scarlett Johansson</Star2>
+		<Star3>Giovanni Ribisi</Star3>
+		<Star4>Anna Faris</Star4>
+		<No_of_Votes>415074</No_of_Votes>
+		<Gross>44585453</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Harry Potter and the Goblet of Fire</Series_Title>
+		<Released_Year>2005</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>157</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Mike Newell</Director>
+		<Star1>Daniel Radcliffe</Star1>
+		<Star2>Emma Watson</Star2>
+		<Star3>Rupert Grint</Star3>
+		<Star4>Eric Sykes</Star4>
+		<No_of_Votes>548619</No_of_Votes>
+		<Gross>290013036</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Man on Fire</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>146</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>47</Meta_score>
+		<Director>Tony Scott</Director>
+		<Star1>Denzel Washington</Star1>
+		<Star2>Christopher Walken</Star2>
+		<Star3>Dakota Fanning</Star3>
+		<Star4>Radha Mitchell</Star4>
+		<No_of_Votes>329592</No_of_Votes>
+		<Gross>77911774</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Coraline</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>100</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>80</Meta_score>
+		<Director>Henry Selick</Director>
+		<Star1>Dakota Fanning</Star1>
+		<Star2>Teri Hatcher</Star2>
+		<Star3>John Hodgman</Star3>
+		<Star4>Jennifer Saunders</Star4>
+		<No_of_Votes>197761</No_of_Votes>
+		<Gross>75286229</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Last Samurai</Series_Title>
+		<Released_Year>2003</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>154</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>55</Meta_score>
+		<Director>Edward Zwick</Director>
+		<Star1>Tom Cruise</Star1>
+		<Star2>Ken Watanabe</Star2>
+		<Star3>Billy Connolly</Star3>
+		<Star4>William Atherton</Star4>
+		<No_of_Votes>400049</No_of_Votes>
+		<Gross>111110575</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Magdalene Sisters</Series_Title>
+		<Released_Year>2002</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>114</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>83</Meta_score>
+		<Director>Peter Mullan</Director>
+		<Star1>Eileen Walsh</Star1>
+		<Star2>Dorothy Duffy</Star2>
+		<Star3>Nora-Jane Noone</Star3>
+		<Star4>Anne-Marie Duff</Star4>
+		<No_of_Votes>25938</No_of_Votes>
+		<Gross>4890878</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Good Bye Lenin!</Series_Title>
+		<Released_Year>2003</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>121</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>Wolfgang Becker</Director>
+		<Star1>Daniel Brühl</Star1>
+		<Star2>Katrin Saß</Star2>
+		<Star3>Chulpan Khamatova</Star3>
+		<Star4>Florian Lukas</Star4>
+		<No_of_Votes>137981</No_of_Votes>
+		<Gross>4064200</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>In America</Series_Title>
+		<Released_Year>2002</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>105</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Jim Sheridan</Director>
+		<Star1>Paddy Considine</Star1>
+		<Star2>Samantha Morton</Star2>
+		<Star3>Djimon Hounsou</Star3>
+		<Star4>Sarah Bolger</Star4>
+		<No_of_Votes>40403</No_of_Votes>
+		<Gross>15539266</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>I Am Sam</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>132</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>28</Meta_score>
+		<Director>Jessie Nelson</Director>
+		<Star1>Sean Penn</Star1>
+		<Star2>Michelle Pfeiffer</Star2>
+		<Star3>Dakota Fanning</Star3>
+		<Star4>Dianne Wiest</Star4>
+		<No_of_Votes>142863</No_of_Votes>
+		<Gross>40311852</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Adaptation.</Series_Title>
+		<Released_Year>2002</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>115</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>83</Meta_score>
+		<Director>Spike Jonze</Director>
+		<Star1>Nicolas Cage</Star1>
+		<Star2>Meryl Streep</Star2>
+		<Star3>Chris Cooper</Star3>
+		<Star4>Tilda Swinton</Star4>
+		<No_of_Votes>178565</No_of_Votes>
+		<Gross>22245861</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Black Hawk Down</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>144</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>74</Meta_score>
+		<Director>Ridley Scott</Director>
+		<Star1>Josh Hartnett</Star1>
+		<Star2>Ewan McGregor</Star2>
+		<Star3>Tom Sizemore</Star3>
+		<Star4>Eric Bana</Star4>
+		<No_of_Votes>364254</No_of_Votes>
+		<Gross>108638745</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Road to Perdition</Series_Title>
+		<Released_Year>2002</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>117</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>72</Meta_score>
+		<Director>Sam Mendes</Director>
+		<Star1>Tom Hanks</Star1>
+		<Star2>Tyler Hoechlin</Star2>
+		<Star3>Rob Maxey</Star3>
+		<Star4>Liam Aiken</Star4>
+		<No_of_Votes>246840</No_of_Votes>
+		<Gross>104454762</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Das Experiment</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>120</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>60</Meta_score>
+		<Director>Oliver Hirschbiegel</Director>
+		<Star1>Moritz Bleibtreu</Star1>
+		<Star2>Christian Berkel</Star2>
+		<Star3>Oliver Stokowski</Star3>
+		<Star4>Wotan Wilke Möhring</Star4>
+		<No_of_Votes>90842</No_of_Votes>
+		<Gross>141072</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Billy Elliot</Series_Title>
+		<Released_Year>2000</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>110</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>74</Meta_score>
+		<Director>Stephen Daldry</Director>
+		<Star1>Jamie Bell</Star1>
+		<Star2>Julie Walters</Star2>
+		<Star3>Jean Heywood</Star3>
+		<Star4>Jamie Draven</Star4>
+		<No_of_Votes>126770</No_of_Votes>
+		<Gross>21995263</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Music</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Hedwig and the Angry Inch</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>95</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>85</Meta_score>
+		<Director>John Cameron Mitchell</Director>
+		<Star1>John Cameron Mitchell</Star1>
+		<Star2>Miriam Shor</Star2>
+		<Star3>Stephen Trask</Star3>
+		<Star4>Theodore Liscinski</Star4>
+		<No_of_Votes>31957</No_of_Votes>
+		<Gross>3029081</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Music</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Ocean's Eleven</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>116</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>74</Meta_score>
+		<Director>Steven Soderbergh</Director>
+		<Star1>George Clooney</Star1>
+		<Star2>Brad Pitt</Star2>
+		<Star3>Julia Roberts</Star3>
+		<Star4>Matt Damon</Star4>
+		<No_of_Votes>516372</No_of_Votes>
+		<Gross>183417150</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Vampire Hunter D: Bloodlust</Series_Title>
+		<Released_Year>2000</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>103</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>62</Meta_score>
+		<Director>Yoshiaki Kawajiri</Director>
+		<Star1>Andrew Philpot</Star1>
+		<Star2>John Rafter Lee</Star2>
+		<Star3>Pamela Adlon</Star3>
+		<Star4>Wendee Lee</Star4>
+		<No_of_Votes>29210</No_of_Votes>
+		<Gross>151086</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Action</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>O Brother, Where Art Thou?</Series_Title>
+		<Released_Year>2000</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>107</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>69</Meta_score>
+		<Director>Joel Coen</Director>
+		<Star1>Ethan Coen</Star1>
+		<Star2>George Clooney</Star2>
+		<Star3>John Turturro</Star3>
+		<Star4>Tim Blake Nelson</Star4>
+		<No_of_Votes>286742</No_of_Votes>
+		<Gross>45512588</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Interstate 60: Episodes of the Road</Series_Title>
+		<Released_Year>2002</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>116</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Bob Gale</Director>
+		<Star1>James Marsden</Star1>
+		<Star2>Gary Oldman</Star2>
+		<Star3>Kurt Russell</Star3>
+		<Star4>Matthew Edison</Star4>
+		<No_of_Votes>29999</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>South Park: Bigger, Longer &amp; Uncut</Series_Title>
+		<Released_Year>1999</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>81</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Trey Parker</Director>
+		<Star1>Trey Parker</Star1>
+		<Star2>Matt Stone</Star2>
+		<Star3>Mary Kay Bergman</Star3>
+		<Star4>Isaac Hayes</Star4>
+		<No_of_Votes>192112</No_of_Votes>
+		<Gross>52037603</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Office Space</Series_Title>
+		<Released_Year>1999</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>89</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>Mike Judge</Director>
+		<Star1>Ron Livingston</Star1>
+		<Star2>Jennifer Aniston</Star2>
+		<Star3>David Herman</Star3>
+		<Star4>Ajay Naidu</Star4>
+		<No_of_Votes>241575</No_of_Votes>
+		<Gross>10824921</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Happiness</Series_Title>
+		<Released_Year>1998</Released_Year>
+		<Certificate />
+		<Runtime>134</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Todd Solondz</Director>
+		<Star1>Jane Adams</Star1>
+		<Star2>Jon Lovitz</Star2>
+		<Star3>Philip Seymour Hoffman</Star3>
+		<Star4>Dylan Baker</Star4>
+		<No_of_Votes>66408</No_of_Votes>
+		<Gross>2807390</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Training Day</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>122</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>69</Meta_score>
+		<Director>Antoine Fuqua</Director>
+		<Star1>Denzel Washington</Star1>
+		<Star2>Ethan Hawke</Star2>
+		<Star3>Scott Glenn</Star3>
+		<Star4>Tom Berenger</Star4>
+		<No_of_Votes>390247</No_of_Votes>
+		<Gross>76631907</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Rushmore</Series_Title>
+		<Released_Year>1998</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>93</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>86</Meta_score>
+		<Director>Wes Anderson</Director>
+		<Star1>Jason Schwartzman</Star1>
+		<Star2>Bill Murray</Star2>
+		<Star3>Olivia Williams</Star3>
+		<Star4>Seymour Cassel</Star4>
+		<No_of_Votes>169229</No_of_Votes>
+		<Gross>17105219</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Abre los ojos</Series_Title>
+		<Released_Year>1997</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>119</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Alejandro Amenábar</Director>
+		<Star1>Eduardo Noriega</Star1>
+		<Star2>Penélope Cruz</Star2>
+		<Star3>Chete Lera</Star3>
+		<Star4>Fele Martínez</Star4>
+		<No_of_Votes>64082</No_of_Votes>
+		<Gross>368234</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Being John Malkovich</Series_Title>
+		<Released_Year>1999</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>113</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>90</Meta_score>
+		<Director>Spike Jonze</Director>
+		<Star1>John Cusack</Star1>
+		<Star2>Cameron Diaz</Star2>
+		<Star3>Catherine Keener</Star3>
+		<Star4>John Malkovich</Star4>
+		<No_of_Votes>312542</No_of_Votes>
+		<Gross>22858926</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>As Good as It Gets</Series_Title>
+		<Released_Year>1997</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>139</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>67</Meta_score>
+		<Director>James L. Brooks</Director>
+		<Star1>Jack Nicholson</Star1>
+		<Star2>Helen Hunt</Star2>
+		<Star3>Greg Kinnear</Star3>
+		<Star4>Cuba Gooding Jr.</Star4>
+		<No_of_Votes>275755</No_of_Votes>
+		<Gross>148478011</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Fifth Element</Series_Title>
+		<Released_Year>1997</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>126</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>52</Meta_score>
+		<Director>Luc Besson</Director>
+		<Star1>Bruce Willis</Star1>
+		<Star2>Milla Jovovich</Star2>
+		<Star3>Gary Oldman</Star3>
+		<Star4>Ian Holm</Star4>
+		<No_of_Votes>434125</No_of_Votes>
+		<Gross>63540020</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Le dîner de cons</Series_Title>
+		<Released_Year>1998</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>80</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Francis Veber</Director>
+		<Star1>Thierry Lhermitte</Star1>
+		<Star2>Jacques Villeret</Star2>
+		<Star3>Francis Huster</Star3>
+		<Star4>Daniel Prévost</Star4>
+		<No_of_Votes>37424</No_of_Votes>
+		<Gross>4065116</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Donnie Brasco</Series_Title>
+		<Released_Year>1997</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>127</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Mike Newell</Director>
+		<Star1>Al Pacino</Star1>
+		<Star2>Johnny Depp</Star2>
+		<Star3>Michael Madsen</Star3>
+		<Star4>Bruno Kirby</Star4>
+		<No_of_Votes>279318</No_of_Votes>
+		<Gross>41909762</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Shine</Series_Title>
+		<Released_Year>1996</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>105</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>87</Meta_score>
+		<Director>Scott Hicks</Director>
+		<Star1>Geoffrey Rush</Star1>
+		<Star2>Armin Mueller-Stahl</Star2>
+		<Star3>Justin Braine</Star3>
+		<Star4>Sonia Todd</Star4>
+		<No_of_Votes>51350</No_of_Votes>
+		<Gross>35811509</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Music</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Primal Fear</Series_Title>
+		<Released_Year>1996</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>129</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>47</Meta_score>
+		<Director>Gregory Hoblit</Director>
+		<Star1>Richard Gere</Star1>
+		<Star2>Laura Linney</Star2>
+		<Star3>Edward Norton</Star3>
+		<Star4>John Mahoney</Star4>
+		<No_of_Votes>189716</No_of_Votes>
+		<Gross>56116183</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Hamlet</Series_Title>
+		<Released_Year>1996</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>242</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Kenneth Branagh</Director>
+		<Star1>Kenneth Branagh</Star1>
+		<Star2>Julie Christie</Star2>
+		<Star3>Derek Jacobi</Star3>
+		<Star4>Kate Winslet</Star4>
+		<No_of_Votes>35991</No_of_Votes>
+		<Gross>4414535</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>A Little Princess</Series_Title>
+		<Released_Year>1995</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>97</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>83</Meta_score>
+		<Director>Alfonso Cuarón</Director>
+		<Star1>Liesel Matthews</Star1>
+		<Star2>Eleanor Bron</Star2>
+		<Star3>Liam Cunningham</Star3>
+		<Star4>Rusty Schwimmer</Star4>
+		<No_of_Votes>32236</No_of_Votes>
+		<Gross>10019307</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Family</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Do lok tin si</Series_Title>
+		<Released_Year>1995</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>99</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>71</Meta_score>
+		<Director>Kar-Wai Wong</Director>
+		<Star1>Leon Lai</Star1>
+		<Star2>Michelle Reis</Star2>
+		<Star3>Takeshi Kaneshiro</Star3>
+		<Star4>Charlie Yeung</Star4>
+		<No_of_Votes>26429</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Il postino</Series_Title>
+		<Released_Year>1994</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>108</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Michael Radford</Director>
+		<Star1>Massimo Troisi</Star1>
+		<Star2>Massimo Troisi</Star2>
+		<Star3>Philippe Noiret</Star3>
+		<Star4>Maria Grazia Cucinotta</Star4>
+		<No_of_Votes>33600</No_of_Votes>
+		<Gross>21848932</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Clerks</Series_Title>
+		<Released_Year>1994</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>92</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>70</Meta_score>
+		<Director>Kevin Smith</Director>
+		<Star1>Brian O'Halloran</Star1>
+		<Star2>Jeff Anderson</Star2>
+		<Star3>Marilyn Ghigliotti</Star3>
+		<Star4>Lisa Spoonauer</Star4>
+		<No_of_Votes>211450</No_of_Votes>
+		<Gross>3151130</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Short Cuts</Series_Title>
+		<Released_Year>1993</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>188</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>79</Meta_score>
+		<Director>Robert Altman</Director>
+		<Star1>Andie MacDowell</Star1>
+		<Star2>Julianne Moore</Star2>
+		<Star3>Tim Robbins</Star3>
+		<Star4>Bruce Davison</Star4>
+		<No_of_Votes>42275</No_of_Votes>
+		<Gross>6110979</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Philadelphia</Series_Title>
+		<Released_Year>1993</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>125</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>66</Meta_score>
+		<Director>Jonathan Demme</Director>
+		<Star1>Tom Hanks</Star1>
+		<Star2>Denzel Washington</Star2>
+		<Star3>Roberta Maxwell</Star3>
+		<Star4>Buzz Kilman</Star4>
+		<No_of_Votes>224169</No_of_Votes>
+		<Gross>77324422</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Muppet Christmas Carol</Series_Title>
+		<Released_Year>1992</Released_Year>
+		<Certificate>G</Certificate>
+		<Runtime>85</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>64</Meta_score>
+		<Director>Brian Henson</Director>
+		<Star1>Michael Caine</Star1>
+		<Star2>Kermit the Frog</Star2>
+		<Star3>Dave Goelz</Star3>
+		<Star4>Miss Piggy</Star4>
+		<No_of_Votes>50298</No_of_Votes>
+		<Gross>27281507</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Malcolm X</Series_Title>
+		<Released_Year>1992</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>202</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Spike Lee</Director>
+		<Star1>Denzel Washington</Star1>
+		<Star2>Angela Bassett</Star2>
+		<Star3>Delroy Lindo</Star3>
+		<Star4>Spike Lee</Star4>
+		<No_of_Votes>85819</No_of_Votes>
+		<Gross>48169908</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Last of the Mohicans</Series_Title>
+		<Released_Year>1992</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>112</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Michael Mann</Director>
+		<Star1>Daniel Day-Lewis</Star1>
+		<Star2>Madeleine Stowe</Star2>
+		<Star3>Russell Means</Star3>
+		<Star4>Eric Schweig</Star4>
+		<No_of_Votes>150409</No_of_Votes>
+		<Gross>75505856</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Kurenai no buta</Series_Title>
+		<Released_Year>1992</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>94</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>83</Meta_score>
+		<Director>Hayao Miyazaki</Director>
+		<Star1>Shûichirô Moriyama</Star1>
+		<Star2>Tokiko Katô</Star2>
+		<Star3>Bunshi Katsura Vi</Star3>
+		<Star4>Tsunehiko Kamijô</Star4>
+		<No_of_Votes>77798</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Glengarry Glen Ross</Series_Title>
+		<Released_Year>1992</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>100</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>82</Meta_score>
+		<Director>James Foley</Director>
+		<Star1>Al Pacino</Star1>
+		<Star2>Jack Lemmon</Star2>
+		<Star3>Alec Baldwin</Star3>
+		<Star4>Alan Arkin</Star4>
+		<No_of_Votes>95826</No_of_Votes>
+		<Gross>10725228</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>A Few Good Men</Series_Title>
+		<Released_Year>1992</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>138</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>62</Meta_score>
+		<Director>Rob Reiner</Director>
+		<Star1>Tom Cruise</Star1>
+		<Star2>Jack Nicholson</Star2>
+		<Star3>Demi Moore</Star3>
+		<Star4>Kevin Bacon</Star4>
+		<No_of_Votes>235388</No_of_Votes>
+		<Gross>141340178</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Fried Green Tomatoes</Series_Title>
+		<Released_Year>1991</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>130</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>64</Meta_score>
+		<Director>Jon Avnet</Director>
+		<Star1>Kathy Bates</Star1>
+		<Star2>Jessica Tandy</Star2>
+		<Star3>Mary Stuart Masterson</Star3>
+		<Star4>Mary-Louise Parker</Star4>
+		<No_of_Votes>66941</No_of_Votes>
+		<Gross>82418501</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Barton Fink</Series_Title>
+		<Released_Year>1991</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>116</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>69</Meta_score>
+		<Director>Joel Coen</Director>
+		<Star1>Ethan Coen</Star1>
+		<Star2>John Turturro</Star2>
+		<Star3>John Goodman</Star3>
+		<Star4>Judy Davis</Star4>
+		<No_of_Votes>113240</No_of_Votes>
+		<Gross>6153939</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Miller's Crossing</Series_Title>
+		<Released_Year>1990</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>115</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>66</Meta_score>
+		<Director>Joel Coen</Director>
+		<Star1>Ethan Coen</Star1>
+		<Star2>Gabriel Byrne</Star2>
+		<Star3>Albert Finney</Star3>
+		<Star4>John Turturro</Star4>
+		<No_of_Votes>125822</No_of_Votes>
+		<Gross>5080409</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Who Framed Roger Rabbit</Series_Title>
+		<Released_Year>1988</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>104</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>83</Meta_score>
+		<Director>Robert Zemeckis</Director>
+		<Star1>Bob Hoskins</Star1>
+		<Star2>Christopher Lloyd</Star2>
+		<Star3>Joanna Cassidy</Star3>
+		<Star4>Charles Fleischer</Star4>
+		<No_of_Votes>182009</No_of_Votes>
+		<Gross>156452370</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Spoorloos</Series_Title>
+		<Released_Year>1988</Released_Year>
+		<Certificate />
+		<Runtime>107</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>George Sluizer</Director>
+		<Star1>Bernard-Pierre Donnadieu</Star1>
+		<Star2>Gene Bervoets</Star2>
+		<Star3>Johanna ter Steege</Star3>
+		<Star4>Gwen Eckhaus</Star4>
+		<No_of_Votes>33982</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Withnail &amp; I</Series_Title>
+		<Released_Year>1987</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>107</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>84</Meta_score>
+		<Director>Bruce Robinson</Director>
+		<Star1>Richard E. Grant</Star1>
+		<Star2>Paul McGann</Star2>
+		<Star3>Richard Griffiths</Star3>
+		<Star4>Ralph Brown</Star4>
+		<No_of_Votes>40396</No_of_Votes>
+		<Gross>1544889</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Last Emperor</Series_Title>
+		<Released_Year>1987</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>163</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Bernardo Bertolucci</Director>
+		<Star1>John Lone</Star1>
+		<Star2>Joan Chen</Star2>
+		<Star3>Peter O'Toole</Star3>
+		<Star4>Ruocheng Ying</Star4>
+		<No_of_Votes>94326</No_of_Votes>
+		<Gross>43984230</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Empire of the Sun</Series_Title>
+		<Released_Year>1987</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>153</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>62</Meta_score>
+		<Director>Steven Spielberg</Director>
+		<Star1>Christian Bale</Star1>
+		<Star2>John Malkovich</Star2>
+		<Star3>Miranda Richardson</Star3>
+		<Star4>Nigel Havers</Star4>
+		<No_of_Votes>115677</No_of_Votes>
+		<Gross>22238696</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Der Name der Rose</Series_Title>
+		<Released_Year>1986</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>130</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>54</Meta_score>
+		<Director>Jean-Jacques Annaud</Director>
+		<Star1>Sean Connery</Star1>
+		<Star2>Christian Slater</Star2>
+		<Star3>Helmut Qualtinger</Star3>
+		<Star4>Elya Baskin</Star4>
+		<No_of_Votes>102031</No_of_Votes>
+		<Gross>7153487</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Blue Velvet</Series_Title>
+		<Released_Year>1986</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>120</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>David Lynch</Director>
+		<Star1>Isabella Rossellini</Star1>
+		<Star2>Kyle MacLachlan</Star2>
+		<Star3>Dennis Hopper</Star3>
+		<Star4>Laura Dern</Star4>
+		<No_of_Votes>181285</No_of_Votes>
+		<Gross>8551228</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Purple Rose of Cairo</Series_Title>
+		<Released_Year>1985</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>82</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>75</Meta_score>
+		<Director>Woody Allen</Director>
+		<Star1>Mia Farrow</Star1>
+		<Star2>Jeff Daniels</Star2>
+		<Star3>Danny Aiello</Star3>
+		<Star4>Irving Metzman</Star4>
+		<No_of_Votes>47102</No_of_Votes>
+		<Gross>10631333</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Fantasy</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>After Hours</Series_Title>
+		<Released_Year>1985</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>97</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>90</Meta_score>
+		<Director>Martin Scorsese</Director>
+		<Star1>Griffin Dunne</Star1>
+		<Star2>Rosanna Arquette</Star2>
+		<Star3>Verna Bloom</Star3>
+		<Star4>Tommy Chong</Star4>
+		<No_of_Votes>59635</No_of_Votes>
+		<Gross>10600000</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Zelig</Series_Title>
+		<Released_Year>1983</Released_Year>
+		<Certificate>PG</Certificate>
+		<Runtime>79</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Woody Allen</Director>
+		<Star1>Woody Allen</Star1>
+		<Star2>Mia Farrow</Star2>
+		<Star3>Patrick Horgan</Star3>
+		<Star4>John Buckwalter</Star4>
+		<No_of_Votes>39881</No_of_Votes>
+		<Gross>11798616</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Verdict</Series_Title>
+		<Released_Year>1982</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>129</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>77</Meta_score>
+		<Director>Sidney Lumet</Director>
+		<Star1>Paul Newman</Star1>
+		<Star2>Charlotte Rampling</Star2>
+		<Star3>Jack Warden</Star3>
+		<Star4>James Mason</Star4>
+		<No_of_Votes>36096</No_of_Votes>
+		<Gross>54000000</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Star Trek II: The Wrath of Khan</Series_Title>
+		<Released_Year>1982</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>113</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>67</Meta_score>
+		<Director>Nicholas Meyer</Director>
+		<Star1>William Shatner</Star1>
+		<Star2>Leonard Nimoy</Star2>
+		<Star3>DeForest Kelley</Star3>
+		<Star4>James Doohan</Star4>
+		<No_of_Votes>112704</No_of_Votes>
+		<Gross>78912963</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>First Blood</Series_Title>
+		<Released_Year>1982</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>93</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>61</Meta_score>
+		<Director>Ted Kotcheff</Director>
+		<Star1>Sylvester Stallone</Star1>
+		<Star2>Brian Dennehy</Star2>
+		<Star3>Richard Crenna</Star3>
+		<Star4>Bill McKinney</Star4>
+		<No_of_Votes>226541</No_of_Votes>
+		<Gross>47212904</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Ordinary People</Series_Title>
+		<Released_Year>1980</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>124</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>86</Meta_score>
+		<Director>Robert Redford</Director>
+		<Star1>Donald Sutherland</Star1>
+		<Star2>Mary Tyler Moore</Star2>
+		<Star3>Judd Hirsch</Star3>
+		<Star4>Timothy Hutton</Star4>
+		<No_of_Votes>47099</No_of_Votes>
+		<Gross>54800000</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Airplane!</Series_Title>
+		<Released_Year>1980</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>88</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Jim Abrahams</Director>
+		<Star1>David Zucker</Star1>
+		<Star2>Jerry Zucker</Star2>
+		<Star3>Robert Hays</Star3>
+		<Star4>Julie Hagerty</Star4>
+		<No_of_Votes>214882</No_of_Votes>
+		<Gross>83400000</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Rupan sansei: Kariosutoro no shiro</Series_Title>
+		<Released_Year>1979</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>100</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>71</Meta_score>
+		<Director>Hayao Miyazaki</Director>
+		<Star1>Yasuo Yamada</Star1>
+		<Star2>Eiko Masuyama</Star2>
+		<Star3>Kiyoshi Kobayashi</Star3>
+		<Star4>Makio Inoue</Star4>
+		<No_of_Votes>27014</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Halloween</Series_Title>
+		<Released_Year>1978</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>91</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>87</Meta_score>
+		<Director>John Carpenter</Director>
+		<Star1>Donald Pleasence</Star1>
+		<Star2>Jamie Lee Curtis</Star2>
+		<Star3>Tony Moran</Star3>
+		<Star4>Nancy Kyes</Star4>
+		<No_of_Votes>233106</No_of_Votes>
+		<Gross>47000000</Gross>
+		<Genres>
+			<Genre>Horror</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Le locataire</Series_Title>
+		<Released_Year>1976</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>126</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>71</Meta_score>
+		<Director>Roman Polanski</Director>
+		<Star1>Roman Polanski</Star1>
+		<Star2>Isabelle Adjani</Star2>
+		<Star3>Melvyn Douglas</Star3>
+		<Star4>Jo Van Fleet</Star4>
+		<No_of_Votes>39889</No_of_Votes>
+		<Gross>1924733</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Love and Death</Series_Title>
+		<Released_Year>1975</Released_Year>
+		<Certificate>PG</Certificate>
+		<Runtime>85</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>89</Meta_score>
+		<Director>Woody Allen</Director>
+		<Star1>Woody Allen</Star1>
+		<Star2>Diane Keaton</Star2>
+		<Star3>Georges Adet</Star3>
+		<Star4>Frank Adu</Star4>
+		<No_of_Votes>36037</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Taking of Pelham One Two Three</Series_Title>
+		<Released_Year>1974</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>104</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>Joseph Sargent</Director>
+		<Star1>Walter Matthau</Star1>
+		<Star2>Robert Shaw</Star2>
+		<Star3>Martin Balsam</Star3>
+		<Star4>Hector Elizondo</Star4>
+		<No_of_Votes>26729</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Blazing Saddles</Series_Title>
+		<Released_Year>1974</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>93</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Mel Brooks</Director>
+		<Star1>Cleavon Little</Star1>
+		<Star2>Gene Wilder</Star2>
+		<Star3>Slim Pickens</Star3>
+		<Star4>Harvey Korman</Star4>
+		<No_of_Votes>125993</No_of_Votes>
+		<Gross>119500000</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Western</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Serpico</Series_Title>
+		<Released_Year>1973</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>130</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>87</Meta_score>
+		<Director>Sidney Lumet</Director>
+		<Star1>Al Pacino</Star1>
+		<Star2>John Randolph</Star2>
+		<Star3>Jack Kehoe</Star3>
+		<Star4>Biff McGuire</Star4>
+		<No_of_Votes>109941</No_of_Votes>
+		<Gross>29800000</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Enter the Dragon</Series_Title>
+		<Released_Year>1973</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>102</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>83</Meta_score>
+		<Director>Robert Clouse</Director>
+		<Star1>Bruce Lee</Star1>
+		<Star2>John Saxon</Star2>
+		<Star3>Jim Kelly</Star3>
+		<Star4>Ahna Capri</Star4>
+		<No_of_Votes>96561</No_of_Votes>
+		<Gross>25000000</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Deliverance</Series_Title>
+		<Released_Year>1972</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>109</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>80</Meta_score>
+		<Director>John Boorman</Director>
+		<Star1>Jon Voight</Star1>
+		<Star2>Burt Reynolds</Star2>
+		<Star3>Ned Beatty</Star3>
+		<Star4>Ronny Cox</Star4>
+		<No_of_Votes>98740</No_of_Votes>
+		<Gross>7056013</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The French Connection</Series_Title>
+		<Released_Year>1971</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>104</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>94</Meta_score>
+		<Director>William Friedkin</Director>
+		<Star1>Gene Hackman</Star1>
+		<Star2>Roy Scheider</Star2>
+		<Star3>Fernando Rey</Star3>
+		<Star4>Tony Lo Bianco</Star4>
+		<No_of_Votes>110075</No_of_Votes>
+		<Gross>15630710</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Dirty Harry</Series_Title>
+		<Released_Year>1971</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>102</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>90</Meta_score>
+		<Director>Don Siegel</Director>
+		<Star1>Clint Eastwood</Star1>
+		<Star2>Andrew Robinson</Star2>
+		<Star3>Harry Guardino</Star3>
+		<Star4>Reni Santoni</Star4>
+		<No_of_Votes>143292</No_of_Votes>
+		<Gross>35900000</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Where Eagles Dare</Series_Title>
+		<Released_Year>1968</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>158</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>63</Meta_score>
+		<Director>Brian G. Hutton</Director>
+		<Star1>Richard Burton</Star1>
+		<Star2>Clint Eastwood</Star2>
+		<Star3>Mary Ure</Star3>
+		<Star4>Patrick Wymark</Star4>
+		<No_of_Votes>51913</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Odd Couple</Series_Title>
+		<Released_Year>1968</Released_Year>
+		<Certificate>G</Certificate>
+		<Runtime>105</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>86</Meta_score>
+		<Director>Gene Saks</Director>
+		<Star1>Jack Lemmon</Star1>
+		<Star2>Walter Matthau</Star2>
+		<Star3>John Fiedler</Star3>
+		<Star4>Herb Edelman</Star4>
+		<No_of_Votes>31572</No_of_Votes>
+		<Gross>44527234</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Dirty Dozen</Series_Title>
+		<Released_Year>1967</Released_Year>
+		<Certificate />
+		<Runtime>150</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Robert Aldrich</Director>
+		<Star1>Lee Marvin</Star1>
+		<Star2>Ernest Borgnine</Star2>
+		<Star3>Charles Bronson</Star3>
+		<Star4>John Cassavetes</Star4>
+		<No_of_Votes>67183</No_of_Votes>
+		<Gross>45300000</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Belle de jour</Series_Title>
+		<Released_Year>1967</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>100</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Luis Buñuel</Director>
+		<Star1>Catherine Deneuve</Star1>
+		<Star2>Jean Sorel</Star2>
+		<Star3>Michel Piccoli</Star3>
+		<Star4>Geneviève Page</Star4>
+		<No_of_Votes>40274</No_of_Votes>
+		<Gross>26331</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>A Man for All Seasons</Series_Title>
+		<Released_Year>1966</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>120</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>72</Meta_score>
+		<Director>Fred Zinnemann</Director>
+		<Star1>Paul Scofield</Star1>
+		<Star2>Wendy Hiller</Star2>
+		<Star3>Robert Shaw</Star3>
+		<Star4>Leo McKern</Star4>
+		<No_of_Votes>31222</No_of_Votes>
+		<Gross>28350000</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Repulsion</Series_Title>
+		<Released_Year>1965</Released_Year>
+		<Certificate />
+		<Runtime>105</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>91</Meta_score>
+		<Director>Roman Polanski</Director>
+		<Star1>Catherine Deneuve</Star1>
+		<Star2>Ian Hendry</Star2>
+		<Star3>John Fraser</Star3>
+		<Star4>Yvonne Furneaux</Star4>
+		<No_of_Votes>48883</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Horror</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Zulu</Series_Title>
+		<Released_Year>1964</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>138</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>77</Meta_score>
+		<Director>Cy Endfield</Director>
+		<Star1>Stanley Baker</Star1>
+		<Star2>Jack Hawkins</Star2>
+		<Star3>Ulla Jacobsson</Star3>
+		<Star4>James Booth</Star4>
+		<No_of_Votes>35999</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Goldfinger</Series_Title>
+		<Released_Year>1964</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>110</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>87</Meta_score>
+		<Director>Guy Hamilton</Director>
+		<Star1>Sean Connery</Star1>
+		<Star2>Gert Fröbe</Star2>
+		<Star3>Honor Blackman</Star3>
+		<Star4>Shirley Eaton</Star4>
+		<No_of_Votes>174119</No_of_Votes>
+		<Gross>51081062</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Birds</Series_Title>
+		<Released_Year>1963</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>119</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>90</Meta_score>
+		<Director>Alfred Hitchcock</Director>
+		<Star1>Rod Taylor</Star1>
+		<Star2>Tippi Hedren</Star2>
+		<Star3>Jessica Tandy</Star3>
+		<Star4>Suzanne Pleshette</Star4>
+		<No_of_Votes>171739</No_of_Votes>
+		<Gross>11403529</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Horror</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Cape Fear</Series_Title>
+		<Released_Year>1962</Released_Year>
+		<Certificate>Passed</Certificate>
+		<Runtime>106</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>J. Lee Thompson</Director>
+		<Star1>Gregory Peck</Star1>
+		<Star2>Robert Mitchum</Star2>
+		<Star3>Polly Bergen</Star3>
+		<Star4>Lori Martin</Star4>
+		<No_of_Votes>26457</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Peeping Tom</Series_Title>
+		<Released_Year>1960</Released_Year>
+		<Certificate />
+		<Runtime>101</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Michael Powell</Director>
+		<Star1>Karlheinz Böhm</Star1>
+		<Star2>Anna Massey</Star2>
+		<Star3>Moira Shearer</Star3>
+		<Star4>Maxine Audley</Star4>
+		<No_of_Votes>31354</No_of_Votes>
+		<Gross>83957</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Horror</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Magnificent Seven</Series_Title>
+		<Released_Year>1960</Released_Year>
+		<Certificate>Approved</Certificate>
+		<Runtime>128</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>74</Meta_score>
+		<Director>John Sturges</Director>
+		<Star1>Yul Brynner</Star1>
+		<Star2>Steve McQueen</Star2>
+		<Star3>Charles Bronson</Star3>
+		<Star4>Eli Wallach</Star4>
+		<No_of_Votes>87719</No_of_Votes>
+		<Gross>4905000</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Western</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Les yeux sans visage</Series_Title>
+		<Released_Year>1960</Released_Year>
+		<Certificate />
+		<Runtime>90</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>90</Meta_score>
+		<Director>Georges Franju</Director>
+		<Star1>Pierre Brasseur</Star1>
+		<Star2>Alida Valli</Star2>
+		<Star3>Juliette Mayniel</Star3>
+		<Star4>Alexandre Rignault</Star4>
+		<No_of_Votes>27620</No_of_Votes>
+		<Gross>52709</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Horror</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Invasion of the Body Snatchers</Series_Title>
+		<Released_Year>1956</Released_Year>
+		<Certificate>Approved</Certificate>
+		<Runtime>80</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>92</Meta_score>
+		<Director>Don Siegel</Director>
+		<Star1>Kevin McCarthy</Star1>
+		<Star2>Dana Wynter</Star2>
+		<Star3>Larry Gates</Star3>
+		<Star4>King Donovan</Star4>
+		<No_of_Votes>44839</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Horror</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Rebel Without a Cause</Series_Title>
+		<Released_Year>1955</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>111</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>89</Meta_score>
+		<Director>Nicholas Ray</Director>
+		<Star1>James Dean</Star1>
+		<Star2>Natalie Wood</Star2>
+		<Star3>Saleo</Star3>
+		<Star4>Jim Backus</Star4>
+		<No_of_Votes>83363</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Ladykillers</Series_Title>
+		<Released_Year>1955</Released_Year>
+		<Certificate />
+		<Runtime>91</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>91</Meta_score>
+		<Director>Alexander Mackendrick</Director>
+		<Star1>Alec Guinness</Star1>
+		<Star2>Peter Sellers</Star2>
+		<Star3>Cecil Parker</Star3>
+		<Star4>Herbert Lom</Star4>
+		<No_of_Votes>26464</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Sabrina</Series_Title>
+		<Released_Year>1954</Released_Year>
+		<Certificate>Passed</Certificate>
+		<Runtime>113</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>72</Meta_score>
+		<Director>Billy Wilder</Director>
+		<Star1>Humphrey Bogart</Star1>
+		<Star2>Audrey Hepburn</Star2>
+		<Star3>William Holden</Star3>
+		<Star4>Walter Hampden</Star4>
+		<No_of_Votes>59415</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Quiet Man</Series_Title>
+		<Released_Year>1952</Released_Year>
+		<Certificate>Passed</Certificate>
+		<Runtime>129</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>John Ford</Director>
+		<Star1>John Wayne</Star1>
+		<Star2>Maureen O'Hara</Star2>
+		<Star3>Barry Fitzgerald</Star3>
+		<Star4>Ward Bond</Star4>
+		<No_of_Votes>34677</No_of_Votes>
+		<Gross>10550000</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Day the Earth Stood Still</Series_Title>
+		<Released_Year>1951</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>92</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Robert Wise</Director>
+		<Star1>Michael Rennie</Star1>
+		<Star2>Patricia Neal</Star2>
+		<Star3>Hugh Marlowe</Star3>
+		<Star4>Sam Jaffe</Star4>
+		<No_of_Votes>76315</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The African Queen</Series_Title>
+		<Released_Year>1951</Released_Year>
+		<Certificate>PG</Certificate>
+		<Runtime>105</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>91</Meta_score>
+		<Director>John Huston</Director>
+		<Star1>Humphrey Bogart</Star1>
+		<Star2>Katharine Hepburn</Star2>
+		<Star3>Robert Morley</Star3>
+		<Star4>Peter Bull</Star4>
+		<No_of_Votes>71481</No_of_Votes>
+		<Gross>536118</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Gilda</Series_Title>
+		<Released_Year>1946</Released_Year>
+		<Certificate>Approved</Certificate>
+		<Runtime>110</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Charles Vidor</Director>
+		<Star1>Rita Hayworth</Star1>
+		<Star2>Glenn Ford</Star2>
+		<Star3>George Macready</Star3>
+		<Star4>Joseph Calleia</Star4>
+		<No_of_Votes>27991</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Film-Noir</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Fantasia</Series_Title>
+		<Released_Year>1940</Released_Year>
+		<Certificate>G</Certificate>
+		<Runtime>125</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>96</Meta_score>
+		<Director>James Algar</Director>
+		<Star1>Samuel Armstrong</Star1>
+		<Star2>Ford Beebe Jr.</Star2>
+		<Star3>Norman Ferguson</Star3>
+		<Star4>David Hand</Star4>
+		<No_of_Votes>88662</No_of_Votes>
+		<Gross>76408097</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Family</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Invisible Man</Series_Title>
+		<Released_Year>1933</Released_Year>
+		<Certificate>TV-PG</Certificate>
+		<Runtime>71</Runtime>
+		<IMDB_Rating>7.7</IMDB_Rating>
+		<Meta_score>87</Meta_score>
+		<Director>James Whale</Director>
+		<Star1>Claude Rains</Star1>
+		<Star2>Gloria Stuart</Star2>
+		<Star3>William Harrigan</Star3>
+		<Star4>Henry Travers</Star4>
+		<No_of_Votes>30683</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Horror</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Dark Waters</Series_Title>
+		<Released_Year>2019</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>126</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Todd Haynes</Director>
+		<Star1>Mark Ruffalo</Star1>
+		<Star2>Anne Hathaway</Star2>
+		<Star3>Tim Robbins</Star3>
+		<Star4>Bill Pullman</Star4>
+		<No_of_Votes>60408</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Searching</Series_Title>
+		<Released_Year>2018</Released_Year>
+		<Certificate>U/A</Certificate>
+		<Runtime>102</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>71</Meta_score>
+		<Director>Aneesh Chaganty</Director>
+		<Star1>John Cho</Star1>
+		<Star2>Debra Messing</Star2>
+		<Star3>Joseph Lee</Star3>
+		<Star4>Michelle La</Star4>
+		<No_of_Votes>140840</No_of_Votes>
+		<Gross>26020957</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Once Upon a Time... in Hollywood</Series_Title>
+		<Released_Year>2019</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>161</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>83</Meta_score>
+		<Director>Quentin Tarantino</Director>
+		<Star1>Leonardo DiCaprio</Star1>
+		<Star2>Brad Pitt</Star2>
+		<Star3>Margot Robbie</Star3>
+		<Star4>Emile Hirsch</Star4>
+		<No_of_Votes>551309</No_of_Votes>
+		<Gross>142502728</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Nelyubov</Series_Title>
+		<Released_Year>2017</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>127</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>86</Meta_score>
+		<Director>Andrey Zvyagintsev</Director>
+		<Star1>Maryana Spivak</Star1>
+		<Star2>Aleksey Rozin</Star2>
+		<Star3>Matvey Novikov</Star3>
+		<Star4>Marina Vasileva</Star4>
+		<No_of_Votes>29765</No_of_Votes>
+		<Gross>566356</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Florida Project</Series_Title>
+		<Released_Year>2017</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>111</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>92</Meta_score>
+		<Director>Sean Baker</Director>
+		<Star1>Brooklynn Prince</Star1>
+		<Star2>Bria Vinaite</Star2>
+		<Star3>Willem Dafoe</Star3>
+		<Star4>Christopher Rivera</Star4>
+		<No_of_Votes>95181</No_of_Votes>
+		<Gross>5904366</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Just Mercy</Series_Title>
+		<Released_Year>2019</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>137</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>Destin Daniel Cretton</Director>
+		<Star1>Michael B. Jordan</Star1>
+		<Star2>Jamie Foxx</Star2>
+		<Star3>Brie Larson</Star3>
+		<Star4>Charlie Pye Jr.</Star4>
+		<No_of_Votes>46739</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Gifted</Series_Title>
+		<Released_Year>2017</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>101</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>60</Meta_score>
+		<Director>Marc Webb</Director>
+		<Star1>Chris Evans</Star1>
+		<Star2>Mckenna Grace</Star2>
+		<Star3>Lindsay Duncan</Star3>
+		<Star4>Octavia Spencer</Star4>
+		<No_of_Votes>99643</No_of_Votes>
+		<Gross>24801212</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Peanut Butter Falcon</Series_Title>
+		<Released_Year>2019</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>97</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>70</Meta_score>
+		<Director>Tyler Nilson</Director>
+		<Star1>Michael Schwartz</Star1>
+		<Star2>Zack Gottsagen</Star2>
+		<Star3>Ann Owens</Star3>
+		<Star4>Dakota Johnson</Star4>
+		<No_of_Votes>66346</No_of_Votes>
+		<Gross>13122642</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Victoria</Series_Title>
+		<Released_Year>2015</Released_Year>
+		<Certificate />
+		<Runtime>138</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>77</Meta_score>
+		<Director>Sebastian Schipper</Director>
+		<Star1>Laia Costa</Star1>
+		<Star2>Frederick Lau</Star2>
+		<Star3>Franz Rogowski</Star3>
+		<Star4>Burak Yigit</Star4>
+		<No_of_Votes>52903</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Mustang</Series_Title>
+		<Released_Year>2015</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>97</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>83</Meta_score>
+		<Director>Deniz Gamze Ergüven</Director>
+		<Star1>Günes Sensoy</Star1>
+		<Star2>Doga Zeynep Doguslu</Star2>
+		<Star3>Tugba Sunguroglu</Star3>
+		<Star4>Elit Iscan</Star4>
+		<No_of_Votes>35785</No_of_Votes>
+		<Gross>845464</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Guardians of the Galaxy Vol. 2</Series_Title>
+		<Released_Year>2017</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>136</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>67</Meta_score>
+		<Director>James Gunn</Director>
+		<Star1>Chris Pratt</Star1>
+		<Star2>Zoe Saldana</Star2>
+		<Star3>Dave Bautista</Star3>
+		<Star4>Vin Diesel</Star4>
+		<No_of_Votes>569974</No_of_Votes>
+		<Gross>389813101</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Baby Driver</Series_Title>
+		<Released_Year>2017</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>113</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>86</Meta_score>
+		<Director>Edgar Wright</Director>
+		<Star1>Ansel Elgort</Star1>
+		<Star2>Jon Bernthal</Star2>
+		<Star3>Jon Hamm</Star3>
+		<Star4>Eiza González</Star4>
+		<No_of_Votes>439406</No_of_Votes>
+		<Gross>107825862</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Only the Brave</Series_Title>
+		<Released_Year>2017</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>134</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>72</Meta_score>
+		<Director>Joseph Kosinski</Director>
+		<Star1>Josh Brolin</Star1>
+		<Star2>Miles Teller</Star2>
+		<Star3>Jeff Bridges</Star3>
+		<Star4>Jennifer Connelly</Star4>
+		<No_of_Votes>58371</No_of_Votes>
+		<Gross>18340051</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Bridge of Spies</Series_Title>
+		<Released_Year>2015</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>142</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Steven Spielberg</Director>
+		<Star1>Tom Hanks</Star1>
+		<Star2>Mark Rylance</Star2>
+		<Star3>Alan Alda</Star3>
+		<Star4>Amy Ryan</Star4>
+		<No_of_Votes>287659</No_of_Votes>
+		<Gross>72313754</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Incredibles 2</Series_Title>
+		<Released_Year>2018</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>118</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>80</Meta_score>
+		<Director>Brad Bird</Director>
+		<Star1>Craig T. Nelson</Star1>
+		<Star2>Holly Hunter</Star2>
+		<Star3>Sarah Vowell</Star3>
+		<Star4>Huck Milner</Star4>
+		<No_of_Votes>250057</No_of_Votes>
+		<Gross>608581744</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Moana</Series_Title>
+		<Released_Year>2016</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>107</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Ron Clements</Director>
+		<Star1>John Musker</Star1>
+		<Star2>Don Hall</Star2>
+		<Star3>Chris Williams</Star3>
+		<Star4>Auli'i Cravalho</Star4>
+		<No_of_Votes>272784</No_of_Votes>
+		<Gross>248757044</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Sicario</Series_Title>
+		<Released_Year>2015</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>121</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>82</Meta_score>
+		<Director>Denis Villeneuve</Director>
+		<Star1>Emily Blunt</Star1>
+		<Star2>Josh Brolin</Star2>
+		<Star3>Benicio Del Toro</Star3>
+		<Star4>Jon Bernthal</Star4>
+		<No_of_Votes>371291</No_of_Votes>
+		<Gross>46889293</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Creed</Series_Title>
+		<Released_Year>2015</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>133</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>82</Meta_score>
+		<Director>Ryan Coogler</Director>
+		<Star1>Michael B. Jordan</Star1>
+		<Star2>Sylvester Stallone</Star2>
+		<Star3>Tessa Thompson</Star3>
+		<Star4>Phylicia Rashad</Star4>
+		<No_of_Votes>247666</No_of_Votes>
+		<Gross>109767581</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Sport</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Leviafan</Series_Title>
+		<Released_Year>2014</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>140</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>92</Meta_score>
+		<Director>Andrey Zvyagintsev</Director>
+		<Star1>Aleksey Serebryakov</Star1>
+		<Star2>Elena Lyadova</Star2>
+		<Star3>Roman Madyanov</Star3>
+		<Star4>Vladimir Vdovichenkov</Star4>
+		<No_of_Votes>49397</No_of_Votes>
+		<Gross>1092800</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Hell or High Water</Series_Title>
+		<Released_Year>2016</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>102</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>88</Meta_score>
+		<Director>David Mackenzie</Director>
+		<Star1>Chris Pine</Star1>
+		<Star2>Ben Foster</Star2>
+		<Star3>Jeff Bridges</Star3>
+		<Star4>Gil Birmingham</Star4>
+		<No_of_Votes>204175</No_of_Votes>
+		<Gross>26862450</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Philomena</Series_Title>
+		<Released_Year>2013</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>98</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>77</Meta_score>
+		<Director>Stephen Frears</Director>
+		<Star1>Judi Dench</Star1>
+		<Star2>Steve Coogan</Star2>
+		<Star3>Sophie Kennedy Clark</Star3>
+		<Star4>Mare Winningham</Star4>
+		<No_of_Votes>94212</No_of_Votes>
+		<Gross>37707719</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Dawn of the Planet of the Apes</Series_Title>
+		<Released_Year>2014</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>130</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>79</Meta_score>
+		<Director>Matt Reeves</Director>
+		<Star1>Gary Oldman</Star1>
+		<Star2>Keri Russell</Star2>
+		<Star3>Andy Serkis</Star3>
+		<Star4>Kodi Smit-McPhee</Star4>
+		<No_of_Votes>411599</No_of_Votes>
+		<Gross>208545589</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>El cuerpo</Series_Title>
+		<Released_Year>2012</Released_Year>
+		<Certificate />
+		<Runtime>112</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Oriol Paulo</Director>
+		<Star1>Jose Coronado</Star1>
+		<Star2>Hugo Silva</Star2>
+		<Star3>Belén Rueda</Star3>
+		<Star4>Aura Garrido</Star4>
+		<No_of_Votes>57549</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Serbuan maut</Series_Title>
+		<Released_Year>2011</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>101</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Gareth Evans</Director>
+		<Star1>Iko Uwais</Star1>
+		<Star2>Ananda George</Star2>
+		<Star3>Ray Sahetapy</Star3>
+		<Star4>Donny Alamsyah</Star4>
+		<No_of_Votes>190531</No_of_Votes>
+		<Gross>4105123</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>End of Watch</Series_Title>
+		<Released_Year>2012</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>109</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>David Ayer</Director>
+		<Star1>Jake Gyllenhaal</Star1>
+		<Star2>Michael Peña</Star2>
+		<Star3>Anna Kendrick</Star3>
+		<Star4>America Ferrera</Star4>
+		<No_of_Votes>228132</No_of_Votes>
+		<Gross>41003371</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Kari-gurashi no Arietti</Series_Title>
+		<Released_Year>2010</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>94</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>80</Meta_score>
+		<Director>Hiromasa Yonebayashi</Director>
+		<Star1>Amy Poehler</Star1>
+		<Star2>Mirai Shida</Star2>
+		<Star3>Ryûnosuke Kamiki</Star3>
+		<Star4>Tatsuya Fujiwara</Star4>
+		<No_of_Votes>80939</No_of_Votes>
+		<Gross>19202743</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>A Star Is Born</Series_Title>
+		<Released_Year>2018</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>136</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>88</Meta_score>
+		<Director>Bradley Cooper</Director>
+		<Star1>Lady Gaga</Star1>
+		<Star2>Bradley Cooper</Star2>
+		<Star3>Sam Elliott</Star3>
+		<Star4>Greg Grunberg</Star4>
+		<No_of_Votes>334312</No_of_Votes>
+		<Gross>215288866</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Music</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>True Grit</Series_Title>
+		<Released_Year>2010</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>110</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>80</Meta_score>
+		<Director>Ethan Coen</Director>
+		<Star1>Joel Coen</Star1>
+		<Star2>Jeff Bridges</Star2>
+		<Star3>Matt Damon</Star3>
+		<Star4>Hailee Steinfeld</Star4>
+		<No_of_Votes>311822</No_of_Votes>
+		<Gross>171243005</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Western</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Hævnen</Series_Title>
+		<Released_Year>2010</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>118</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>65</Meta_score>
+		<Director>Susanne Bier</Director>
+		<Star1>Mikael Persbrandt</Star1>
+		<Star2>Trine Dyrholm</Star2>
+		<Star3>Markus Rygaard</Star3>
+		<Star4>Wil Johnson</Star4>
+		<No_of_Votes>38491</No_of_Votes>
+		<Gross>1008098</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Despicable Me</Series_Title>
+		<Released_Year>2010</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>95</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>72</Meta_score>
+		<Director>Pierre Coffin</Director>
+		<Star1>Chris Renaud</Star1>
+		<Star2>Steve Carell</Star2>
+		<Star3>Jason Segel</Star3>
+		<Star4>Russell Brand</Star4>
+		<No_of_Votes>500851</No_of_Votes>
+		<Gross>251513985</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>50/50</Series_Title>
+		<Released_Year>2011</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>100</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>72</Meta_score>
+		<Director>Jonathan Levine</Director>
+		<Star1>Joseph Gordon-Levitt</Star1>
+		<Star2>Seth Rogen</Star2>
+		<Star3>Anna Kendrick</Star3>
+		<Star4>Bryce Dallas Howard</Star4>
+		<No_of_Votes>315426</No_of_Votes>
+		<Gross>35014192</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Kick-Ass</Series_Title>
+		<Released_Year>2010</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>117</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>66</Meta_score>
+		<Director>Matthew Vaughn</Director>
+		<Star1>Aaron Taylor-Johnson</Star1>
+		<Star2>Nicolas Cage</Star2>
+		<Star3>Chloë Grace Moretz</Star3>
+		<Star4>Garrett M. Brown</Star4>
+		<No_of_Votes>524081</No_of_Votes>
+		<Gross>48071303</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Celda 211</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate />
+		<Runtime>113</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Daniel Monzón</Director>
+		<Star1>Luis Tosar</Star1>
+		<Star2>Alberto Ammann</Star2>
+		<Star3>Antonio Resines</Star3>
+		<Star4>Manuel Morón</Star4>
+		<No_of_Votes>63882</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Crime</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Moneyball</Series_Title>
+		<Released_Year>2011</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>133</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>87</Meta_score>
+		<Director>Bennett Miller</Director>
+		<Star1>Brad Pitt</Star1>
+		<Star2>Robin Wright</Star2>
+		<Star3>Jonah Hill</Star3>
+		<Star4>Philip Seymour Hoffman</Star4>
+		<No_of_Votes>369529</No_of_Votes>
+		<Gross>75605492</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Sport</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>La piel que habito</Series_Title>
+		<Released_Year>2011</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>120</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>70</Meta_score>
+		<Director>Pedro Almodóvar</Director>
+		<Star1>Antonio Banderas</Star1>
+		<Star2>Elena Anaya</Star2>
+		<Star3>Jan Cornet</Star3>
+		<Star4>Marisa Paredes</Star4>
+		<No_of_Votes>138959</No_of_Votes>
+		<Gross>3185812</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Horror</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Zombieland</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>88</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Ruben Fleischer</Director>
+		<Star1>Jesse Eisenberg</Star1>
+		<Star2>Emma Stone</Star2>
+		<Star3>Woody Harrelson</Star3>
+		<Star4>Abigail Breslin</Star4>
+		<No_of_Votes>520041</No_of_Votes>
+		<Gross>75590286</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Die Welle</Series_Title>
+		<Released_Year>2008</Released_Year>
+		<Certificate />
+		<Runtime>107</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Dennis Gansel</Director>
+		<Star1>Jürgen Vogel</Star1>
+		<Star2>Frederick Lau</Star2>
+		<Star3>Max Riemelt</Star3>
+		<Star4>Jennifer Ulrich</Star4>
+		<No_of_Votes>102742</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Sherlock Holmes</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>128</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>57</Meta_score>
+		<Director>Guy Ritchie</Director>
+		<Star1>Robert Downey Jr.</Star1>
+		<Star2>Jude Law</Star2>
+		<Star3>Rachel McAdams</Star3>
+		<Star4>Mark Strong</Star4>
+		<No_of_Votes>583158</No_of_Votes>
+		<Gross>209028679</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Blind Side</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>129</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>53</Meta_score>
+		<Director>John Lee Hancock</Director>
+		<Star1>Quinton Aaron</Star1>
+		<Star2>Sandra Bullock</Star2>
+		<Star3>Tim McGraw</Star3>
+		<Star4>Jae Head</Star4>
+		<No_of_Votes>293266</No_of_Votes>
+		<Gross>255959475</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Sport</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Visitor</Series_Title>
+		<Released_Year>2007</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>104</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>79</Meta_score>
+		<Director>Tom McCarthy</Director>
+		<Star1>Richard Jenkins</Star1>
+		<Star2>Haaz Sleiman</Star2>
+		<Star3>Danai Gurira</Star3>
+		<Star4>Hiam Abbass</Star4>
+		<No_of_Votes>41544</No_of_Votes>
+		<Gross>9422422</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Seven Pounds</Series_Title>
+		<Released_Year>2008</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>123</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>36</Meta_score>
+		<Director>Gabriele Muccino</Director>
+		<Star1>Will Smith</Star1>
+		<Star2>Rosario Dawson</Star2>
+		<Star3>Woody Harrelson</Star3>
+		<Star4>Michael Ealy</Star4>
+		<No_of_Votes>286770</No_of_Votes>
+		<Gross>69951824</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Eastern Promises</Series_Title>
+		<Released_Year>2007</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>100</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>82</Meta_score>
+		<Director>David Cronenberg</Director>
+		<Star1>Naomi Watts</Star1>
+		<Star2>Viggo Mortensen</Star2>
+		<Star3>Armin Mueller-Stahl</Star3>
+		<Star4>Josef Altin</Star4>
+		<No_of_Votes>227760</No_of_Votes>
+		<Gross>17114882</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Stardust</Series_Title>
+		<Released_Year>2007</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>127</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>66</Meta_score>
+		<Director>Matthew Vaughn</Director>
+		<Star1>Charlie Cox</Star1>
+		<Star2>Claire Danes</Star2>
+		<Star3>Sienna Miller</Star3>
+		<Star4>Ian McKellen</Star4>
+		<No_of_Votes>255036</No_of_Votes>
+		<Gross>38634938</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Secret of Kells</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate />
+		<Runtime>71</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Tomm Moore</Director>
+		<Star1>Nora Twomey</Star1>
+		<Star2>Evan McGuire</Star2>
+		<Star3>Brendan Gleeson</Star3>
+		<Star4>Mick Lally</Star4>
+		<No_of_Votes>31779</No_of_Votes>
+		<Gross>686383</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Inside Man</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>129</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Spike Lee</Director>
+		<Star1>Denzel Washington</Star1>
+		<Star2>Clive Owen</Star2>
+		<Star3>Jodie Foster</Star3>
+		<Star4>Christopher Plummer</Star4>
+		<No_of_Votes>339757</No_of_Votes>
+		<Gross>88513495</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Gone Baby Gone</Series_Title>
+		<Released_Year>2007</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>114</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>72</Meta_score>
+		<Director>Ben Affleck</Director>
+		<Star1>Morgan Freeman</Star1>
+		<Star2>Ed Harris</Star2>
+		<Star3>Casey Affleck</Star3>
+		<Star4>Michelle Monaghan</Star4>
+		<No_of_Votes>250590</No_of_Votes>
+		<Gross>20300218</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>La Vie En Rose</Series_Title>
+		<Released_Year>2007</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>140</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>66</Meta_score>
+		<Director>Olivier Dahan</Director>
+		<Star1>Marion Cotillard</Star1>
+		<Star2>Sylvie Testud</Star2>
+		<Star3>Pascal Greggory</Star3>
+		<Star4>Emmanuelle Seigner</Star4>
+		<No_of_Votes>82781</No_of_Votes>
+		<Gross>10301706</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Music</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Huo Yuan Jia</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>104</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>70</Meta_score>
+		<Director>Ronny Yu</Director>
+		<Star1>Jet Li</Star1>
+		<Star2>Li Sun</Star2>
+		<Star3>Yong Dong</Star3>
+		<Star4>Yun Qu</Star4>
+		<No_of_Votes>72863</No_of_Votes>
+		<Gross>24633730</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Illusionist</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>110</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>Neil Burger</Director>
+		<Star1>Edward Norton</Star1>
+		<Star2>Jessica Biel</Star2>
+		<Star3>Paul Giamatti</Star3>
+		<Star4>Rufus Sewell</Star4>
+		<No_of_Votes>354728</No_of_Votes>
+		<Gross>39868642</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Fantasy</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Dead Man's Shoes</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate />
+		<Runtime>90</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>52</Meta_score>
+		<Director>Shane Meadows</Director>
+		<Star1>Paddy Considine</Star1>
+		<Star2>Gary Stretch</Star2>
+		<Star3>Toby Kebbell</Star3>
+		<Star4>Stuart Wolfenden</Star4>
+		<No_of_Votes>49728</No_of_Votes>
+		<Gross>6013</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Harry Potter and the Half-Blood Prince</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>153</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>David Yates</Director>
+		<Star1>Daniel Radcliffe</Star1>
+		<Star2>Emma Watson</Star2>
+		<Star3>Rupert Grint</Star3>
+		<Star4>Michael Gambon</Star4>
+		<No_of_Votes>474827</No_of_Votes>
+		<Gross>301959197</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>300</Series_Title>
+		<Released_Year>2006</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>117</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>52</Meta_score>
+		<Director>Zack Snyder</Director>
+		<Star1>Gerard Butler</Star1>
+		<Star2>Lena Headey</Star2>
+		<Star3>David Wenham</Star3>
+		<Star4>Dominic West</Star4>
+		<No_of_Votes>732876</No_of_Votes>
+		<Gross>210614939</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Match Point</Series_Title>
+		<Released_Year>2005</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>124</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>72</Meta_score>
+		<Director>Woody Allen</Director>
+		<Star1>Scarlett Johansson</Star1>
+		<Star2>Jonathan Rhys Meyers</Star2>
+		<Star3>Emily Mortimer</Star3>
+		<Star4>Matthew Goode</Star4>
+		<No_of_Votes>206294</No_of_Votes>
+		<Gross>23089926</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Watchmen</Series_Title>
+		<Released_Year>2009</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>162</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>56</Meta_score>
+		<Director>Zack Snyder</Director>
+		<Star1>Jackie Earle Haley</Star1>
+		<Star2>Patrick Wilson</Star2>
+		<Star3>Carla Gugino</Star3>
+		<Star4>Malin Akerman</Star4>
+		<No_of_Votes>500799</No_of_Votes>
+		<Gross>107509799</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Lord of War</Series_Title>
+		<Released_Year>2005</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>122</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>62</Meta_score>
+		<Director>Andrew Niccol</Director>
+		<Star1>Nicolas Cage</Star1>
+		<Star2>Ethan Hawke</Star2>
+		<Star3>Jared Leto</Star3>
+		<Star4>Bridget Moynahan</Star4>
+		<No_of_Votes>294140</No_of_Votes>
+		<Gross>24149632</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Saw</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>103</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>46</Meta_score>
+		<Director>James Wan</Director>
+		<Star1>Cary Elwes</Star1>
+		<Star2>Leigh Whannell</Star2>
+		<Star3>Danny Glover</Star3>
+		<Star4>Ken Leung</Star4>
+		<No_of_Votes>379020</No_of_Votes>
+		<Gross>56000369</Gross>
+		<Genres>
+			<Genre>Horror</Genre>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Synecdoche, New York</Series_Title>
+		<Released_Year>2008</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>124</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>67</Meta_score>
+		<Director>Charlie Kaufman</Director>
+		<Star1>Philip Seymour Hoffman</Star1>
+		<Star2>Samantha Morton</Star2>
+		<Star3>Michelle Williams</Star3>
+		<Star4>Catherine Keener</Star4>
+		<No_of_Votes>83158</No_of_Votes>
+		<Gross>3081925</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Mysterious Skin</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>105</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Gregg Araki</Director>
+		<Star1>Brady Corbet</Star1>
+		<Star2>Joseph Gordon-Levitt</Star2>
+		<Star3>Elisabeth Shue</Star3>
+		<Star4>Chase Ellison</Star4>
+		<No_of_Votes>65939</No_of_Votes>
+		<Gross>697181</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Jeux d'enfants</Series_Title>
+		<Released_Year>2003</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>93</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>45</Meta_score>
+		<Director>Yann Samuell</Director>
+		<Star1>Guillaume Canet</Star1>
+		<Star2>Marion Cotillard</Star2>
+		<Star3>Thibault Verhaeghe</Star3>
+		<Star4>Joséphine Lebas-Joly</Star4>
+		<No_of_Votes>67360</No_of_Votes>
+		<Gross>548707</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Un long dimanche de fiançailles</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>133</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Jean-Pierre Jeunet</Director>
+		<Star1>Audrey Tautou</Star1>
+		<Star2>Gaspard Ulliel</Star2>
+		<Star3>Jodie Foster</Star3>
+		<Star4>Dominique Pinon</Star4>
+		<No_of_Votes>70925</No_of_Votes>
+		<Gross>6167817</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Station Agent</Series_Title>
+		<Released_Year>2003</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>89</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Tom McCarthy</Director>
+		<Star1>Peter Dinklage</Star1>
+		<Star2>Patricia Clarkson</Star2>
+		<Star3>Bobby Cannavale</Star3>
+		<Star4>Paul Benjamin</Star4>
+		<No_of_Votes>67370</No_of_Votes>
+		<Gross>5739376</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>21 Grams</Series_Title>
+		<Released_Year>2003</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>124</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>70</Meta_score>
+		<Director>Alejandro G. Iñárritu</Director>
+		<Star1>Sean Penn</Star1>
+		<Star2>Benicio Del Toro</Star2>
+		<Star3>Naomi Watts</Star3>
+		<Star4>Danny Huston</Star4>
+		<No_of_Votes>224545</No_of_Votes>
+		<Gross>16290476</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Boksuneun naui geot</Series_Title>
+		<Released_Year>2002</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>129</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>56</Meta_score>
+		<Director>Chan-wook Park</Director>
+		<Star1>Kang-ho Song</Star1>
+		<Star2>Shin Ha-kyun</Star2>
+		<Star3>Bae Doona</Star3>
+		<Star4>Ji-Eun Lim</Star4>
+		<No_of_Votes>62659</No_of_Votes>
+		<Gross>45289</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Finding Neverland</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>106</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>67</Meta_score>
+		<Director>Marc Forster</Director>
+		<Star1>Johnny Depp</Star1>
+		<Star2>Kate Winslet</Star2>
+		<Star3>Julie Christie</Star3>
+		<Star4>Radha Mitchell</Star4>
+		<No_of_Votes>198677</No_of_Votes>
+		<Gross>51680613</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>25th Hour</Series_Title>
+		<Released_Year>2002</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>135</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>Spike Lee</Director>
+		<Star1>Edward Norton</Star1>
+		<Star2>Barry Pepper</Star2>
+		<Star3>Philip Seymour Hoffman</Star3>
+		<Star4>Rosario Dawson</Star4>
+		<No_of_Votes>169708</No_of_Votes>
+		<Gross>13060843</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Butterfly Effect</Series_Title>
+		<Released_Year>2004</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>113</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>30</Meta_score>
+		<Director>Eric Bress</Director>
+		<Star1>J. Mackye Gruber</Star1>
+		<Star2>Ashton Kutcher</Star2>
+		<Star3>Amy Smart</Star3>
+		<Star4>Melora Walters</Star4>
+		<No_of_Votes>451479</No_of_Votes>
+		<Gross>57938693</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Sci-Fi</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>28 Days Later...</Series_Title>
+		<Released_Year>2002</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>113</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>73</Meta_score>
+		<Director>Danny Boyle</Director>
+		<Star1>Cillian Murphy</Star1>
+		<Star2>Naomie Harris</Star2>
+		<Star3>Christopher Eccleston</Star3>
+		<Star4>Alex Palmer</Star4>
+		<No_of_Votes>376853</No_of_Votes>
+		<Gross>45064915</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Horror</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Batoru rowaiaru</Series_Title>
+		<Released_Year>2000</Released_Year>
+		<Certificate />
+		<Runtime>114</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>81</Meta_score>
+		<Director>Kinji Fukasaku</Director>
+		<Star1>Tatsuya Fujiwara</Star1>
+		<Star2>Aki Maeda</Star2>
+		<Star3>Tarô Yamamoto</Star3>
+		<Star4>Takeshi Kitano</Star4>
+		<No_of_Votes>169091</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Royal Tenenbaums</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>110</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Wes Anderson</Director>
+		<Star1>Gene Hackman</Star1>
+		<Star2>Gwyneth Paltrow</Star2>
+		<Star3>Anjelica Huston</Star3>
+		<Star4>Ben Stiller</Star4>
+		<No_of_Votes>266842</No_of_Votes>
+		<Gross>52364010</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Y tu mamá también</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>106</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>88</Meta_score>
+		<Director>Alfonso Cuarón</Director>
+		<Star1>Maribel Verdú</Star1>
+		<Star2>Gael García Bernal</Star2>
+		<Star3>Daniel Giménez Cacho</Star3>
+		<Star4>Ana López Mercado</Star4>
+		<No_of_Votes>115827</No_of_Votes>
+		<Gross>13622333</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Harry Potter and the Sorcerer's Stone</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>152</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>64</Meta_score>
+		<Director>Chris Columbus</Director>
+		<Star1>Daniel Radcliffe</Star1>
+		<Star2>Rupert Grint</Star2>
+		<Star3>Richard Harris</Star3>
+		<Star4>Maggie Smith</Star4>
+		<No_of_Votes>658185</No_of_Votes>
+		<Gross>317575550</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Others</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>PG-13</Certificate>
+		<Runtime>101</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>74</Meta_score>
+		<Director>Alejandro Amenábar</Director>
+		<Star1>Nicole Kidman</Star1>
+		<Star2>Christopher Eccleston</Star2>
+		<Star3>Fionnula Flanagan</Star3>
+		<Star4>Alakina Mann</Star4>
+		<No_of_Votes>337651</No_of_Votes>
+		<Gross>96522687</Gross>
+		<Genres>
+			<Genre>Horror</Genre>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Blow</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>124</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>52</Meta_score>
+		<Director>Ted Demme</Director>
+		<Star1>Johnny Depp</Star1>
+		<Star2>Penélope Cruz</Star2>
+		<Star3>Franka Potente</Star3>
+		<Star4>Rachel Griffiths</Star4>
+		<No_of_Votes>240714</No_of_Votes>
+		<Gross>52990775</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Enemy at the Gates</Series_Title>
+		<Released_Year>2001</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>131</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>53</Meta_score>
+		<Director>Jean-Jacques Annaud</Director>
+		<Star1>Jude Law</Star1>
+		<Star2>Ed Harris</Star2>
+		<Star3>Joseph Fiennes</Star3>
+		<Star4>Rachel Weisz</Star4>
+		<No_of_Votes>243729</No_of_Votes>
+		<Gross>51401758</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Minority Report</Series_Title>
+		<Released_Year>2002</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>145</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>80</Meta_score>
+		<Director>Steven Spielberg</Director>
+		<Star1>Tom Cruise</Star1>
+		<Star2>Colin Farrell</Star2>
+		<Star3>Samantha Morton</Star3>
+		<Star4>Max von Sydow</Star4>
+		<No_of_Votes>508417</No_of_Votes>
+		<Gross>132072926</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Mystery</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Hurricane</Series_Title>
+		<Released_Year>1999</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>146</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>74</Meta_score>
+		<Director>Norman Jewison</Director>
+		<Star1>Denzel Washington</Star1>
+		<Star2>Vicellous Shannon</Star2>
+		<Star3>Deborah Kara Unger</Star3>
+		<Star4>Liev Schreiber</Star4>
+		<No_of_Votes>91557</No_of_Votes>
+		<Gross>50668906</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Sport</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>American Psycho</Series_Title>
+		<Released_Year>2000</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>101</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>64</Meta_score>
+		<Director>Mary Harron</Director>
+		<Star1>Christian Bale</Star1>
+		<Star2>Justin Theroux</Star2>
+		<Star3>Josh Lucas</Star3>
+		<Star4>Bill Sage</Star4>
+		<No_of_Votes>490062</No_of_Votes>
+		<Gross>15070285</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Lola rennt</Series_Title>
+		<Released_Year>1998</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>81</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>77</Meta_score>
+		<Director>Tom Tykwer</Director>
+		<Star1>Franka Potente</Star1>
+		<Star2>Moritz Bleibtreu</Star2>
+		<Star3>Herbert Knaup</Star3>
+		<Star4>Nina Petri</Star4>
+		<No_of_Votes>188317</No_of_Votes>
+		<Gross>7267585</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Thin Red Line</Series_Title>
+		<Released_Year>1998</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>170</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Terrence Malick</Director>
+		<Star1>Jim Caviezel</Star1>
+		<Star2>Sean Penn</Star2>
+		<Star3>Nick Nolte</Star3>
+		<Star4>Kirk Acevedo</Star4>
+		<No_of_Votes>172710</No_of_Votes>
+		<Gross>36400491</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Mulan</Series_Title>
+		<Released_Year>1998</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>88</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>71</Meta_score>
+		<Director>Tony Bancroft</Director>
+		<Star1>Barry Cook</Star1>
+		<Star2>Ming-Na Wen</Star2>
+		<Star3>Eddie Murphy</Star3>
+		<Star4>BD Wong</Star4>
+		<No_of_Votes>256906</No_of_Votes>
+		<Gross>120620254</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Fear and Loathing in Las Vegas</Series_Title>
+		<Released_Year>1998</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>118</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>41</Meta_score>
+		<Director>Terry Gilliam</Director>
+		<Star1>Johnny Depp</Star1>
+		<Star2>Benicio Del Toro</Star2>
+		<Star3>Tobey Maguire</Star3>
+		<Star4>Michael Lee Gogin</Star4>
+		<No_of_Votes>259753</No_of_Votes>
+		<Gross>10680275</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Funny Games</Series_Title>
+		<Released_Year>1997</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>108</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>69</Meta_score>
+		<Director>Michael Haneke</Director>
+		<Star1>Susanne Lothar</Star1>
+		<Star2>Ulrich Mühe</Star2>
+		<Star3>Arno Frisch</Star3>
+		<Star4>Frank Giering</Star4>
+		<No_of_Votes>65058</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Dark City</Series_Title>
+		<Released_Year>1998</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>100</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>66</Meta_score>
+		<Director>Alex Proyas</Director>
+		<Star1>Rufus Sewell</Star1>
+		<Star2>Kiefer Sutherland</Star2>
+		<Star3>Jennifer Connelly</Star3>
+		<Star4>William Hurt</Star4>
+		<No_of_Votes>187927</No_of_Votes>
+		<Gross>14378331</Gross>
+		<Genres>
+			<Genre>Mystery</Genre>
+			<Genre>Sci-Fi</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Sleepers</Series_Title>
+		<Released_Year>1996</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>147</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>49</Meta_score>
+		<Director>Barry Levinson</Director>
+		<Star1>Robert De Niro</Star1>
+		<Star2>Kevin Bacon</Star2>
+		<Star3>Brad Pitt</Star3>
+		<Star4>Jason Patric</Star4>
+		<No_of_Votes>186734</No_of_Votes>
+		<Gross>49100000</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Lost Highway</Series_Title>
+		<Released_Year>1997</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>134</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>52</Meta_score>
+		<Director>David Lynch</Director>
+		<Star1>Bill Pullman</Star1>
+		<Star2>Patricia Arquette</Star2>
+		<Star3>John Roselius</Star3>
+		<Star4>Louis Eppolito</Star4>
+		<No_of_Votes>131101</No_of_Votes>
+		<Gross>3796699</Gross>
+		<Genres>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Sense and Sensibility</Series_Title>
+		<Released_Year>1995</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>136</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>84</Meta_score>
+		<Director>Ang Lee</Director>
+		<Star1>Emma Thompson</Star1>
+		<Star2>Kate Winslet</Star2>
+		<Star3>James Fleet</Star3>
+		<Star4>Tom Wilkinson</Star4>
+		<No_of_Votes>102598</No_of_Votes>
+		<Gross>43182776</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Die Hard: With a Vengeance</Series_Title>
+		<Released_Year>1995</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>128</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>58</Meta_score>
+		<Director>John McTiernan</Director>
+		<Star1>Bruce Willis</Star1>
+		<Star2>Jeremy Irons</Star2>
+		<Star3>Samuel L. Jackson</Star3>
+		<Star4>Graham Greene</Star4>
+		<No_of_Votes>364420</No_of_Votes>
+		<Gross>100012499</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Dead Man</Series_Title>
+		<Released_Year>1995</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>121</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>62</Meta_score>
+		<Director>Jim Jarmusch</Director>
+		<Star1>Johnny Depp</Star1>
+		<Star2>Gary Farmer</Star2>
+		<Star3>Crispin Glover</Star3>
+		<Star4>Lance Henriksen</Star4>
+		<No_of_Votes>90442</No_of_Votes>
+		<Gross>1037847</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Bridges of Madison County</Series_Title>
+		<Released_Year>1995</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>135</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>69</Meta_score>
+		<Director>Clint Eastwood</Director>
+		<Star1>Clint Eastwood</Star1>
+		<Star2>Meryl Streep</Star2>
+		<Star3>Annie Corley</Star3>
+		<Star4>Victor Slezak</Star4>
+		<No_of_Votes>73172</No_of_Votes>
+		<Gross>71516617</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Apollo 13</Series_Title>
+		<Released_Year>PG</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>140</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>77</Meta_score>
+		<Director>Ron Howard</Director>
+		<Star1>Tom Hanks</Star1>
+		<Star2>Bill Paxton</Star2>
+		<Star3>Kevin Bacon</Star3>
+		<Star4>Gary Sinise</Star4>
+		<No_of_Votes>269197</No_of_Votes>
+		<Gross>173837933</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Drama</Genre>
+			<Genre>History</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Trois couleurs: Blanc</Series_Title>
+		<Released_Year>1994</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>92</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>88</Meta_score>
+		<Director>Krzysztof Kieslowski</Director>
+		<Star1>Zbigniew Zamachowski</Star1>
+		<Star2>Julie Delpy</Star2>
+		<Star3>Janusz Gajos</Star3>
+		<Star4>Jerzy Stuhr</Star4>
+		<No_of_Votes>64390</No_of_Votes>
+		<Gross>1464625</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Falling Down</Series_Title>
+		<Released_Year>1993</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>113</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>56</Meta_score>
+		<Director>Joel Schumacher</Director>
+		<Star1>Michael Douglas</Star1>
+		<Star2>Robert Duvall</Star2>
+		<Star3>Barbara Hershey</Star3>
+		<Star4>Rachel Ticotin</Star4>
+		<No_of_Votes>171640</No_of_Votes>
+		<Gross>40903593</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Dazed and Confused</Series_Title>
+		<Released_Year>1993</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>102</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Richard Linklater</Director>
+		<Star1>Jason London</Star1>
+		<Star2>Wiley Wiggins</Star2>
+		<Star3>Matthew McConaughey</Star3>
+		<Star4>Rory Cochrane</Star4>
+		<No_of_Votes>165465</No_of_Votes>
+		<Gross>7993039</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>My Cousin Vinny</Series_Title>
+		<Released_Year>1992</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>120</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>Jonathan Lynn</Director>
+		<Star1>Joe Pesci</Star1>
+		<Star2>Marisa Tomei</Star2>
+		<Star3>Ralph Macchio</Star3>
+		<Star4>Mitchell Whitfield</Star4>
+		<No_of_Votes>107325</No_of_Votes>
+		<Gross>52929168</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Omohide poro poro</Series_Title>
+		<Released_Year>1991</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>118</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>90</Meta_score>
+		<Director>Isao Takahata</Director>
+		<Star1>Miki Imai</Star1>
+		<Star2>Toshirô Yanagiba</Star2>
+		<Star3>Yoko Honna</Star3>
+		<Star4>Mayumi Izuka</Star4>
+		<No_of_Votes>27071</No_of_Votes>
+		<Gross>453243</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Delicatessen</Series_Title>
+		<Released_Year>1991</Released_Year>
+		<Certificate>R</Certificate>
+		<Runtime>99</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>66</Meta_score>
+		<Director>Marc Caro</Director>
+		<Star1>Jean-Pierre Jeunet</Star1>
+		<Star2>Marie-Laure Dougnac</Star2>
+		<Star3>Dominique Pinon</Star3>
+		<Star4>Pascal Benezech</Star4>
+		<No_of_Votes>80487</No_of_Votes>
+		<Gross>1794187</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Home Alone</Series_Title>
+		<Released_Year>1990</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>103</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>63</Meta_score>
+		<Director>Chris Columbus</Director>
+		<Star1>Macaulay Culkin</Star1>
+		<Star2>Joe Pesci</Star2>
+		<Star3>Daniel Stern</Star3>
+		<Star4>John Heard</Star4>
+		<No_of_Votes>488817</No_of_Votes>
+		<Gross>285761243</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Godfather: Part III</Series_Title>
+		<Released_Year>1990</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>162</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>60</Meta_score>
+		<Director>Francis Ford Coppola</Director>
+		<Star1>Al Pacino</Star1>
+		<Star2>Diane Keaton</Star2>
+		<Star3>Andy Garcia</Star3>
+		<Star4>Talia Shire</Star4>
+		<No_of_Votes>359809</No_of_Votes>
+		<Gross>66666062</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>When Harry Met Sally...</Series_Title>
+		<Released_Year>1989</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>95</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Rob Reiner</Director>
+		<Star1>Billy Crystal</Star1>
+		<Star2>Meg Ryan</Star2>
+		<Star3>Carrie Fisher</Star3>
+		<Star4>Bruno Kirby</Star4>
+		<No_of_Votes>195663</No_of_Votes>
+		<Gross>92823600</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Little Mermaid</Series_Title>
+		<Released_Year>1989</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>83</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>88</Meta_score>
+		<Director>Ron Clements</Director>
+		<Star1>John Musker</Star1>
+		<Star2>Jodi Benson</Star2>
+		<Star3>Samuel E. Wright</Star3>
+		<Star4>Rene Auberjonois</Star4>
+		<No_of_Votes>237696</No_of_Votes>
+		<Gross>111543479</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Family</Genre>
+			<Genre>Fantasy</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Naked Gun: From the Files of Police Squad!</Series_Title>
+		<Released_Year>1988</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>85</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>David Zucker</Director>
+		<Star1>Leslie Nielsen</Star1>
+		<Star2>Priscilla Presley</Star2>
+		<Star3>O.J. Simpson</Star3>
+		<Star4>Ricardo Montalban</Star4>
+		<No_of_Votes>152871</No_of_Votes>
+		<Gross>78756177</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Planes, Trains &amp; Automobiles</Series_Title>
+		<Released_Year>1987</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>93</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>72</Meta_score>
+		<Director>John Hughes</Director>
+		<Star1>Steve Martin</Star1>
+		<Star2>John Candy</Star2>
+		<Star3>Laila Robins</Star3>
+		<Star4>Michael McKean</Star4>
+		<No_of_Votes>124773</No_of_Votes>
+		<Gross>49530280</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Lethal Weapon</Series_Title>
+		<Released_Year>1987</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>109</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>Richard Donner</Director>
+		<Star1>Mel Gibson</Star1>
+		<Star2>Danny Glover</Star2>
+		<Star3>Gary Busey</Star3>
+		<Star4>Mitchell Ryan</Star4>
+		<No_of_Votes>236894</No_of_Votes>
+		<Gross>65207127</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Blood Simple</Series_Title>
+		<Released_Year>1984</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>99</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>82</Meta_score>
+		<Director>Joel Coen</Director>
+		<Star1>Ethan Coen</Star1>
+		<Star2>John Getz</Star2>
+		<Star3>Frances McDormand</Star3>
+		<Star4>Dan Hedaya</Star4>
+		<No_of_Votes>87745</No_of_Votes>
+		<Gross>2150000</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>On Golden Pond</Series_Title>
+		<Released_Year>1981</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>109</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>68</Meta_score>
+		<Director>Mark Rydell</Director>
+		<Star1>Katharine Hepburn</Star1>
+		<Star2>Henry Fonda</Star2>
+		<Star3>Jane Fonda</Star3>
+		<Star4>Doug McKeon</Star4>
+		<No_of_Votes>27650</No_of_Votes>
+		<Gross>119285432</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Mad Max 2</Series_Title>
+		<Released_Year>1981</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>96</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>77</Meta_score>
+		<Director>George Miller</Director>
+		<Star1>Mel Gibson</Star1>
+		<Star2>Bruce Spence</Star2>
+		<Star3>Michael Preston</Star3>
+		<Star4>Max Phipps</Star4>
+		<No_of_Votes>166588</No_of_Votes>
+		<Gross>12465371</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Warriors</Series_Title>
+		<Released_Year>1979</Released_Year>
+		<Certificate>UA</Certificate>
+		<Runtime>92</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>65</Meta_score>
+		<Director>Walter Hill</Director>
+		<Star1>Michael Beck</Star1>
+		<Star2>James Remar</Star2>
+		<Star3>Dorsey Wright</Star3>
+		<Star4>Brian Tyler</Star4>
+		<No_of_Votes>93878</No_of_Votes>
+		<Gross>22490039</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Muppet Movie</Series_Title>
+		<Released_Year>1979</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>95</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>74</Meta_score>
+		<Director>James Frawley</Director>
+		<Star1>Jim Henson</Star1>
+		<Star2>Frank Oz</Star2>
+		<Star3>Jerry Nelson</Star3>
+		<Star4>Richard Hunt</Star4>
+		<No_of_Votes>32802</No_of_Votes>
+		<Gross>76657000</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Escape from Alcatraz</Series_Title>
+		<Released_Year>1979</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>112</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Don Siegel</Director>
+		<Star1>Clint Eastwood</Star1>
+		<Star2>Patrick McGoohan</Star2>
+		<Star3>Roberts Blossom</Star3>
+		<Star4>Jack Thibeau</Star4>
+		<No_of_Votes>121731</No_of_Votes>
+		<Gross>43000000</Gross>
+		<Genres>
+			<Genre>Action</Genre>
+			<Genre>Biography</Genre>
+			<Genre>Crime</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Watership Down</Series_Title>
+		<Released_Year>1978</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>91</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>64</Meta_score>
+		<Director>Martin Rosen</Director>
+		<Star1>John Hubley</Star1>
+		<Star2>John Hurt</Star2>
+		<Star3>Richard Briers</Star3>
+		<Star4>Ralph Richardson</Star4>
+		<No_of_Votes>33656</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Midnight Express</Series_Title>
+		<Released_Year>1978</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>121</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>59</Meta_score>
+		<Director>Alan Parker</Director>
+		<Star1>Brad Davis</Star1>
+		<Star2>Irene Miracle</Star2>
+		<Star3>Bo Hopkins</Star3>
+		<Star4>Paolo Bonacelli</Star4>
+		<No_of_Votes>73662</No_of_Votes>
+		<Gross>35000000</Gross>
+		<Genres>
+			<Genre>Biography</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Close Encounters of the Third Kind</Series_Title>
+		<Released_Year>1977</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>138</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>90</Meta_score>
+		<Director>Steven Spielberg</Director>
+		<Star1>Richard Dreyfuss</Star1>
+		<Star2>François Truffaut</Star2>
+		<Star3>Teri Garr</Star3>
+		<Star4>Melinda Dillon</Star4>
+		<No_of_Votes>184966</No_of_Votes>
+		<Gross>132088635</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Sci-Fi</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Long Goodbye</Series_Title>
+		<Released_Year>1973</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>112</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>87</Meta_score>
+		<Director>Robert Altman</Director>
+		<Star1>Elliott Gould</Star1>
+		<Star2>Nina van Pallandt</Star2>
+		<Star3>Sterling Hayden</Star3>
+		<Star4>Mark Rydell</Star4>
+		<No_of_Votes>26337</No_of_Votes>
+		<Gross>959000</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Crime</Genre>
+			<Genre>Drama</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Giù la testa</Series_Title>
+		<Released_Year>1971</Released_Year>
+		<Certificate>PG</Certificate>
+		<Runtime>157</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>77</Meta_score>
+		<Director>Sergio Leone</Director>
+		<Star1>Rod Steiger</Star1>
+		<Star2>James Coburn</Star2>
+		<Star3>Romolo Valli</Star3>
+		<Star4>Maria Monti</Star4>
+		<No_of_Votes>30144</No_of_Votes>
+		<Gross>696690</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>War</Genre>
+			<Genre>Western</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Kelly's Heroes</Series_Title>
+		<Released_Year>1970</Released_Year>
+		<Certificate>GP</Certificate>
+		<Runtime>144</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>50</Meta_score>
+		<Director>Brian G. Hutton</Director>
+		<Star1>Clint Eastwood</Star1>
+		<Star2>Telly Savalas</Star2>
+		<Star3>Don Rickles</Star3>
+		<Star4>Carroll O'Connor</Star4>
+		<No_of_Votes>45338</No_of_Votes>
+		<Gross>1378435</Gross>
+		<Genres>
+			<Genre>Adventure</Genre>
+			<Genre>Comedy</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The Jungle Book</Series_Title>
+		<Released_Year>1967</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>78</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>65</Meta_score>
+		<Director>Wolfgang Reitherman</Director>
+		<Star1>Phil Harris</Star1>
+		<Star2>Sebastian Cabot</Star2>
+		<Star3>Louis Prima</Star3>
+		<Star4>Bruce Reitherman</Star4>
+		<No_of_Votes>166409</No_of_Votes>
+		<Gross>141843612</Gross>
+		<Genres>
+			<Genre>Animation</Genre>
+			<Genre>Adventure</Genre>
+			<Genre>Family</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Blowup</Series_Title>
+		<Released_Year>1966</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>111</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>82</Meta_score>
+		<Director>Michelangelo Antonioni</Director>
+		<Star1>David Hemmings</Star1>
+		<Star2>Vanessa Redgrave</Star2>
+		<Star3>Sarah Miles</Star3>
+		<Star4>John Castle</Star4>
+		<No_of_Votes>56513</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>A Hard Day's Night</Series_Title>
+		<Released_Year>1964</Released_Year>
+		<Certificate>U</Certificate>
+		<Runtime>87</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>96</Meta_score>
+		<Director>Richard Lester</Director>
+		<Star1>John Lennon</Star1>
+		<Star2>Paul McCartney</Star2>
+		<Star3>George Harrison</Star3>
+		<Star4>Ringo Starr</Star4>
+		<No_of_Votes>40351</No_of_Votes>
+		<Gross>13780024</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Music</Genre>
+			<Genre>Musical</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Breakfast at Tiffany's</Series_Title>
+		<Released_Year>1961</Released_Year>
+		<Certificate>A</Certificate>
+		<Runtime>115</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>76</Meta_score>
+		<Director>Blake Edwards</Director>
+		<Star1>Audrey Hepburn</Star1>
+		<Star2>George Peppard</Star2>
+		<Star3>Patricia Neal</Star3>
+		<Star4>Buddy Ebsen</Star4>
+		<No_of_Votes>166544</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Comedy</Genre>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Giant</Series_Title>
+		<Released_Year>1956</Released_Year>
+		<Certificate>G</Certificate>
+		<Runtime>201</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>84</Meta_score>
+		<Director>George Stevens</Director>
+		<Star1>Elizabeth Taylor</Star1>
+		<Star2>Rock Hudson</Star2>
+		<Star3>James Dean</Star3>
+		<Star4>Carroll Baker</Star4>
+		<No_of_Votes>34075</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Western</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>From Here to Eternity</Series_Title>
+		<Released_Year>1953</Released_Year>
+		<Certificate>Passed</Certificate>
+		<Runtime>118</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>85</Meta_score>
+		<Director>Fred Zinnemann</Director>
+		<Star1>Burt Lancaster</Star1>
+		<Star2>Montgomery Clift</Star2>
+		<Star3>Deborah Kerr</Star3>
+		<Star4>Donna Reed</Star4>
+		<No_of_Votes>43374</No_of_Votes>
+		<Gross>30500000</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>Romance</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>Lifeboat</Series_Title>
+		<Released_Year>1944</Released_Year>
+		<Certificate />
+		<Runtime>97</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>78</Meta_score>
+		<Director>Alfred Hitchcock</Director>
+		<Star1>Tallulah Bankhead</Star1>
+		<Star2>John Hodiak</Star2>
+		<Star3>Walter Slezak</Star3>
+		<Star4>William Bendix</Star4>
+		<No_of_Votes>26471</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Drama</Genre>
+			<Genre>War</Genre>
+		</Genres>
+	</Movie>
+	<Movie>
+		<Series_Title>The 39 Steps</Series_Title>
+		<Released_Year>1935</Released_Year>
+		<Certificate />
+		<Runtime>86</Runtime>
+		<IMDB_Rating>7.6</IMDB_Rating>
+		<Meta_score>93</Meta_score>
+		<Director>Alfred Hitchcock</Director>
+		<Star1>Robert Donat</Star1>
+		<Star2>Madeleine Carroll</Star2>
+		<Star3>Lucie Mannheim</Star3>
+		<Star4>Godfrey Tearle</Star4>
+		<No_of_Votes>51853</No_of_Votes>
+		<Gross>68034750.87</Gross>
+		<Genres>
+			<Genre>Crime</Genre>
+			<Genre>Mystery</Genre>
+			<Genre>Thriller</Genre>
+		</Genres>
+	</Movie>
+</Movies>

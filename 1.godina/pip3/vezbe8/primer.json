@@ -1,0 +1,12 @@
+{
+    "name": "Pera",
+    "age": 22,
+    "cars": [
+        "Jugo",
+        "Kec"
+    ],
+    "parent": {
+        "name": "Mika",
+        "age": 5000
+    }
+}
